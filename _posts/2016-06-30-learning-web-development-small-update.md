@@ -13,7 +13,7 @@ While I’ll never be an engineer working with any of the infrastructure-oriente
 
 Trade-offs for simplicity. Good to know, will keep in mind. Applicable now? Kind of. Web applications don’t have to live on traditional servers managed by neo-telecom managed hosting providers. Push a repo to a container with common-configurations, for free, then pay when you’d like to go ‘live’ with your own domain or use more resources. Something like that. I’ve done it once as part of a rails tutorial, and while not quite so straightforward as dropping a folder of files into a public_html folder on a managed hosting account via FTP, it’s not scary.
 
-## Progress Report
+### Progress Report
 
 Since April 2015 I’ve learned language fundamentals (CSS, JS, Ruby), toyed with libraries (Sass, jQuery), and scratched the surface of Node and Rails. Only recently realized that video tutorials are SO much better than books are.
 After visiting a Javascript coding boot camp in NYC, it seemed continued self-learning through projects was the way to go.

@@ -17,9 +17,13 @@ github_username:  mvellandi
 # Build settings
 markdown: kramdown
 permalink: /:title/ # optionally, we can build the style ourself, e.g. /:title/
-keep_files: ["wp-content"]
-exclude: ["wp-content"]
-paginate: 20
+keep_files: [wp-content]
+exclude: [wp-content]
+# paginate: 20
+# paginate_path: "/journal/page:num/"
+
+# Plugins
+gems: [jekyll-paginate]
 
 # Default settings
 defaults:

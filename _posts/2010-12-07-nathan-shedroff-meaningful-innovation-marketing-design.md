@@ -25,7 +25,7 @@ Meaning is the deepest connection you can make with a customer/user/audience. It
 
 Experience is an inherent element of a design&#8217;s outcome, whether planned, intended, or not. And it&#8217;s usually difficult for many people to grasp because of its intangibility. [My thoughts: Especially business people that don&#8217;t consider psychological and human factors in product development because of an assumption that the explicit value proposition spiced up with personally-appealing aesthetic features is what will sell.]
 
-<img title="experience design attributes by nathan shedroff" src="../wp-content/uploads/2010/12/experience-design-attributes-nathan-shedroff.jpg" alt="elements of user experience design" width="502" height="450" />
+<img title="experience design attributes by nathan shedroff" src="../images/wp-content/uploads/2010/12/experience-design-attributes-nathan-shedroff.jpg" alt="elements of user experience design" width="502" height="450" />
 
 So when we look at the &#8220;Significance&#8221; category, we&#8217;ll see the following five attributes in order of importance to the individual: Meaning, Status/Identity, Emotion/Lifestyle, Price, and Function.
 

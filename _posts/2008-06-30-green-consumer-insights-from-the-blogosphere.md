@@ -54,7 +54,7 @@ In this presentation, Janet and Averill discuss some basic findings from a recen
 
 4 ) Umbria identified 9 consumer profiles around sustainability; placed them on a grid with the x-axis measuring disagreement to agreement, and y-axis measuring inaction to action; and their percentage changes between 2007-2008. They include: Apathetic, Negator, Skeptic, Rejector, Uncertain, Idler, Shifter, Guilty, and Activist.
 
-<a href="../wp-content/uploads/2008/06/umbria-sustainablepersonas.jpg"><img class="alignnone size-full wp-image-210 aligncenter" title="umbria-sustainablepersonas" src="../wp-content/uploads/2008/06/umbria-sustainablepersonas.jpg" alt="umbria consumer profile personas nine grid" width="500" height="329" /></a>
+<a href="../images/wp-content/uploads/2008/06/umbria-sustainablepersonas.jpg"><img class="alignnone size-full wp-image-210 aligncenter" title="umbria-sustainablepersonas" src="../images/wp-content/uploads/2008/06/umbria-sustainablepersonas.jpg" alt="umbria consumer profile personas nine grid" width="500" height="329" /></a>
 
 Between 2007-2008, the percentage of Negators and Uncertains decreased, while Shifters, Idlers, and Guilties increased. Profiles are further explained in the slide presentation (see Additional Learning).
 

@@ -20,4 +20,4 @@ Great learning reference for user experience design, primarily for online intera
 
 [20 User Experience Deliverables and Resources](http://semanticstudios.com/publications/semantics/000228.php)
 
-[<img src="../wp-content/uploads/2011/03/user-experience-design-process-deliverables.jpg" />](http://semanticstudios.com/publications/semantics/000228.php)
+[<img src="../images/wp-content/uploads/2011/03/user-experience-design-process-deliverables.jpg" />](http://semanticstudios.com/publications/semantics/000228.php)

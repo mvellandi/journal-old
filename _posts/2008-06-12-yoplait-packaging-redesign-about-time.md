@@ -31,7 +31,7 @@ So, I noticed after opening a box of Yoplait yogurt I purchased at Costco that t
 
 Here&#8217;s how the redesign looks:
 
-<img class="aligncenter size-full wp-image-200" title="yoplait yogurt packaging design blueberry container" src="../wp-content/uploads/2008/06/yoplaitpackaging.jpg" alt="general mills yoplait container with curved redesign " width="500" height="270" />
+<img class="aligncenter size-full wp-image-200" title="yoplait yogurt packaging design blueberry container" src="../images/wp-content/uploads/2008/06/yoplaitpackaging.jpg" alt="general mills yoplait container with curved redesign " width="500" height="270" />
 
 ### Branding
 

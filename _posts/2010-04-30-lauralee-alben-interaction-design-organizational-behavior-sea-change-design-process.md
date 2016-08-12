@@ -11,7 +11,7 @@ tags:
   - interaction design
   - process
 ---
-<img class="alignleft size-full wp-image-4161" style="margin-right: 15px;" title="innovator-lauraleeAlben" src="../wp-content/uploads/2010/04/innovator-lauraleeAlben.jpg" alt="lauralee alben" width="258" height="205" />s*Interview with:*  
+<img class="alignleft size-full wp-image-4161" style="margin-right: 15px;" title="innovator-lauraleeAlben" src="../images/wp-content/uploads/2010/04/innovator-lauraleeAlben.jpg" alt="lauralee alben" width="258" height="205" />s*Interview with:*  
 Lauralee Alben, President of [Alben Design LLC](http://www.albendesign.com/)  
 _June 2009_
 

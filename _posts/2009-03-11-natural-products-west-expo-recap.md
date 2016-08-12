@@ -18,7 +18,7 @@ tags:
   - typography
   - visual design
 ---
-<img class="alignleft size-full wp-image-1950" style="margin:5px 20px 10px 0; float: left;" title="natural products expo west" src="../wp-content/uploads/2009/03/natural-products-expo.jpg" alt="natural-products-expo" width="101" height="100" />Last Weekend I attended a huge multi-category trade show for healthy and natural consumer products including food/beverage, personal care and beauty, household cleaning, supplements, and ingredient and equipment suppliers. It was a really fun time seeing all the various exhibitors from big brands like Burt&#8217;s Bees to smaller regional manufacturers.
+<img class="alignleft size-full wp-image-1950" style="margin:5px 20px 10px 0; float: left;" title="natural products expo west" src="../images/wp-content/uploads/2009/03/natural-products-expo.jpg" alt="natural-products-expo" width="101" height="100" />Last Weekend I attended a huge multi-category trade show for healthy and natural consumer products including food/beverage, personal care and beauty, household cleaning, supplements, and ingredient and equipment suppliers. It was a really fun time seeing all the various exhibitors from big brands like Burt&#8217;s Bees to smaller regional manufacturers.
 
 My intent in walking the show was to scout interesting new products for a business partner who couldn&#8217;t attend, and identify any potential importers whom I could assist in lowering their ocean shipping costs (my second job).
 

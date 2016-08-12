@@ -10,4 +10,4 @@ description:
 categories:
   - intermezzo
 ---
-<img class="size-full wp-image-198 aligncenter" title="note to readers" src="../wp-content/uploads/2008/06/notetoreader.jpg" alt="special note for my readers and a new address" width="500" height="342" />
+<img class="size-full wp-image-198 aligncenter" title="note to readers" src="../images/wp-content/uploads/2008/06/notetoreader.jpg" alt="special note for my readers and a new address" width="500" height="342" />

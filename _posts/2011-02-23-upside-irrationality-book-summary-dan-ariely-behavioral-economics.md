@@ -12,7 +12,7 @@ tags:
   - dan ariely
   - psychology
 ---
-<img src="../wp-content/uploads/2011/01/upside-irrationality-dan-ariely-book.jpg" alt="the Upside of Irrationality, book by Dan Ariely" width="130" height="194" />Another great book I&#8217;ve listened to on a road trip from Los Angeles to Phoenix was Dan Ariely&#8217;s &#8220;[The Upside of Irrationality](http://www.amazon.com/gp/product/0061995037?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061995037)&#8220;. Dealing with behavioral economics, Dan talks about a variety of subjects which I summarized from the individual book chapters, along with direct quotations. As usual, this summary can&#8217;t give you the stories and context behind the notes provided below, so I do recommend reading the book if you&#8217;d like to learn more 🙂
+<img src="../images/wp-content/uploads/2011/01/upside-irrationality-dan-ariely-book.jpg" alt="the Upside of Irrationality, book by Dan Ariely" width="130" height="194" />Another great book I&#8217;ve listened to on a road trip from Los Angeles to Phoenix was Dan Ariely&#8217;s &#8220;[The Upside of Irrationality](http://www.amazon.com/gp/product/0061995037?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061995037)&#8220;. Dealing with behavioral economics, Dan talks about a variety of subjects which I summarized from the individual book chapters, along with direct quotations. As usual, this summary can&#8217;t give you the stories and context behind the notes provided below, so I do recommend reading the book if you&#8217;d like to learn more 🙂
 
 ### How Paying People a Lot More, Results in Less
 

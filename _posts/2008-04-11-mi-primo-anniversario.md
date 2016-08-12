@@ -6,7 +6,7 @@ layout: post
 categories:
   - intermezzo
 ---
-<img class="size-full wp-image-195" src="../wp-content/uploads/2008/04/music-notes.jpg" alt="music notes" />
+<img class="size-full wp-image-195" src="../images/wp-content/uploads/2008/04/music-notes.jpg" alt="music notes" />
 
 Just a little over a year ago, on April 4th, I began writing this blog.
 

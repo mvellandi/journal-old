@@ -19,7 +19,7 @@ tags:
 ---
 Neat content marketing campaign around the upcoming release of the BMWi and ActiveE cars, by filming a four-part video series around the future of mobility, through interviews on the website.
 
-[<img src="../wp-content/uploads/2011/03/bmw-activate-the-future-video-content-marketing.jpg" />](http://bmwactivatethefuture.com/)
+[<img src="../images/wp-content/uploads/2011/03/bmw-activate-the-future-video-content-marketing.jpg" />](http://bmwactivatethefuture.com/)
 
 In their own words,
 

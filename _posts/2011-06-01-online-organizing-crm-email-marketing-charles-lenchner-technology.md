@@ -11,7 +11,7 @@ tags:
   - crm
   - data
 ---
-<img class="alignleft size-full wp-image-6717" style="margin: 0 20px 15px 0;" title="Charles Lenchner teaching a class for Trade School, OurGoods in NYC" src="../wp-content/uploads/2011/04/charles-lenchner-online-organizing-marketing.jpg" alt="Charles Lenchner online organizing marketing school" width="263" height="201" />A couple months ago, I attended a short class on advocacy marketing and community management, led by Charles Lenchner of [Organizing 2.0](http://www.organizing20.org/).
+<img class="alignleft size-full wp-image-6717" style="margin: 0 20px 15px 0;" title="Charles Lenchner teaching a class for Trade School, OurGoods in NYC" src="../images/wp-content/uploads/2011/04/charles-lenchner-online-organizing-marketing.jpg" alt="Charles Lenchner online organizing marketing school" width="263" height="201" />A couple months ago, I attended a short class on advocacy marketing and community management, led by Charles Lenchner of [Organizing 2.0](http://www.organizing20.org/).
 
 One of his points was that there was no such thing as &#8220;_online organizing_&#8220;. Similar to what Justin Isaf had said [in an interview on communities](../community-management-digital-marketing-justin-isaf-people-engagement/), one can only communicate with and guide people to take action.
 

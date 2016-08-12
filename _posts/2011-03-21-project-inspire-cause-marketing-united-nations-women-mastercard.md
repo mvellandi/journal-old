@@ -13,7 +13,7 @@ tags:
   - united nations
   - women
 ---
-[<img src="../wp-content/uploads/2011/03/project-inspire-united-nations-women-mastercard-cause-campaign.jpg" />](http://5minutestochangetheworld.org)
+[<img src="../images/wp-content/uploads/2011/03/project-inspire-united-nations-women-mastercard-cause-campaign.jpg" />](http://5minutestochangetheworld.org)
 
 This [cause campaign from United Nations Women and MasterCard](http://5minutestochangetheworld.org/) is a contest for $25k where entrants submit a 5-minute video or 2-page pitch to help empower disadvantaged women or girls.
 

@@ -15,7 +15,7 @@ tags:
   - product development
   - project management
 ---
-<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../wp-content/uploads/2008/03/npd-development.jpg" alt="develop new products" />Was emptying my paper tray and came across a page of notes I&#8217;d taken for a client&#8217;s web copy, regarding what the Development phase in NPD is all about. I have to laugh when I think about it though, because the very nature of creativity is such that we like to think of it best expressed as boundless force. And yet the law of restraints, considerations, and best practices come into place based on the unique aspects of the objective, the application, the artwork, the craft being performed.
+<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../images/wp-content/uploads/2008/03/npd-development.jpg" alt="develop new products" />Was emptying my paper tray and came across a page of notes I&#8217;d taken for a client&#8217;s web copy, regarding what the Development phase in NPD is all about. I have to laugh when I think about it though, because the very nature of creativity is such that we like to think of it best expressed as boundless force. And yet the law of restraints, considerations, and best practices come into place based on the unique aspects of the objective, the application, the artwork, the craft being performed.
 
 The influencers to this stage are the marketing plan, [business case](../building-the-business-case-plan/ "Building the Business Case and Plan"), and [design strategy](../new-product-design-strategy/ "New Product Design Strategy").
 

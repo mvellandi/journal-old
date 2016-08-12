@@ -17,7 +17,7 @@ tags:
   - learning
   - lightness
 ---
-<img class="size-full wp-image-3990 alignleft" title="in-the-bubble-sustainable-design" src="../wp-content/uploads/2009/12/in-the-bubble-sustainable-design.jpg" alt="in the bubble, book on sustainable design by john thackara" hspace="15" vspace="10" width="125" height="187" />
+<img class="size-full wp-image-3990 alignleft" title="in-the-bubble-sustainable-design" src="../images/wp-content/uploads/2009/12/in-the-bubble-sustainable-design.jpg" alt="in the bubble, book on sustainable design by john thackara" hspace="15" vspace="10" width="125" height="187" />
 
 Earlier this year I bought myself a copy of John Thackara&#8217;s &#8220;[In the Bubble: Designing in a Complex World](http://www.amazon.com/gp/product/0262701154?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0262701154)&#8220;, to get a glimpse of what this designer/futurist had to say about sustainability and society. While published in 2005, the content didn&#8217;t seem a bit dated as some business and trend books usually do. In many regards, I&#8217;d compare the book to &#8220;[Natural Capitalism](http://www.amazon.com/gp/product/0316353000?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0316353000)&#8221; for its contributions of highlighting social/environmental issues and solutions. But what Thackara also does is mix in storytelling, history, trends, potential future scenarios, philosophy, and criticism in such a manner that gives the reader a circular view of what&#8217;s going on, without placing heavy emphasis on normative ideas.
 

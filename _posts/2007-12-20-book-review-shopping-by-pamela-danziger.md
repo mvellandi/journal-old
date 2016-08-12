@@ -15,7 +15,7 @@ tags:
   - retail
   - shopping
 ---
-<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../wp-content/uploads/2008/03/book-shopping.jpg" alt="shopping book cover" />Pam is one devoted marketer; passionate about the art of retailing and understanding the consumer.
+<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../images/wp-content/uploads/2008/03/book-shopping.jpg" alt="shopping book cover" />Pam is one devoted marketer; passionate about the art of retailing and understanding the consumer.
 
 [Shopping gives pleasure](http://www.amazon.com/gp/product/1419536362?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1419536362). We live now in an age of abundance, affordability, and availability of product categories across various types of retail establishments. While price and a wide selection of merchandise are important to shoppers, the total shopping experience influences people to buy, makes people want to enthusiastically return, and tell their friends.
 

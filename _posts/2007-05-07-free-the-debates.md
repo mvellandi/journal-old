@@ -6,7 +6,7 @@ layout: post
 categories:
   - marketing
 ---
-<img src="../wp-content/uploads/2008/03/laptoplock.jpg" />
+<img src="../images/wp-content/uploads/2008/03/laptoplock.jpg" />
 
 I first picked up this great story Thursday evening from NPR&#8217;s _All Things Considered_, titled &#8220;<a title="href=">Networks Control of Debates Rankles Pundits</a>&#8220;, by Laura Sydell. Listen to the story &#8211; it&#8217;s an interesting 4 minutes.
 

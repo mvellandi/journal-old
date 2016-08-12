@@ -18,7 +18,7 @@ tags:
   - green marketing
   - transparency
 ---
-<img style="margin:5px 20px 5px 0; float: left;" title="sustainable brand mock logo" src="../wp-content/uploads/2008/07/sustainable_brand.jpg" alt="sustainable brand mock logo" width="369" height="259" />Lewis Green asked the following question to his readers in this post:
+<img style="margin:5px 20px 5px 0; float: left;" title="sustainable brand mock logo" src="../images/wp-content/uploads/2008/07/sustainable_brand.jpg" alt="sustainable brand mock logo" width="369" height="259" />Lewis Green asked the following question to his readers in this post:
 
 **Sustainability is Hot! Are you? What does it mean to have a Sustainable Brand and/or be a green company? Do today&#8217;s businesses, some of whom are rushing to be labeled green, get it? Is authenticity key or can a company use marketing to get consumers to see they are green?**
 

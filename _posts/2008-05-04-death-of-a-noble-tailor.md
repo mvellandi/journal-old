@@ -18,7 +18,7 @@ tags:
   - sustainability
   - sustainable fashion
 ---
-<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../wp-content/uploads/2008/05/nau1.jpg" alt="nau1" width="325" height="353" />Last Friday brought the premature death to the well regarded life of [Nau](http://www.nau.com/ "Nau clothing company"), a clothing company.
+<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../images/wp-content/uploads/2008/05/nau1.jpg" alt="nau1" width="325" height="353" />Last Friday brought the premature death to the well regarded life of [Nau](http://www.nau.com/ "Nau clothing company"), a clothing company.
 
 Nau made fashionable clothing from sustainable & eco-friendly materials, and exclusively distributed them online and through retail stores in various U.S. cities. Their ethos resonated corporate social responsibility.
 

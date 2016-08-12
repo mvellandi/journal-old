@@ -18,7 +18,7 @@ tags:
   - hp
   - lunar design
 ---
-<img src="../wp-content/uploads/2009/04/axe-hatchet.jpg" alt="" width="500" height="359" /></a>
+<img src="../images/wp-content/uploads/2009/04/axe-hatchet.jpg" alt="" width="500" height="359" /></a>
 
 Reductionism is both a classic technique for placing greater user focus on select elements of an object/process, and for lean & sustainable product development. One major design proponent of reductionism is <a rel="nofollow" href="http://en.wikipedia.org/wiki/John_Maeda">John Maeda</a>, dean of <a rel="nofollow" href="http://www.risd.edu/">Rhode Island School of Design (RISD</a>) &#8211; Although not explicitly related to sustainability, I do recommend you <a rel="nofollow" href="http://lawsofsimplicity.com/">check out some of his writings</a>. So after reading a recent post by Scot Herbst of <a rel="nofollow" href="http://www.lunar.com">Lunar Design</a>, titled [Conservation is not done with the pen…it’s done with an axe](http://iconocast.typepad.com/iconocast/2009/04/conservation-is-not-done-with-the-penits-done-with-an-axe.html), I got to thinking how valuable this valuable philosophy and approach is. It encompasses what [Wendy Jedlicka talked about in her recent interview with GreenBiz](../sustainable-packaging-design-wendy-jedlicka-retail/).
 

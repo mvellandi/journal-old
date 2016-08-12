@@ -15,7 +15,7 @@ tags:
   - psychology
   - sociology
 ---
-[<img class="alignleft size-full wp-image-5633" style="margin-right: 20px; margin-bottom: 10px;" title="behavioral-economics-predictably-irrational" src="../wp-content/uploads/2011/01/behavioral-economics-predictably-irrational.jpg" alt="dan ariely's predictably irrational book on behavioral economics" width="160" height="240" />](http://www.amazon.com/gp/product/0061353248?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061353248)Awesome book I read early last year on behavioral economics, which [according to Wikipedia](http://en.wikipedia.org/wiki/Behavioral_economics)
+[<img class="alignleft size-full wp-image-5633" style="margin-right: 20px; margin-bottom: 10px;" title="behavioral-economics-predictably-irrational" src="../images/wp-content/uploads/2011/01/behavioral-economics-predictably-irrational.jpg" alt="dan ariely's predictably irrational book on behavioral economics" width="160" height="240" />](http://www.amazon.com/gp/product/0061353248?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061353248)Awesome book I read early last year on behavioral economics, which [according to Wikipedia](http://en.wikipedia.org/wiki/Behavioral_economics)
 
 *&#8220;&#8230;use social, cognitive and emotional factors in understanding the economic decisions of individuals and institutions performing economic functions, including consumers, borrowers and investors, and their effects on market prices, returns and the resource allocation. The fields are primarily concerned with the bounds of rationality (selfishness, self-control) of economic agents. Behavioral models typically integrate insights from psychology with neo-classical economic theory.&#8221;*
 

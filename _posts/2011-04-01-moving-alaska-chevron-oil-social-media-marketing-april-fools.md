@@ -10,7 +10,7 @@ categories:
 tags:
   - april fools
 ---
-<img src="../wp-content/uploads/2011/04/pipeline-alaksa.jpg" />
+<img src="../images/wp-content/uploads/2011/04/pipeline-alaksa.jpg" />
 
 Yeah Right! 😀
 

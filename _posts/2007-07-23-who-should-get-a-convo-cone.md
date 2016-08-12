@@ -8,7 +8,7 @@ categories:
 tags:
   - age of conversation
 ---
-<img src="../wp-content/uploads/2008/03/aoc-cone.jpg" />In the spirit of community giving, I&#8217;d like to send 3 copies of the book to CMOs on our behalf. But who should I pick? I can&#8217;t deny any requests since this is from us&#8230;so make it good.
+<img src="../images/wp-content/uploads/2008/03/aoc-cone.jpg" />In the spirit of community giving, I&#8217;d like to send 3 copies of the book to CMOs on our behalf. But who should I pick? I can&#8217;t deny any requests since this is from us&#8230;so make it good.
 
 I&#8217;ll be the first&#8230;so I pick:
 

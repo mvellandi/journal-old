@@ -17,7 +17,7 @@ tags:
   - product design
   - reclamation
 ---
-<img src="../wp-content/uploads/2008/03/sustainableleaf.jpg" alt="visual metaphor for sustainable design" align="left" />Continuing on the [conversation I had yesterday](../design-strategy-conversation-with-dt/ "design strategy conversation with Brian Ling") with [DT](http://www.designsojourn.com "Design Sojourn blog") regarding design strategy, today we discuss Sustainability in design:
+<img src="../images/wp-content/uploads/2008/03/sustainableleaf.jpg" alt="visual metaphor for sustainable design" align="left" />Continuing on the [conversation I had yesterday](../design-strategy-conversation-with-dt/ "design strategy conversation with Brian Ling") with [DT](http://www.designsojourn.com "Design Sojourn blog") regarding design strategy, today we discuss Sustainability in design:
 
 Mario: After looking over the classic [design strategies](../new-product-design-strategy/ "article on product design strategies") previously covered, I noticed I hadn&#8217;t included Sustainability. Some folks and organizations think of sustainability as a side consideration. However, I believe it is an essential strategy that should be included in the mix. Apart from ecological advantages in manufacturing, product usage, and disposal, there are also potential cost, quality, and performance advantages among others.
 

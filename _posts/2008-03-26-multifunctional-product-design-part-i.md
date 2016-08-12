@@ -21,7 +21,7 @@ tags:
   - user profiling
   - value proposition
 ---
-<img style="margin:0 10px 0 0;" src="../wp-content/uploads/2008/03/design-hybridspoonclip.jpg" alt="spoon clip" align="left" />One thing I love about product design is the ability to combine separate objects into something new and practical. I like to stress that last adjective. The concept of novelty can be applied liberally, and usually implies a sense of amusement. However, the degree to which the novel product (or aspect thereof) is &#8216;useful&#8217; (in purpose and time-span), can be highly questionable depending on the end user profile, and our own qualitative value assessment.
+<img style="margin:0 10px 0 0;" src="../images/wp-content/uploads/2008/03/design-hybridspoonclip.jpg" alt="spoon clip" align="left" />One thing I love about product design is the ability to combine separate objects into something new and practical. I like to stress that last adjective. The concept of novelty can be applied liberally, and usually implies a sense of amusement. However, the degree to which the novel product (or aspect thereof) is &#8216;useful&#8217; (in purpose and time-span), can be highly questionable depending on the end user profile, and our own qualitative value assessment.
 
 ##### All of this analytical reasoning lead to the questions like:
 

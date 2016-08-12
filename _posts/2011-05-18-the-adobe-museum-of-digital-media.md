@@ -11,7 +11,7 @@ tags:
   - john maeda
   - museum
 ---
-[<img src="../wp-content/uploads/2011/04/adobe-digital-media-museum.jpg" />](http://www.adobemuseum.com/)
+[<img src="../images/wp-content/uploads/2011/04/adobe-digital-media-museum.jpg" />](http://www.adobemuseum.com/)
 
 The [Adobe Museum of Digital Media](http://www.adobemuseum.com/index.php) is a neat concept, although there are only two active exhibits: A presentation by John Maeda on digital media history, and Tony Oursler&#8217;s interactive abstract art on various subjects.
 

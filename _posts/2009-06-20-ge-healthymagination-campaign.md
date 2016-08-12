@@ -14,7 +14,7 @@ tags:
   - interactive media
   - microsite
 ---
-<img src="../wp-content/uploads/2009/06/ge-general-electric-healthymagination-campaign.jpg" alt="ge general electric healthymagination campaign" title="" class="aligncenter size-full wp-image-3182" />
+<img src="../images/wp-content/uploads/2009/06/ge-general-electric-healthymagination-campaign.jpg" alt="ge general electric healthymagination campaign" title="" class="aligncenter size-full wp-image-3182" />
 
 Neat [new campaign](http://www.healthymagination.com) by [General Electric](http://www.ge.com/) that showcases various videos on its activities in the health care space. What&#8217;s interesting is on slide [5/14 on the About Page](http://www.healthymagination.com/#/about), they have this to say:
 

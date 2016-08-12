@@ -47,7 +47,7 @@ They use the words _“Environmental and Social Impact”_ because it is more me
 
 There are fundamentally 3 arenas of participation:
 
-<img class="size-medium wp-image-265" title="designers accord intersecting areas" src="../wp-content/uploads/2008/08/circles-300x270.jpg" alt="the interrelationship between community, work, people, and places as seen from the Designers Accord perspective" width="300" height="270" />
+<img class="size-medium wp-image-265" title="designers accord intersecting areas" src="../images/wp-content/uploads/2008/08/circles-300x270.jpg" alt="the interrelationship between community, work, people, and places as seen from the Designers Accord perspective" width="300" height="270" />
 
 
 #### People & Places
@@ -62,7 +62,7 @@ In all their work, adopters should consider sustainable alternatives, social & e
 
 Involves sharing best practices for waste reduction, material sustainability knowledge, and methodologies with other members of the design community.
 
-<img class="alignnone size-full wp-image-266" title="party integration factors diagram for sustainable design" src="../wp-content/uploads/2008/08/spider.jpg" alt="a diagram of parties and areas that need to be integrated for sustainable design to happen. This, as seen from the Designers Accord perspective" width="500" height="320" />
+<img class="alignnone size-full wp-image-266" title="party integration factors diagram for sustainable design" src="../images/wp-content/uploads/2008/08/spider.jpg" alt="a diagram of parties and areas that need to be integrated for sustainable design to happen. This, as seen from the Designers Accord perspective" width="500" height="320" />
 
 Valerie describes the vision as follows:
 

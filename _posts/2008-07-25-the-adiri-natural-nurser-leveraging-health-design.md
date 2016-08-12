@@ -20,7 +20,7 @@ tags:
   - innovation
   - product development
 ---
-<img class="alignleft size-full wp-image-229" style="margin:5px 20px 5px 0; float: left;" title="adiri natural nurser baby bottle" src="../wp-content/uploads/2008/07/adiri.jpg" alt="the adiri natural nurser baby bottle" width="249" height="260" />
+<img class="alignleft size-full wp-image-229" style="margin:5px 20px 5px 0; float: left;" title="adiri natural nurser baby bottle" src="../images/wp-content/uploads/2008/07/adiri.jpg" alt="the adiri natural nurser baby bottle" width="249" height="260" />
 
 Where there is concern for personal health, and most importantly the health of infants and children, there is a market opportunity.
 

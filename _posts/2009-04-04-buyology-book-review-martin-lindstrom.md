@@ -23,7 +23,7 @@ tags:
   - religion
   - rituals
 ---
-<img class="wp-image-2503" title="happy shopper" src="../wp-content/uploads/2009/04/comm_1.jpg" alt="happy shopper" width="501" height="215" />
+<img class="wp-image-2503" title="happy shopper" src="../images/wp-content/uploads/2009/04/comm_1.jpg" alt="happy shopper" width="501" height="215" />
 
 What makes people buy? The question&#8217;s been so oft asked and answered by multitudes of marketers, designers, and behavioral scientists over decades that I&#8217;m quite sure we can skip the standard textbook answers from these three camps. In the last 4 years though, I&#8217;ve gotten a fairly good idea of factors at play in the retail store environment. This coming from sales and marketing experience for a few consumer product manufacturers, and having read some amazing books from Paco Underhill (&#8220;[Why We Buy](http://www.amazon.com/gp/product/1416595244?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1416595244)&#8220;), Kate Newlin (&#8220;[Shopportunity](http://www.amazon.com/gp/product/0060888407?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0060888407)&#8220;), and Pamela Danziger (&#8220;[Shopping](http://www.amazon.com/gp/product/1419536362?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1419536362)&#8220;).
 

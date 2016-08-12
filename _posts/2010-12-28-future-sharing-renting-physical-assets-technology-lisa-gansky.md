@@ -31,7 +31,7 @@ __Notes__
   * Opportunity: **Sharing/leasing platforms for high value, low-utilized physical assets**.
 
 
-<img title="physical asset value utilization map" src="../wp-content/uploads/2010/12/PhysicalAsset-ValueUtilization.jpg" />
+<img title="physical asset value utilization map" src="../images/wp-content/uploads/2010/12/PhysicalAsset-ValueUtilization.jpg" />
 
   * There&#8217;s a LOT of physical assets and experiences that people would like to participate in, yet cannot for financial and practical limitations. Look around for these resources that could be more efficiently & profitably shared using social networks. Then ask how might you reduce the burdens of ownership like financing, insurance, maintenance, storage, and disposal.
   * Non-ownership and commons mentality allows for greater asset utilization, financial opportunity (savings/revenue), social benefits, and less material produced, sitting idle, and in some cases sent to landfill.

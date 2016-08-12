@@ -22,7 +22,7 @@ tags:
   - style
   - tao
 ---
-<img class="alignleft" style="margin:5px 20px 10px 0; float: left;" src="../wp-content/uploads/2008/05/tao1.jpg" alt="tao yin yang style design" width="244" height="233" align="left" />Embrace polarity & celebrate duality.
+<img class="alignleft" style="margin:5px 20px 10px 0; float: left;" src="../images/wp-content/uploads/2008/05/tao1.jpg" alt="tao yin yang style design" width="244" height="233" align="left" />Embrace polarity & celebrate duality.
 
 Style is one element of product design. Its stimulation of the senses &#8211; visual, auditory, taste, olfactory, tactile &#8211; often makes it the most prominent feature. Its importance, however, is relative.
 

@@ -18,7 +18,7 @@ tags:
   - green innovation
   - sustainability
 ---
-<img class="aligncenter size-full wp-image-254" title="greenbottle" src="../wp-content/uploads/2008/08/greenbottle.jpg" alt="greenbottle milk packaging from UK" width="463" height="271" />
+<img class="aligncenter size-full wp-image-254" title="greenbottle" src="../images/wp-content/uploads/2008/08/greenbottle.jpg" alt="greenbottle milk packaging from UK" width="463" height="271" />
 
 This milk product packaging produced by [GreenBottle Ltd.](http://greenbottle.com/ "greenbottle recyclable compostable milk packaging United Kingdom"), has been introduced into an [ASDA supermarket](http://www.asda.co.uk/ "ASDA UK supermarket website") this week in Suffolk, United Kingdom. The outer packaging is made from white office waste paper, which can be recycled alongside magazines and newspapers. The inner bag is made from corn starch, and is biodegradable.
 

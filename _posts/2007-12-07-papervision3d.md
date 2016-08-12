@@ -15,6 +15,6 @@ tags:
   - multimedia
   - papervision3d
 ---
-<img src="../wp-content/uploads/2008/03/logo-papervision.jpg" alt="papervision3d logo" hspace="10" vspace="5" align="left" />Papervision3D is an open-source code library for creating some amazing 3D effects and applications in Flash. One can say developers and agencies are ecstatic about it, because it lowers production time and increases the loading and rendering speed.
+<img src="../images/wp-content/uploads/2008/03/logo-papervision.jpg" alt="papervision3d logo" hspace="10" vspace="5" align="left" />Papervision3D is an open-source code library for creating some amazing 3D effects and applications in Flash. One can say developers and agencies are ecstatic about it, because it lowers production time and increases the loading and rendering speed.
 
 Here are some examples: [all expired and gone away...]

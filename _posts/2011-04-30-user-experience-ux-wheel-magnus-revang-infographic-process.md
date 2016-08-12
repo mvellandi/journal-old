@@ -21,6 +21,6 @@ When I examined Magnus&#8217; detailed expansion of [Peter Morville&#8217;s UX H
 
 I modified his diagram to give proper credit to his work (in case you see this Magnus!)
 
-[<img src="../wp-content/uploads/2011/02/user-experience-wheel-magnus-revang.jpg" />](../wp-content/uploads/2011/02/user-experience-wheel-magnus-revang.jpg)
+[<img src="../images/wp-content/uploads/2011/02/user-experience-wheel-magnus-revang.jpg" />](../wp-content/uploads/2011/02/user-experience-wheel-magnus-revang.jpg)
 
 [Link to Original Post](http://userexperienceproject.blogspot.com/2007/04/user-experience-wheel.html)

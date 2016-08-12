@@ -16,7 +16,7 @@ tags:
   - npd
   - product development
 ---
-<img src="../wp-content/uploads/2008/03/npd-discovery.jpg" />
+<img src="../images/wp-content/uploads/2008/03/npd-discovery.jpg" />
 
 How do individuals and businesses develop new products and services?<br /> It all begins with a trip into the Ocean of Opportunity and charting the waters.
 

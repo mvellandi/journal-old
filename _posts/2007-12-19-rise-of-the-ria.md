@@ -16,7 +16,7 @@ tags:
   - ria
   - web development
 ---
-<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../wp-content/uploads/2008/03/ria.jpg" alt="rich internet application" />A [Rich Internet Application (RIA)](http://en.wikipedia.org/wiki/Rich_Internet_application "Wikipedia article on Rich Internet Applications") is designed to provide a user experience similar to how you use a program on your computer: seamless, integrated, and asynchronous. It can reside in a website and/or through a desktop application that connects to the web.
+<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../images/wp-content/uploads/2008/03/ria.jpg" alt="rich internet application" />A [Rich Internet Application (RIA)](http://en.wikipedia.org/wiki/Rich_Internet_application "Wikipedia article on Rich Internet Applications") is designed to provide a user experience similar to how you use a program on your computer: seamless, integrated, and asynchronous. It can reside in a website and/or through a desktop application that connects to the web.
 
 Adobe is leading the charge in creating the frameworks for developers to create RIAs. Flash is the well-known browser plugin that&#8217;s allowed us to experience some very interactive websites for a while now. About 6 years ago, they included features for working with webcams, microphones, and storing local data. A few years later came Flex, a platform for creating RIAs based on Flash technology. Earlier this year, Adobe released Apollo, a cross operating system runtime environment for RIAs on the desktop. It&#8217;s been renamed AIR, and is currently in beta until its official launch in Spring of 2008.
 

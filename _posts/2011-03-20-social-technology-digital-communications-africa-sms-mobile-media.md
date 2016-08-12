@@ -22,6 +22,6 @@ Erik Hersman, who [I&#8217;ve profiled here before with videos about Ushahidi](.
 
 **_click image to open video page_**
 
-<a href="http://vimeo.com/20309871"><img src="../wp-content/uploads/2011/03/erik-hersman-mobile-computing-africa.jpg" /></a>**
+<a href="http://vimeo.com/20309871"><img src="../images/wp-content/uploads/2011/03/erik-hersman-mobile-computing-africa.jpg" /></a>**
 
 [Video Link for Email/Other Subscribers &#8211; 33min](http://vimeo.com/20309871)

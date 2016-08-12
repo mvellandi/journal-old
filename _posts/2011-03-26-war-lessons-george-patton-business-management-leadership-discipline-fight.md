@@ -16,7 +16,7 @@ tags:
   - mediocrity
   - war
 ---
-[<img src="../wp-content/uploads/2011/03/george-patton-general-military-204x300.jpg" />](../wp-content/uploads/2011/03/george-patton-general-military.jpg)Not knowing much about U.S. General George Patton, except being a controversial figure, I decided to watch [the 1970 film about his service in World War II](http://www.imdb.com/title/tt0066206/), played by George C. Scott. Afterwards, I read the [Wikipedia article](http://en.wikipedia.org/wiki/George_Patton) which gave further details about his character and additional experiences during the war. An inspirational figure to say the least!
+[<img src="../images/wp-content/uploads/2011/03/george-patton-general-military-204x300.jpg" />](../wp-content/uploads/2011/03/george-patton-general-military.jpg)Not knowing much about U.S. General George Patton, except being a controversial figure, I decided to watch [the 1970 film about his service in World War II](http://www.imdb.com/title/tt0066206/), played by George C. Scott. Afterwards, I read the [Wikipedia article](http://en.wikipedia.org/wiki/George_Patton) which gave further details about his character and additional experiences during the war. An inspirational figure to say the least!
 
 Based on my passion for sustainability, objectivity, and a &#8220;middle path&#8221; in enterprise growth & effectiveness, allow me to relish in some greater perspective.
 

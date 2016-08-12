@@ -14,6 +14,6 @@ Well, now I&#8217;m on and available at this address:
 
 So who are the **17 Hippies**? One of my favorite bands, straight outta Berlin. Here&#8217;s a press release snapshot:
 
-<img src="../wp-content/uploads/2008/03/17hippies.jpg" />
+<img src="../images/wp-content/uploads/2008/03/17hippies.jpg" />
 
 They&#8217;re an eclectic mix of folk music, polka, brass and pop. The vocals are in German, French and English.

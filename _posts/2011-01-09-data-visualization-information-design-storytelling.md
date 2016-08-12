@@ -15,7 +15,7 @@ tags:
   - information
   - storytelling
 ---
-<img src="../wp-content/uploads/2011/01/oakland-crimespotting-infographic-data.jpg" />
+<img src="../images/wp-content/uploads/2011/01/oakland-crimespotting-infographic-data.jpg" />
 
 From Oakland Crimespotting
 

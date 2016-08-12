@@ -20,4 +20,4 @@ tags:
   - marketing
   - sustainability
 ---
-<img class="size-full wp-image-258 aligncenter" src="../wp-content/uploads/2008/05/futerra-greenwashing2.jpg" alt="10 signs of greenwashing infographic" width="510" height="565" />
+<img class="size-full wp-image-258 aligncenter" src="../images/wp-content/uploads/2008/05/futerra-greenwashing2.jpg" alt="10 signs of greenwashing infographic" width="510" height="565" />

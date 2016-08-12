@@ -13,7 +13,7 @@ categories:
 tags:
   - sociology
 ---
-<img class="alignleft" style="margin: 0pt 20px 5px 0pt; float: left;" src="../wp-content/uploads/2008/03/book-ghostmap.jpg" alt="ghost map book cover" />Sometimes a true story comes along that is suspenseful and gripping. Not for the facts, but for the manner in which the author has laid out the narrative combining the historical background, situation, characters, and long-term implications.
+<img class="alignleft" style="margin: 0pt 20px 5px 0pt; float: left;" src="../images/wp-content/uploads/2008/03/book-ghostmap.jpg" alt="ghost map book cover" />Sometimes a true story comes along that is suspenseful and gripping. Not for the facts, but for the manner in which the author has laid out the narrative combining the historical background, situation, characters, and long-term implications.
 
 While business, sociology, and design books have been the staple of my reading diet over the last year, it was a historical nonfiction book that captured my attention last weekend: [The Ghost Map by Steven Johnson](http://www.amazon.com/gp/product/1594482691?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1594482691).
 

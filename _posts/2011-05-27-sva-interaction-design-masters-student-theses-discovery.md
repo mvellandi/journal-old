@@ -13,7 +13,7 @@ tags:
   - mobile
   - student thesis
 ---
-[<img src="../wp-content/uploads/2011/05/open-ixd-interaction-design-festival-logo.jpg" />](http://interactiondesign.sva.edu/events/entry/open_ixd/)
+[<img src="../images/wp-content/uploads/2011/05/open-ixd-interaction-design-festival-logo.jpg" />](http://interactiondesign.sva.edu/events/entry/open_ixd/)
 
 So earlier this month, I attended the [MFA Interaction Design Festival](http://interactiondesign.sva.edu/events/entry/open_ixd/), which showcased Masters of Fine Arts student theses projects at the [School of Visual Arts in NYC](http://sva.edu). In all, I was taken away by the high amount of humanistic ideas put forward by the students. This post covers the first of four themes: __Discovery__.
 

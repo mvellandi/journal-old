@@ -21,6 +21,6 @@ tags:
 
 _**Click image to open video page**_
 
-<img src="../wp-content/uploads/2011/03/bill-verplank-interaction-design.jpg" />
+<img src="../images/wp-content/uploads/2011/03/bill-verplank-interaction-design.jpg" />
 
 [Video Link for Email/Other Subscribers &#8211; 62.5min](http://vimeo.com/20285615)

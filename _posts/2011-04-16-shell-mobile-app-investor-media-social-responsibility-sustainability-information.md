@@ -16,13 +16,13 @@ Stakeholder engagement is important. In the corporate realm, investors and analy
 
 Here&#8217;s the opening screens:
 
-<img src="../wp-content/uploads/2011/04/Shell-investor-media-mobile-application-iphone-home.jpg" />
-<img src="../wp-content/uploads/2011/04/Shell-investor-media-mobile-application-iphone-home2.jpg" />
+<img src="../images/wp-content/uploads/2011/04/Shell-investor-media-mobile-application-iphone-home.jpg" />
+<img src="../images/wp-content/uploads/2011/04/Shell-investor-media-mobile-application-iphone-home2.jpg" />
 
 Hitting on the &#8220;Full Menu&#8221; button brings us the listing screen on the left. Scroll down a bit and low and behold, is a section on Social Responsibility. Yay!
 
-<img src="../wp-content/uploads/2011/04/Shell-investor-media-mobile-application-iphone-menu.jpg" />
-<img src="../wp-content/uploads/2011/04/Shell-investor-media-mobile-application-iphone-social-responsibility.jpg" />
+<img src="../images/wp-content/uploads/2011/04/Shell-investor-media-mobile-application-iphone-menu.jpg" />
+<img src="../images/wp-content/uploads/2011/04/Shell-investor-media-mobile-application-iphone-social-responsibility.jpg" />
 
 As you can see in the right screen above, this section is also available as a permanent menu item (out of 6 choices) in &#8220;My Library&#8221;. You can finger scroll left to right, through 5 various reports Shell provides, and download the PDF to your phone.
 

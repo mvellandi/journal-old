@@ -7,7 +7,7 @@ categories:
   - books
   - design
 ---
-<img class="alignleft size-full wp-image-7271" style="margin: 10px 15px;" src="../wp-content/uploads/2011/10/gamification-by-design-book-review.gif" alt="gamification-by-design-book-review" width="180" height="236" /> Points, levels, badges, challenges, and leaderboards oh my!
+<img class="alignleft size-full wp-image-7271" style="margin: 10px 15px;" src="../images/wp-content/uploads/2011/10/gamification-by-design-book-review.gif" alt="gamification-by-design-book-review" width="180" height="236" /> Points, levels, badges, challenges, and leaderboards oh my!
 
 Having played games much of my life, I&#8217;ve thought their function was to entertain us (although education is also possible).
 

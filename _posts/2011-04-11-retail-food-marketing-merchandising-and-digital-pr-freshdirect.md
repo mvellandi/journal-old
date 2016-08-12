@@ -23,7 +23,7 @@ Now let&#8217;s consider email marketing. Weekly circulars are standard procedur
 
 On becoming a new user with FreshDirect, I didn&#8217;t notice ANY newsletter subscription options. Maybe I was auto-enrolled. The welcome email was concise, but honestly a bit bland and non-enticing since it had no photos. The cute little food icons should at least be clickable to that relevant category on the website 🙂
 
-<img src="../wp-content/uploads/2011/04/freshdirect-new-user-welcome-email-2011.jpg" />
+<img src="../images/wp-content/uploads/2011/04/freshdirect-new-user-welcome-email-2011.jpg" />
 
 So I&#8217;ll just have to see if I&#8217;ll get any future email updates from them with a visceral or logical reason to shop sometime soon. The opportunity is there, and I&#8217;ve seen plenty of other online retailers screw up on email marketing by either being boring (&#8220;_yet another email to scan and delete in this crowded inbox_&#8220;), or irrelevant (&#8220;_I don&#8217;t like this type of merchandise, why are they sending me info on this?_&#8220;). As previously mentioned, a good opportunity would be to add value to people&#8217;s lives through recipes and tips on picking, pairing, preparing, cooking, serving, along with nutritional advice.
 

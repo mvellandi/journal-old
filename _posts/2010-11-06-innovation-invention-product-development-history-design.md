@@ -232,7 +232,7 @@ That&#8217;s right! Remember the Betamax? The [Iridium](http://www.iridium.com/)
 
 Scott wraps up the chapter with some great historical examples, along with a diagram that sums it up nicely, which I&#8217;ve remixed into the following:
 
-<img src="../wp-content/uploads/2010/10/innovation-adoption-advantage-economics.jpg" />
+<img src="../images/wp-content/uploads/2010/10/innovation-adoption-advantage-economics.jpg" />
 
 ## The Relationship between Problems and Solutions
 

@@ -14,7 +14,7 @@ tags:
   - etsy
   - internet
 ---
-[<img class="alignleft size-full wp-image-7036" style="margin: 15px 20px;" title="new york ny tech meetup" src="../wp-content/uploads/2011/05/new-york-ny-tech-meetup.jpg" alt="new york ny tech meetup logo" width="202" height="150" />](http://nytm.org/)So earlier this month, I attended my first [NY Tech Meetup event](http://nytm.org/) and was impressed by the various presenters&#8217; work. Sometimes they were just really cool concepts. Others were startups. Getting a ticket isn&#8217;t hard, but they sell out really fast so you have to act fast on 3 window slots they offer with a set number of tickets. Here&#8217;s my notes from the noteworthy examples:
+[<img class="alignleft size-full wp-image-7036" style="margin: 15px 20px;" title="new york ny tech meetup" src="../images/wp-content/uploads/2011/05/new-york-ny-tech-meetup.jpg" alt="new york ny tech meetup logo" width="202" height="150" />](http://nytm.org/)So earlier this month, I attended my first [NY Tech Meetup event](http://nytm.org/) and was impressed by the various presenters&#8217; work. Sometimes they were just really cool concepts. Others were startups. Getting a ticket isn&#8217;t hard, but they sell out really fast so you have to act fast on 3 window slots they offer with a set number of tickets. Here&#8217;s my notes from the noteworthy examples:
 
 ### Etsy Shopping Network
 

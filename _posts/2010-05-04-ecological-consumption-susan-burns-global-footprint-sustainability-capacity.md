@@ -12,7 +12,7 @@ tags:
   - footprint
   - natural step
 ---
-<img class="alignleft size-full wp-image-4191" style="margin-right: 15px;" title="susan_burns" src="../wp-content/uploads/2010/05/susan_burns.jpg" alt="" width="170" height="216" />*Interview with:*
+<img class="alignleft size-full wp-image-4191" style="margin-right: 15px;" title="susan_burns" src="../images/wp-content/uploads/2010/05/susan_burns.jpg" alt="" width="170" height="216" />*Interview with:*
 
 Susan Burns, [Global Footprint Network](http://globalfootprintnetwork.com/)
 

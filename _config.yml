@@ -17,9 +17,9 @@ github_username:  mvellandi
 # Build settings
 markdown: kramdown
 permalink: /:title/ # optionally, we can build the style ourself, e.g. /:title/
-keep_files:
-  - wp-content
-permalink: /:title/ # optionally, we can build the style ourself, e.g. /:title
+keep_files: ["wp-content"]
+exclude: ["wp-content"]
+limit_posts: 20
 
 # Default settings
 defaults:

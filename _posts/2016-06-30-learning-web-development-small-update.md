@@ -1,5 +1,7 @@
 ---
 title: "Learning Web Development — A small update"
+categories:
+  - web dev
 ---
 
 I hadn’t done any coding since January (4 month vacation break), so over the last few weeks I’ve slowly getting back into the swing. There was (and continues to be) a lot of reading Hacker News though, which is a fun distraction, time suck, and window to:

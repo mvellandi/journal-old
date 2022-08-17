@@ -1,8 +1,8 @@
 ---
-title: The Dark Side of America&#8217;s Achievement Culture &#8211; Race to Nowhere
+title: "The Dark Side of America’s Achievement Culture: Race to Nowhere"
+layout: post
 date: 2011-06-10T17:00:50+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - enlightenment
 tags:

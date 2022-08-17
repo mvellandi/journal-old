@@ -1,8 +1,8 @@
 ---
-title: Jason Foster on the Replenish Bottle
+title: "Jason Foster on the Replenish Bottle"
+layout: post
 date: 2010-09-01T10:40:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

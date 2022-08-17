@@ -1,8 +1,8 @@
 ---
-title: Brits Get Rich in China
+title: "Brits Get Rich in China"
+layout: post
 date: 2007-10-29T09:51:48+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 tags:

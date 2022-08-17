@@ -1,8 +1,8 @@
 ---
-title: Human-Centered Research &#038; Design for Good &#8211; Aaron Sklar, IDEO
+title: "Human-Centered Research & Design for Good: Aaron Sklar, IDEO"
+layout: post
 date: 2010-09-19T10:00:00+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - research

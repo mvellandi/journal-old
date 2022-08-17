@@ -1,8 +1,8 @@
 ---
-title: Eco-Fashion and Organic Cotton with Marci Zaroff
+title: "Eco-Fashion and Organic Cotton with Marci Zaroff"
+layout: post
 date: 2010-12-01T09:00:19+00:00
 author: Mario Vellandi
-layout: post
 description:
   - A pioneer in championing ethical fashion and textile design, Marci Zaroff describes a bit of her personal story, and the value of organic cotton.
 categories:

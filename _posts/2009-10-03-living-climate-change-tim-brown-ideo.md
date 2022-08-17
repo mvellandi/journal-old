@@ -1,8 +1,8 @@
 ---
-title: Living Climate Change, by Tim Brown and IDEO
+title: "Living Climate Change, by Tim Brown and IDEO"
+layout: post
 date: 2009-10-03T23:46:09+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

@@ -1,8 +1,8 @@
 ---
-title: Cellphone Sustainability and Manufacturing
+title: "Cellphone Sustainability and Manufacturing"
+layout: post
 date: 2008-09-16T20:36:17+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - cellphone, sustainability, manufacturing, recycling, disposal, habits, environment, toxic, metals, materials
 description:

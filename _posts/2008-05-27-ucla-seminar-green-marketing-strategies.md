@@ -1,8 +1,8 @@
 ---
-title: Green Marketing and Sustainable Branding Strategies&#58; UCLA Seminar
+title: "Green Marketing and Sustainable Branding Strategies: UCLA Seminar"
+layout: post
 date: 2008-05-27T00:19:25+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green marketing strategy, cause related marketing, sustainable marketing, sustainable brand, sustainable branding, authenticity, guidelines, credibility, barbara manconi
 description:

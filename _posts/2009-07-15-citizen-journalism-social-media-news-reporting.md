@@ -1,8 +1,8 @@
 ---
-title: Citizen Journalism&#58; Social Media&#8217;s Effect on How News is Reported and Consumed
+title: "Citizen Journalism: Social Media’s Effect on How News is Reported and Consumed"
+layout: post
 date: 2009-07-15T23:58:17+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 tags:

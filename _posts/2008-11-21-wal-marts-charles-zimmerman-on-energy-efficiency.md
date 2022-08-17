@@ -1,8 +1,8 @@
 ---
-title: Wal-Mart's Charles Zimmerman on Energy Efficiency
+title: "Wal-Mart's Charles Zimmerman on Energy Efficiency"
+layout: post
 date: 2008-11-21T03:45:28+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - charles zimmerman, wal-mart, energy efficiency, LED, lighting, heating, air conditioning, white roofs, daylighting, retail, management
 description:
@@ -23,7 +23,7 @@ tags:
   - wal-mart
   - white roofs
 ---
-<img class="alignleft size-full wp-image-335" style="margin:5px 20px 10px 0; float: left;" title="portrait-walmart-charleszimmerman" src="../images/wp-content/uploads/2008/11/portrait-walmart-charleszimmerman.jpg" alt="charles zimmerman wal-mart" width="120" height="171" />Charles R. Zimmerman is the vice-president of Prototype and New Format Development for Wal-Mart. His specialty is in energy management for retail buildings. On November 9th at UCLA, I attended the sustainable business conference <a rel="nofollow" href="http://www.opportunitygreen.com">Opportunity Green</a>, where Charles gave a presentation. These are the proceedings.
+<img class="alignleft size-full wp-image-335" style="margin:5px 20px 10px 0; float: left;" title="portrait-walmart-charleszimmerman" src="/images/2008/portrait-walmart-charleszimmerman.jpg" alt="charles zimmerman wal-mart" width="120" height="171" />Charles R. Zimmerman is the vice-president of Prototype and New Format Development for Wal-Mart. His specialty is in energy management for retail buildings. On November 9th at UCLA, I attended the sustainable business conference <a rel="nofollow" href="http://www.opportunitygreen.com">Opportunity Green</a>, where Charles gave a presentation. These are the proceedings.
 
 Following some quick opening remarks, Charles first asked everyone to stand up, raise their hand, and pledge to make energy efficiency a priority in their home. Nowhere else do we as individuals have as much influence and control in our lives &#8211; we should take advantage of that opportunity. Then Charles mentioned having seen only two CFL bulbs in the building, and that in the speakers waiting area he saw a variety of lights on that served absolutely no purpose. He shut them off. The point was definitely not missed. Being that this was a conference about sustainability at a well-known university that like many others is trying to green itself up, incandescent bulbs are everywhere and being on with no one around, that&#8217;s a lot of wasted energy.
 

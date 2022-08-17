@@ -1,8 +1,8 @@
 ---
-title: Lessons Learned in Nonprofit Digital Communications
+title: "Lessons Learned in Nonprofit Digital Communications"
+layout: post
 date: 2012-12-02T15:24:15+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - management

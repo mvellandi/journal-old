@@ -1,8 +1,8 @@
 ---
-title: Kinetic Sculptures&#58; Mimicking Nature
+title: "Kinetic Sculptures: Mimicking Nature"
+layout: post
 date: 2010-10-01T01:31:54+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

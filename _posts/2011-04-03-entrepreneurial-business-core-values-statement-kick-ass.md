@@ -1,8 +1,8 @@
 ---
-title: The Entrepreneurial Organization&#8217;s Core Values on Being Kick Ass
+title: "The Entrepreneurial Organization’s Core Values on Being Kick Ass"
+layout: post
 date: 2011-04-03T12:06:28+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - management
 tags:

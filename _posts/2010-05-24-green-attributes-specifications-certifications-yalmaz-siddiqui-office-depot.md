@@ -1,8 +1,8 @@
 ---
-title: Detangling Green Attributes, Specifications, and Certifications
+title: "Detangling Green Attributes, Specifications, and Certifications"
+layout: post
 date: 2010-05-24T12:00:43+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - marketing

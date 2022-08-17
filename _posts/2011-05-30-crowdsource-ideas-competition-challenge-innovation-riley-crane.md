@@ -1,8 +1,8 @@
 ---
-title: Crowdsource and Win the Challenge &#8211; Riley Crane
+title: "Crowdsource and Win the Challenge: Riley Crane"
+layout: post
 date: 2011-05-30T12:32:18+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Story of the DARPA Red Balloon Challenge and how Riley Crane and his team used crowdsourcing to find the balloons, and thwart attempts to throw them off.
 categories:

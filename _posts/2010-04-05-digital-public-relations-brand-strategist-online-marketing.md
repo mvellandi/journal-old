@@ -1,8 +1,8 @@
 ---
-title: What is a Digital PR Strategist?
+title: "What is a Digital PR Strategist?"
+layout: post
 date: 2010-04-05T11:20:06+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

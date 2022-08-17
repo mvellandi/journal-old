@@ -1,8 +1,8 @@
 ---
-title: Clorox&#58; Leveraging Sustainability for Growth
+title: "Clorox: Leveraging Sustainability for Growth"
+layout: post
 date: 2008-10-14T19:58:40+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, clorox, bill morrissey, burts bees, greenworks, brita, green marketing
 description:

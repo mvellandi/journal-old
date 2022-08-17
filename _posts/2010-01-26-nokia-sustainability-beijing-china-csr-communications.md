@@ -1,8 +1,8 @@
 ---
-title: Nokia Bejing Storytells its Sustainability
+title: "Nokia Bejing Storytells its Sustainability"
+layout: post
 date: 2010-01-26T10:05:41+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

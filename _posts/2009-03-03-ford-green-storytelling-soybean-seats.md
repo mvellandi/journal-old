@@ -1,8 +1,8 @@
 ---
-title: Ford Green Storytelling with Video
+title: "Ford Green Storytelling with Video"
+layout: post
 date: 2009-03-03T07:32:33+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green storytelling, sustainability communications, video, green marketing, authenticity, credibility, ford, bentley prince street
 description:

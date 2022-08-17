@@ -1,8 +1,8 @@
 ---
-title: Motivating Healthy Behaviors through Emotional Design
+title: "Motivating Healthy Behaviors through Emotional Design"
+layout: post
 date: 2010-12-16T09:00:43+00:00
 author: Mario Vellandi
-layout: post
 description:
   - We're now entering an era where electronic medical devices offer advanced data networking capabilities through mobile technology and software.
 categories:

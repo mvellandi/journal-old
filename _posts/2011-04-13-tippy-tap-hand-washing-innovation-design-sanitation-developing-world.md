@@ -1,8 +1,8 @@
 ---
-title: Washing Hands and Preventing Infectious Diseases&#58; TippyTap
+title: "Washing Hands and Preventing Infectious Diseases: TippyTap"
+layout: post
 date: 2011-04-13T12:12:18+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Helping to foster sanitation, we can lower the amount of disease contractions in the developing world. The innovative method of building a hand washing station deserves kudos
 categories:

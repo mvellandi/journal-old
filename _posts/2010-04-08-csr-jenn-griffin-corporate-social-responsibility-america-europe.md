@@ -1,8 +1,8 @@
 ---
-title: Professor Jenn Griffin on TransAtlantic Contrasts in CSR
+title: "Professor Jenn Griffin on TransAtlantic Contrasts in CSR"
+layout: post
 date: 2010-04-08T03:19:54+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
 tags:

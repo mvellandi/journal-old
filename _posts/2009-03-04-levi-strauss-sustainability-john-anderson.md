@@ -1,8 +1,8 @@
 ---
-title: Levi Strauss and Sustainability - John Anderson
+title: "Levi Strauss and Sustainability - John Anderson"
+layout: post
 date: 2009-03-04T04:46:51+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - levi strauss, sustainability, john anderson, corporate social responsibility, csr, video, ethical sourcig, water, stakeholder engagement
 description:

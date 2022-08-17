@@ -1,8 +1,8 @@
 ---
-title: Values Authenticity &#038; Alignment in Sustainable Brand Development
+title: "Values Authenticity and Alignment in Sustainable Brand Development"
+layout: post
 date: 2010-07-11T10:47:14+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - marketing

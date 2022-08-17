@@ -1,8 +1,8 @@
 ---
-title: Facial Features &#038; Recognition in Interaction Design &#8211; Gretchen Anderson
+title: "Facial Features and Recognition in Interaction Design: Gretchen Anderson"
+layout: post
 date: 2010-08-25T21:47:30+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

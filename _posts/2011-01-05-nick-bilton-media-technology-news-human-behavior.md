@@ -1,8 +1,8 @@
 ---
-title: Our Love for Media, Multitasking, and How Adaptation is the Cultural Norm
+title: "Our Love for Media, Multitasking, and How Adaptation is the Cultural Norm"
+layout: post
 date: 2011-01-05T09:00:33+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Nick Bilton describes how our relationship with media has always been about attention and multitasking as its entered our lives. Great presentation!
 categories:

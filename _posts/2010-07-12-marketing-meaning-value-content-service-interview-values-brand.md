@@ -1,8 +1,8 @@
 ---
-title: Meaningful Marketing through Relevance and Value, with Bob Gilbreath
+title: "Meaningful Marketing through Relevance and Value, with Bob Gilbreath"
+layout: post
 date: 2010-07-12T10:03:12+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

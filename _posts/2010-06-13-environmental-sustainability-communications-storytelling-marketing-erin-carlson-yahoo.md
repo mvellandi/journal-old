@@ -1,8 +1,8 @@
 ---
-title: Speaking the Right Language in Environmental Communications
+title: "Speaking the Right Language in Environmental Communications"
+layout: post
 date: 2010-06-13T11:00:17+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

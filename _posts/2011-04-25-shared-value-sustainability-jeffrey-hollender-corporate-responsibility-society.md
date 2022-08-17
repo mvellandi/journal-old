@@ -1,8 +1,8 @@
 ---
-title: Shared Value and Sustainability &#8211; Jeffrey Hollender
+title: "Shared Value and Sustainability: Jeffrey Hollender"
+layout: post
 date: 2011-04-25T12:12:52+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Seventh Generation co-founder  and business leader Jeffrey Hollender his thoughts on Shared Value, as  proposed by Michael Porter of Harvard Business School
 categories:

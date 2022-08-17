@@ -1,8 +1,8 @@
 ---
-title: My Reading List &#8211; Spring 08
+title: "My Reading List: Spring 08"
+layout: post
 date: 2008-04-28T23:28:19+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - intermezzo

@@ -1,8 +1,8 @@
 ---
-title: Explaining Disruptive Innovation
+title: "Explaining Disruptive Innovation"
+layout: post
 date: 2009-09-06T23:56:36+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Electronics Dumping/Disposal in Africa
+title: "Electronics Dumping/Disposal in Africa"
+layout: post
 date: 2008-09-23T01:14:11+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - video, basel action network, closed loop, recycling, ecology, africa, lagos, computers, electronic waste, dumping, social responsibility
 description:

@@ -1,8 +1,8 @@
 ---
-title: Cooper Black - Rounded Serif History and Example
+title: "Cooper Black - Rounded Serif History and Example"
+layout: post
 date: 2007-09-14T13:33:20+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - oswald bruce cooper, cooper black, rounded serif, typography, font, graphic design
 description:

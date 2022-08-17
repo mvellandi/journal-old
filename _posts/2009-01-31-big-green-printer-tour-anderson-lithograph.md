@@ -1,8 +1,8 @@
 ---
-title: Green Printing Tour - Anderson Lithograph
+title: "Green Printing Tour - Anderson Lithograph"
+layout: post
 date: 2009-01-31T22:03:45+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green printing, printer, green marketing, anderson lithograph, slideshow, tour, sustainable operations, cogeneration
 description:

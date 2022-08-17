@@ -1,8 +1,8 @@
 ---
-title: Technology&#8217;s Influence on Business Models
+title: "Technology’s Influence on Business Models"
+layout: post
 date: 2010-10-16T14:42:01+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - management

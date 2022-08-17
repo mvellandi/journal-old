@@ -1,8 +1,8 @@
 ---
-title: Emily Pilloton of Project H Shows 10 Innovative Products for Social Design
+title: "Emily Pilloton of Project H Shows 10 Innovative Products for Social Design"
+layout: post
 date: 2009-07-18T20:05:14+00:00
 author: Mario Vellandi
-layout: post
 thesis_title:
   - 'Emily Pilloton of Project H Shows 10 Innovative Products for Social Design - Bottom of Pyramid'
 categories:

@@ -1,8 +1,8 @@
 ---
-title: Sustainable Marketing for 2009&#58; Don Carli
+title: "Sustainable Marketing for 2009: Don Carli"
+layout: post
 date: 2009-01-19T14:32:21+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - don carli, interview, sustainability, marketing, strategy, green business, prediction, future, communications, print, advertising
 description:

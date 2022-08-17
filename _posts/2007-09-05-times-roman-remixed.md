@@ -1,8 +1,8 @@
 ---
-title: Times New Roman Remixed
+title: "Times New Roman Remixed"
+layout: post
 date: 2007-09-05T22:14:23+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - illustration, typography, typeface, history, times new roman, serif, graphic design
 description:

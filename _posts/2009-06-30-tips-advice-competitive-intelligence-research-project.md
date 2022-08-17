@@ -1,8 +1,8 @@
 ---
-title: 12 Tips for Competitive Intelligence and a Bit More
+title: "12 Tips for Competitive Intelligence and a Bit More"
+layout: post
 date: 2009-06-30T17:00:56+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - research
 tags:

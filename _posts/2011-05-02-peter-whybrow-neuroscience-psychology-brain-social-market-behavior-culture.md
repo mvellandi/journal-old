@@ -1,8 +1,8 @@
 ---
-title: Neuroscience, Happiness, and Balancing Self v. Social Interest &#8211; Peter Whybrow
+title: "Neuroscience, Happiness, and Balancing Self v. Social Interest: Peter Whybrow"
+layout: post
 date: 2011-05-02T12:02:55+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - research
 tags:

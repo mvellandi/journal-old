@@ -1,8 +1,8 @@
 ---
-title: Meaningful Behavior Change in Personal Health Care &#8211; Arna Ionescu
+title: "Meaningful Behavior Change in Personal Health Care: Arna Ionescu"
+layout: post
 date: 2011-03-04T12:08:40+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Technology alone can’t prompt meaningful change in addressing how and where each of us makes individual changes in our personal health behaviors.
 categories:

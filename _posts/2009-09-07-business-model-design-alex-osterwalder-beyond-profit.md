@@ -1,8 +1,8 @@
 ---
-title: Business Models Beyond Profit, by Alexander Osterwalder
+title: "Business Models Beyond Profit, by Alexander Osterwalder"
+layout: post
 date: 2009-09-07T17:58:07+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 tags:

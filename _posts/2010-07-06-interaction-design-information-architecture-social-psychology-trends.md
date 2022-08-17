@@ -1,8 +1,8 @@
 ---
-title: 3 Trends in Information Architecture &#038; Interaction Design, by Erin Malone
+title: "3 Trends in Information Architecture and Interaction Design, by Erin Malone"
+layout: post
 date: 2010-07-06T13:48:20+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

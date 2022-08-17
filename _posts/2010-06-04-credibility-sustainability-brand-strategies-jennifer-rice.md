@@ -1,8 +1,8 @@
 ---
-title: 10 Strategies for Building a Credible Sustainable Brand &#8211; Jennifer Rice
+title: "10 Strategies for Building a Credible Sustainable Brand: Jennifer Rice"
+layout: post
 date: 2010-06-04T18:00:23+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - management

@@ -1,8 +1,8 @@
 ---
-title: The Future is Sharing through Networked Collaboration &#8211; Lisa Gansky
+title: "The Future is Sharing through Networked Collaboration: Lisa Gansky"
+layout: post
 date: 2010-12-28T12:53:37+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Many physical assets and experiences cannot be enjoyed by people for financial and practical limitations. With networked marketplaces, this is possible.
 categories:
@@ -31,7 +31,7 @@ __Notes__
   * Opportunity: **Sharing/leasing platforms for high value, low-utilized physical assets**.
 
 
-<img title="physical asset value utilization map" src="../images/wp-content/uploads/2010/12/PhysicalAsset-ValueUtilization.jpg" />
+<img title="physical asset value utilization map" src="/images/2010/PhysicalAsset-ValueUtilization.jpg" />
 
   * There&#8217;s a LOT of physical assets and experiences that people would like to participate in, yet cannot for financial and practical limitations. Look around for these resources that could be more efficiently & profitably shared using social networks. Then ask how might you reduce the burdens of ownership like financing, insurance, maintenance, storage, and disposal.
   * Non-ownership and commons mentality allows for greater asset utilization, financial opportunity (savings/revenue), social benefits, and less material produced, sitting idle, and in some cases sent to landfill.

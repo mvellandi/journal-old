@@ -1,8 +1,8 @@
 ---
-title: Social Media for Social Good &#8211; Casey Golden, Small Act
+title: "Social Media for Social Good: Casey Golden, Small Act"
+layout: post
 date: 2011-05-11T19:00:36+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Nonprofit Marketing with Social Media. Best practices and case studies on engaging communities and donors through storytelling, concise communications
 categories:

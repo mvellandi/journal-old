@@ -1,8 +1,8 @@
 ---
-title: Sustainability Definition - A Multi-Variate Perspective
+title: "Sustainability Definition - A Multi-Variate Perspective"
+layout: post
 date: 2008-10-16T18:26:42+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, green marketing, communications, definition, greenwashing, triple bottom line, philosophy
 description:

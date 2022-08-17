@@ -1,8 +1,8 @@
 ---
-title: Fossil Fuel &#038; Civilization History&#58; 300 Years in 300 Seconds
+title: "Fossil Fuel and Civilization History: 300 Years in 300 Seconds"
+layout: post
 date: 2011-03-24T12:01:33+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Video from the Post Carbon Institute on the history of fossil fuels, civilization, and world economics over the last 300 years. Amusing, sad, and hopeful
 categories:

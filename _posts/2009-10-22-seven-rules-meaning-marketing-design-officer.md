@@ -1,8 +1,8 @@
 ---
-title: The Seven Rules of the Chief Meaning Officer, by Tim Leberecht
+title: "The Seven Rules of the Chief Meaning Officer, by Tim Leberecht"
+layout: post
 date: 2009-10-22T09:23:56+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - marketing

@@ -1,8 +1,8 @@
 ---
-title: Creating Positive Change Through Design Integration &#8211; Adam Lowry, Method Products
+title: "Creating Positive Change Through Design Integration: Adam Lowry, Method Products"
+layout: post
 date: 2011-04-26T12:08:19+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

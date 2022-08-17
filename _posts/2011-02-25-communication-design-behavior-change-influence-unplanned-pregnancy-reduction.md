@@ -1,8 +1,8 @@
 ---
-title: Communication Design to Reduce Unplanned Pregnancies
+title: "Communication Design to Reduce Unplanned Pregnancies"
+layout: post
 date: 2011-02-25T12:00:43+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Translating stories into high-impact messages to influence behavior change, requires precisely the right tone. Great for reducing unwanted pregnancies
 categories:

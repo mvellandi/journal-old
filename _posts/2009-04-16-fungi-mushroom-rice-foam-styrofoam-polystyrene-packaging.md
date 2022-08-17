@@ -1,8 +1,8 @@
 ---
-title: Styrofoam Packaging & Insulation from Mushrooms and Agricultural Waste
+title: "Styrofoam Packaging & Insulation from Mushrooms and Agricultural Waste"
+layout: post
 date: 2009-04-16T05:44:46+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - fungi, mushroom, sustainable packaging, insulation, polystyrene, foam, waste, ecovative, greensulate, acorn, material science, green innovation, video, green design, eben bayer
 description:

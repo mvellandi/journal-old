@@ -1,8 +1,8 @@
 ---
-title: Great Copywriting for Environmental Marketing
+title: "Great Copywriting for Environmental Marketing"
+layout: post
 date: 2009-05-05T03:55:43+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - copywriting, environment, marketing, communications, sustainability, writing
 description:

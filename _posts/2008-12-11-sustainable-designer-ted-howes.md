@@ -1,8 +1,8 @@
 ---
-title: Sustainable Designer&#58; Ted Howes
+title: "Sustainable Designer: Ted Howes"
+layout: post
 date: 2008-12-11T06:17:25+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - ted howes, ideo, sustainability, presentation, sustainable design, product development, life cycle impact, environmental assessment, dematerialization, design thinking, business, expert advice
 description:

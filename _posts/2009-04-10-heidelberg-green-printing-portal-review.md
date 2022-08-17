@@ -1,8 +1,8 @@
 ---
-title: Heidelberg Green Printing Web Portal
+title: "Heidelberg Green Printing Web Portal"
+layout: post
 date: 2009-04-10T05:32:57+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green printing, sustainable printing, print communications, public relations, marketing, communication, sustainability
 description:

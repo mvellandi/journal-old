@@ -1,8 +1,8 @@
 ---
-title: LEAP&#58; Vision, Love, and Energy in Personal Development
+title: "LEAP: Vision, Love, and Energy in Personal Development"
+layout: post
 date: 2008-03-04T21:15:58+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - leadership development, personal development, radical leap, steve farber, personal growth
 description:
@@ -14,7 +14,7 @@ categories:
 tags:
   - leadership
 ---
-<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../images/wp-content/uploads/2008/03/telescope.jpg" alt="telescope" />Continuing with my series of posts on Steve Farber&#8217;s [&#8220;The Radical Leap&#8221;](http://www.amazon.com/Radical-Leap-Personal-Extreme-Leadership/dp/0793185688/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1204692573&sr=8-1 "The Radical Leap by Steve Farber on Amazon"), today I&#8217;ll quote and review some dialog about the source of love and inspiration individuals need to develop energy they can channel into their work.
+<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="/images/2008/telescope.jpg" alt="telescope" />Continuing with my series of posts on Steve Farber&#8217;s [&#8220;The Radical Leap&#8221;](http://www.amazon.com/Radical-Leap-Personal-Extreme-Leadership/dp/0793185688/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1204692573&sr=8-1 "The Radical Leap by Steve Farber on Amazon"), today I&#8217;ll quote and review some dialog about the source of love and inspiration individuals need to develop energy they can channel into their work.
 
 The narrator and his companion are on the beach playing fetch with an enthusiastic dog. A stick is motivation enough for her to play, since there&#8217;s few activities she loves to play more than fetch. The companion says:
 

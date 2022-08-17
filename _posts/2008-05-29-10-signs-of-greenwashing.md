@@ -1,8 +1,8 @@
 ---
-title: Greenwashing - Ten Indicators
+title: "Greenwashing - Ten Indicators"
+layout: post
 date: 2008-05-29T13:33:20+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - greenwash, greenwashing, green marketing, marketing communications, diagram, infographic, futerra communications, ethical communication
 description:
@@ -20,4 +20,4 @@ tags:
   - marketing
   - sustainability
 ---
-<img class="size-full wp-image-258 aligncenter" src="../images/wp-content/uploads/2008/05/futerra-greenwashing2.jpg" alt="10 signs of greenwashing infographic" width="510" height="565" />
+<img class="size-full wp-image-258 aligncenter" src="/images/2008/futerra-greenwashing2.jpg" alt="10 signs of greenwashing infographic" width="510" height="565" />

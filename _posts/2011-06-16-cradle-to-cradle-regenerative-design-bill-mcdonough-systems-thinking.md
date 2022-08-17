@@ -1,8 +1,8 @@
 ---
-title: Cradle to Cradle Thinking in 7 Points &#8211; Bill McDonough
+title: "Cradle to Cradle Thinking in 7 Points: Bill McDonough"
+layout: post
 date: 2011-06-16T18:00:14+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

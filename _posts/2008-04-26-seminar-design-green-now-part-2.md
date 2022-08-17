@@ -1,8 +1,8 @@
 ---
-title: Seminar Design Green Now - Nathan Van Hook
+title: "Seminar Design Green Now - Nathan Van Hook"
+layout: post
 date: 2008-04-26T18:48:26+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, green design, product development, pvc, plasticizers, neoprene, china, lca, toxicity, life cycle
 description:
@@ -22,7 +22,7 @@ tags:
 ---
 April 11th, I attended the local tour stop of [Design Green Now](http://www.designgreennow.com/ "Design Green Now conference Long Beach"), a seminar that explored green and sustainable product design & development. This article is Part 2 of a series that highlights the panelists, their presentations, and issues discussed during the Q&A.
 
-<img class="alignleft" style="margin: 25px 20px 10px 0;" src="../images/wp-content/uploads/2008/04/dgn-panelist-vanhook.jpg" alt="design green now nathan van hook bodyglove designer" width="150" height="150" align="left" />
+<img class="alignleft" style="margin: 25px 20px 10px 0;" src="/images/2008/dgn-panelist-vanhook.jpg" alt="design green now nathan van hook bodyglove designer" width="150" height="150" align="left" />
 
 ### Nathan Vanhook
 

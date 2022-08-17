@@ -1,8 +1,8 @@
 ---
-title: Gasland &#8211; The Dangers of Hydraulic Fracturing for Natural Gas
+title: "Gasland: The Dangers of Hydraulic Fracturing for Natural Gas"
+layout: post
 date: 2011-04-15T12:01:15+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

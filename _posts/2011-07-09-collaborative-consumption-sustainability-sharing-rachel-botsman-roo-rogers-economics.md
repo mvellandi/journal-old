@@ -1,8 +1,8 @@
 ---
-title: Collaborative Consumption &#8211; Rachel Botsman and Roo Rogers
+title: "Collaborative Consumption: Rachel Botsman and Roo Rogers"
+layout: post
 date: 2011-07-09T19:55:13+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Book outline and review of Collaborative Consumption, by Roo Rogers and Rachel Botsman. About alternative product/service marketplaces, redistribution
 categories:
@@ -15,7 +15,7 @@ tags:
   - economics
   - market
 ---
-[<img src="../images/wp-content/uploads/2011/03/collaborative-consumption-sharing-economics-society-206x300.gif" />](http://www.amazon.com/gp/product/0061963542?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061963542) Great book I read last Fall about the new dynamics of sharing and the societal forces behind it. What follows is an outline that covers the main ideas as I&#8217;ve gleaned them, along with topical cross references. It may not always flow nicely since this is a personal reference guide. And as usual, this summary can’t give you the stories and context behind the notes provided below, so [I do recommend reading the book](http://www.amazon.com/gp/product/0061963542?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061963542) if you’d like to learn more. Similarly, you may want to [check out my summary of Lisa Gansky&#8217;s book, &#8220;The Mesh&#8221;](../future-sharing-renting-physical-assets-technology-lisa-gansky/).
+[<img src="/images/2011/collaborative-consumption-sharing-economics-society-206x300.gif" />](http://www.amazon.com/gp/product/0061963542?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061963542) Great book I read last Fall about the new dynamics of sharing and the societal forces behind it. What follows is an outline that covers the main ideas as I&#8217;ve gleaned them, along with topical cross references. It may not always flow nicely since this is a personal reference guide. And as usual, this summary can’t give you the stories and context behind the notes provided below, so [I do recommend reading the book](http://www.amazon.com/gp/product/0061963542?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0061963542) if you’d like to learn more. Similarly, you may want to [check out my summary of Lisa Gansky&#8217;s book, &#8220;The Mesh&#8221;](../future-sharing-renting-physical-assets-technology-lisa-gansky/).
 
 ## I. Backstory to Present Day
 

@@ -1,8 +1,8 @@
 ---
-title: Free Burma
+title: "Free Burma"
+layout: post
 date: 2007-10-04T08:26:03+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 tags:

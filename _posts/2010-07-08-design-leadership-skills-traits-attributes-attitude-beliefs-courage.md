@@ -1,8 +1,8 @@
 ---
-title: Design Leadership&#58; Requisite Attitude, Skills, and Traits
+title: "Design Leadership: Requisite Attitude, Skills, and Traits"
+layout: post
 date: 2010-07-08T12:00:05+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

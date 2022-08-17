@@ -1,8 +1,8 @@
 ---
-title: The Sustainable Wheel by DesignBoost
+title: "The Sustainable Wheel by DesignBoost"
+layout: post
 date: 2009-09-14T08:12:49+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

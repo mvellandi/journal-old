@@ -1,8 +1,8 @@
 ---
-title: POET Cellulosic Ethanol &#8211; Aspirational Marketing
+title: "POET Cellulosic Ethanol: Aspirational Marketing"
+layout: post
 date: 2010-06-27T12:05:19+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

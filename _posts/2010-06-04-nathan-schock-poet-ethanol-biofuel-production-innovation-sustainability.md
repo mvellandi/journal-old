@@ -1,8 +1,8 @@
 ---
-title: ChangeMaker&#58; Nathan Schock of POET &#8211; Ethanol, Biofuel
+title: "ChangeMaker: Nathan Schock of POET: Ethanol, Biofuel"
+layout: post
 date: 2010-06-04T11:00:33+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - sustainability

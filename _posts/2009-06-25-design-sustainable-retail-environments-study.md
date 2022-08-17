@@ -1,8 +1,8 @@
 ---
-title: Designing Sustainable Retail Environments
+title: "Designing Sustainable Retail Environments"
+layout: post
 date: 2009-06-25T12:28:56+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

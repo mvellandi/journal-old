@@ -1,8 +1,8 @@
 ---
-title: Business Rules of Thumb&#58; No.2
+title: "Business Rules of Thumb: No.2"
+layout: post
 date: 2009-07-23T12:00:33+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - management

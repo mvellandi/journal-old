@@ -1,8 +1,8 @@
 ---
-title: Sustainable Product Design Lecture by Seos
+title: "Sustainable Product Design Lecture by Seos"
+layout: post
 date: 2009-09-12T12:49:12+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

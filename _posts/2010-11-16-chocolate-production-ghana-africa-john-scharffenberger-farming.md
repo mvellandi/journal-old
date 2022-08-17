@@ -1,8 +1,8 @@
 ---
-title: Chocolate Production in Ghana with John Scharffenberger
+title: "Chocolate Production in Ghana with John Scharffenberger"
+layout: post
 date: 2010-11-16T09:00:53+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Surfrider Project &#8211; Rise Above Plastics
+title: "Surfrider Project: Rise Above Plastics"
+layout: post
 date: 2010-05-04T11:00:15+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - sustainability

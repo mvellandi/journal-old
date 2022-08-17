@@ -1,8 +1,8 @@
 ---
-title: Nature and Biomimicry in 7 Points &#8211; Janine Benyus
+title: "Nature and Biomimicry in 7 Points: Janine Benyus"
+layout: post
 date: 2011-06-12T16:00:42+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

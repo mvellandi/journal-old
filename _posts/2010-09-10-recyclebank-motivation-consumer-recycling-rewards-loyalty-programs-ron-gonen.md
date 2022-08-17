@@ -1,8 +1,8 @@
 ---
-title: RecycleBank&#58; Motivating Consumer Recycling through Loyalty Programs
+title: "RecycleBank: Motivating Consumer Recycling through Loyalty Programs"
+layout: post
 date: 2010-09-10T00:28:27+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - marketing

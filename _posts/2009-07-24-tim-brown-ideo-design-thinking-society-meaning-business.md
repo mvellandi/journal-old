@@ -1,8 +1,8 @@
 ---
-title: Tim Brown of IDEO &#038; Design Thinking
+title: "Tim Brown of IDEO and Design Thinking"
+layout: post
 date: 2009-07-24T01:30:36+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

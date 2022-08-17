@@ -1,8 +1,8 @@
 ---
-title: The Stage Gate Model of New Product Development by Robert G. Cooper
+title: "The Stage Gate Model of New Product Development by Robert G. Cooper"
+layout: post
 date: 2008-02-25T18:35:10+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - stage gate, new product development, project management, npd, design management, principles, robert cooper
 description:

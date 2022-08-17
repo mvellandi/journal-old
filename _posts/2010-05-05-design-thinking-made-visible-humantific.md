@@ -1,8 +1,8 @@
 ---
-title: Design Thinking Made Visible &#8211; Humantific
+title: "Design Thinking Made Visible: Humantific"
+layout: post
 date: 2010-05-05T08:00:11+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - marketing

@@ -1,8 +1,8 @@
 ---
-title: Progress Measurement for Behavior Change &#8211; Aaron Sklar, IDEO
+title: "Progress Measurement for Behavior Change: Aaron Sklar, IDEO"
+layout: post
 date: 2011-03-05T12:09:37+00:00
 author: Mario Vellandi
-layout: post
 description:
   - To track how behavioral change is progressing along, we need measurement strategies. Aaron Sklar of IDEO provides insights into what his team discovered
 categories:

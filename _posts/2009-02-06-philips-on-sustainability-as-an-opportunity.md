@@ -1,8 +1,8 @@
 ---
-title: Philips Electronics Sees Sustainable Opportunity in Emerging Markets
+title: "Philips Electronics Sees Sustainable Opportunity in Emerging Markets"
+layout: post
 date: 2009-02-06T06:04:37+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - royal philips, philips electronics, sustainable business, green business, developing countries, emerging markets, lighting, profitability, barbara kux
 description:

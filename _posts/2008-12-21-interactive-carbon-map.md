@@ -1,8 +1,8 @@
 ---
-title: Interactive Carbon Map
+title: "Interactive Carbon Map"
+layout: post
 date: 2008-12-21T21:02:03+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, carbon emissions, country, percentage, increase, world, comparative analysis, rate, growth, contribution, multimedia
 description:

@@ -1,8 +1,8 @@
 ---
-title: The Internet of Things &#8211; Notes from MIT&#8217;s CIO Summit
+title: "The Internet of Things: Notes from MIT’s CIO Summit"
+layout: post
 date: 2010-12-20T09:00:40+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 tags:

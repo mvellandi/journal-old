@@ -1,8 +1,8 @@
 ---
-title: Eco Certification Quick Snapshot
+title: "Eco Certification Quick Snapshot"
+layout: post
 date: 2009-03-06T05:32:07+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - eco certification, cradle to cradle, smart, mts, sustainable product, eco label, okala, opinion
 description:

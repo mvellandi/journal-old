@@ -1,8 +1,8 @@
 ---
-title: Mycorrhizal Fungi and Tree Planting with Paul Stamets, Life Box
+title: "Mycorrhizal Fungi and Tree Planting with Paul Stamets, Life Box"
+layout: post
 date: 2010-11-27T09:00:41+00:00
 author: Mario Vellandi
-layout: post
 description:
   - As part of a unique packaging solution that contains micorrhizal funghi and tree seeds, when planted they'll will produce healthy trees and sequester carbon from the atmosphere.
 categories:

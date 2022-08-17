@@ -1,8 +1,8 @@
 ---
-title: IDEO&#8217;s Owen Rogers&#58; Sustainability as a Brand
+title: "IDEO’s Owen Rogers: Sustainability as a Brand"
+layout: post
 date: 2010-05-15T12:00:23+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

@@ -1,8 +1,8 @@
 ---
-title: Interactive Marketing a Clean Behind
+title: "Interactive Marketing a Clean Behind"
+layout: post
 date: 2007-08-08T09:06:50+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - interactive marketing, cleanishappy, marketing, experience design, flash, multimedia, toilet manufacturer, website
 categories:

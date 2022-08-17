@@ -1,8 +1,8 @@
 ---
-title: Let&#8217;s Get Naked (And Fit!) &#8211; Andy Ruben
+title: "Let’s Get Naked (And Fit!): Andy Ruben"
+layout: post
 date: 2010-12-23T09:00:15+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Andrew Ruben, former VP of Strategy & Sustainability at Wal-Mart Stores, speaks on the importance of operational fitness with regards to sustainability
 categories:

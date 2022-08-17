@@ -1,8 +1,8 @@
 ---
-title: How Your Coffee Mug Controls Your Feelings (and What You Can Do About It)
+title: "How Your Coffee Mug Controls Your Feelings (and What You Can Do About It)"
+layout: post
 date: 2011-03-25T12:03:30+00:00
 author: Mario Vellandi
-layout: post
 description:
   - The interaction ecosystem including physical, social, and language elements affects our thoughts and behavioral patterns. Multidisciplinary skills are necessary
 categories:

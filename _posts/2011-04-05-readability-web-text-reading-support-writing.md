@@ -1,8 +1,8 @@
 ---
-title: Readability&#58; Enjoy Reading and Support Writing
+title: "Readability: Enjoy Reading and Support Writing"
+layout: post
 date: 2011-04-05T12:07:56+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Even though I use Ad-Block Plus in Firefox, I occasionally use the Readability plugin to make things nice and smooth. Blinking ads and crowded pages make the web a hostile environment for reading
 categories:

@@ -1,8 +1,8 @@
 ---
-title: Winners of the 21st DuPont Awards for Sustainable Packaging
+title: "Winners of the 21st DuPont Awards for Sustainable Packaging"
+layout: post
 date: 2009-06-11T04:07:06+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - new product development

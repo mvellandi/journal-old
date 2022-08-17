@@ -1,8 +1,8 @@
 ---
-title: Addition and Subtraction in Product Design Philosophy &#8211; Dieter Rams
+title: "Addition and Subtraction in Product Design Philosophy: Dieter Rams"
+layout: post
 date: 2011-06-15T15:00:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

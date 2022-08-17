@@ -1,8 +1,8 @@
 ---
-title: Sustainable Retail and Social Responsibility with Kevin Brady and David Ian Grey
+title: "Sustainable Retail and Social Responsibility with Kevin Brady and David Ian Grey"
+layout: post
 date: 2010-11-20T09:00:44+00:00
 author: Mario Vellandi
-layout: post
 description:
   - How is the retail industry currently performing in regards to sustainability? Secondly, what social responsibility do they have? Kevin and David tell
 categories:

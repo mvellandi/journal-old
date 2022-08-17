@@ -1,8 +1,8 @@
 ---
-title: IDEO Method Cards
+title: "IDEO Method Cards"
+layout: post
 date: 2010-05-07T02:30:58+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - new product development

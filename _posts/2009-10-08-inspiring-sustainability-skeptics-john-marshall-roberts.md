@@ -1,8 +1,8 @@
 ---
-title: Inspiring Sustainability in Skeptics, by John Marshall Roberts
+title: "Inspiring Sustainability in Skeptics, by John Marshall Roberts"
+layout: post
 date: 2009-10-08T09:40:15+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - sustainability

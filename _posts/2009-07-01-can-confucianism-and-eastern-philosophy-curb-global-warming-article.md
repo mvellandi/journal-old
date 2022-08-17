@@ -1,8 +1,8 @@
 ---
-title: Can Confucianism and Eastern Philosophy Curb Global Warming {Article}
+title: "Can Confucianism and Eastern Philosophy Curb Global Warming {Article}"
+layout: post
 date: 2009-07-01T23:00:41+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

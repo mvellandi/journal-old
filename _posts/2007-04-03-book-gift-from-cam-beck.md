@@ -1,8 +1,8 @@
 ---
-title: Amazon Book Gift Packaging Example
+title: "Amazon Book Gift Packaging Example"
+layout: post
 date: 2007-04-03T18:10:32+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - design

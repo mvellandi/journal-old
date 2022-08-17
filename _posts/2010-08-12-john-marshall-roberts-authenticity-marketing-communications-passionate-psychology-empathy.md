@@ -1,8 +1,8 @@
 ---
-title: Conversations that Change Reality &#8211; John Marshall Roberts
+title: "Conversations that Change Reality: John Marshall Roberts"
+layout: post
 date: 2010-08-12T07:28:28+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - communication

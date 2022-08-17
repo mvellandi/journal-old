@@ -1,8 +1,8 @@
 ---
-title: Book Review&#58; Wikinomics by John Tapscott and Anthony Williams
+title: "Book Review: Wikinomics by John Tapscott and Anthony Williams"
+layout: post
 date: 2007-11-06T20:53:02+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - book review, john tapscott, anthony williams, wikinomics, innovation, social design, collaboration
 description:
@@ -14,7 +14,7 @@ tags:
   - collective intelligence
   - crowdsourcing
 ---
-<img src="../images/wp-content/uploads/2008/03/book-wikinomics.jpg" alt="wikinomics book tapscott williams" hspace="15" vspace="5" align="left" />After hearing so much about _Innovation_ these days, it&#8217;s nice to be able to gain some fresh perspective on how it&#8217;s influenced in this day and age with the Internet and open-collaboration models we&#8217;ve come to know and see grow over the last 10 years. Besides the obvious reference to Wikipedia and our knowledge of social media, it feels now that innovation-ability has increased because greater opportunities for collaboration have never existed like today, and companies/orgs have realized that being more open can have significant advantages in product & process innovation.
+<img src="/images/2008/book-wikinomics.jpg" alt="wikinomics book tapscott williams" hspace="15" vspace="5" align="left" />After hearing so much about _Innovation_ these days, it&#8217;s nice to be able to gain some fresh perspective on how it&#8217;s influenced in this day and age with the Internet and open-collaboration models we&#8217;ve come to know and see grow over the last 10 years. Besides the obvious reference to Wikipedia and our knowledge of social media, it feels now that innovation-ability has increased because greater opportunities for collaboration have never existed like today, and companies/orgs have realized that being more open can have significant advantages in product & process innovation.
 
 In the authors&#8217; own words, p.18:
 

@@ -1,8 +1,8 @@
 ---
-title: Corporate Responsibility - David Vogel and Robert Reich
+title: "Corporate Responsibility - David Vogel and Robert Reich"
+layout: post
 date: 2009-02-23T06:24:56+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - corporate social responsibility, csr, uc berekley, video, david vogel, robert reich
 description:

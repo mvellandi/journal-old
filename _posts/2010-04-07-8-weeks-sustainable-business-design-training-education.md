@@ -1,8 +1,8 @@
 ---
-title: 8 Weeks of Sustainable Business &#038; Design Education
+title: "8 Weeks of Sustainable Business & Design Education"
+layout: post
 date: 2010-04-07T01:02:57+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - design

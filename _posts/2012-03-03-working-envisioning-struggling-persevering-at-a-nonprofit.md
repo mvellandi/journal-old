@@ -1,8 +1,8 @@
 ---
-title: Working, Envisioning, Struggling, Persevering at a Nonprofit
+title: "Working, Envisioning, Struggling, Persevering at a Nonprofit"
+layout: post
 date: 2012-03-03T22:22:41+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 ---

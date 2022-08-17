@@ -1,8 +1,8 @@
 ---
-title: Climate Change Documentary Film by Patrick Gregston
+title: "Climate Change Documentary Film by Patrick Gregston"
+layout: post
 date: 2009-03-28T13:47:32+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - patrick gregston, climate change, video, proof or propaganda, science, interviews, film, hope, theme, message
 description:

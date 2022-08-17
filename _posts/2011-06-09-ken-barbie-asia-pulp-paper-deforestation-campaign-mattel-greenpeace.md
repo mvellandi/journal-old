@@ -1,8 +1,8 @@
 ---
-title: Ken Dumps Barbie Over Rainforest Destruction
+title: "Ken Dumps Barbie Over Rainforest Destruction"
+layout: post
 date: 2011-06-09T17:00:51+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - marketing

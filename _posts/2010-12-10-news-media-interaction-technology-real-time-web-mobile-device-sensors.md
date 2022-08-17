@@ -1,8 +1,8 @@
 ---
-title: New Interactions with News Through Technology, the Real-Time Web, and Actors
+title: "New Interactions with News Through Technology, the Real-Time Web, and Actors"
+layout: post
 date: 2010-12-10T09:00:53+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Presentation on new media technology, how news publishers and the public will interact in co-creating content, the real-time web's effect, and conversations
 categories:

@@ -1,8 +1,8 @@
 ---
-title: Break-Ups&#58; Selected Short Stories
+title: "Break-Ups: Selected Short Stories"
+layout: post
 date: 2010-11-21T09:00:28+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 tags:

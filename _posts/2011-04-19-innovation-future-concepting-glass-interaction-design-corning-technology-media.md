@@ -1,8 +1,8 @@
 ---
-title: Innovation Concepting&#58; A Day Made of Glass &#8211; Corning
+title: "Innovation Concepting: A Day Made of Glass: Corning"
+layout: post
 date: 2011-04-19T12:04:20+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - innovation

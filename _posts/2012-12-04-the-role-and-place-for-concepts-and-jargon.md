@@ -1,8 +1,8 @@
 ---
-title: The Role and Place for Concepts and Jargon
+title: "The Role and Place for Concepts and Jargon"
+layout: post
 date: 2012-12-04T17:33:19+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 ---

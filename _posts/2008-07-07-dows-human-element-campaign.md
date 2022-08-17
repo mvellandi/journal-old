@@ -1,8 +1,8 @@
 ---
-title: Dow's Human Element Campaign - Julie Fasone Holder
+title: "Dow's Human Element Campaign - Julie Fasone Holder"
+layout: post
 date: 2008-07-07T04:57:19+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green marketing, campaign, sustainable brands 2008, dow, chemistry, sustainability, julie fasone holder
 description:

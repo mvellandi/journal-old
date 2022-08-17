@@ -1,8 +1,8 @@
 ---
-title: Stonyfield Farm Story - Gary Hirshberg
+title: "Stonyfield Farm Story - Gary Hirshberg"
+layout: post
 date: 2009-01-25T14:16:03+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - gary hirshberg, stonyfield farm, organic yogurt, green marketing, green business, sustainable branding, history, pesticide, dairy farming, video
 description:

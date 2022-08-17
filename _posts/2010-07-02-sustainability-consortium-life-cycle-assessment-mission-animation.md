@@ -1,8 +1,8 @@
 ---
-title: The Sustainability Consortium &#8211; Opportunities
+title: "The Sustainability Consortium: Opportunities"
+layout: post
 date: 2010-07-02T09:49:33+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

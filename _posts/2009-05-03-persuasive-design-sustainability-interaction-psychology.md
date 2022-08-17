@@ -1,8 +1,8 @@
 ---
-title: Persuasive Design for Sustainability
+title: "Persuasive Design for Sustainability"
+layout: post
 date: 2009-05-03T19:53:22+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, design, interaction design, psychology, persuasion
 description:

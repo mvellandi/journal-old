@@ -1,8 +1,8 @@
 ---
-title: Top Five Sustainability Trends for 2009
+title: "Top Five Sustainability Trends for 2009"
+layout: post
 date: 2009-03-18T05:28:55+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, sustainability trends, sustainable branding, green marketing, brand communications, NGO, online video, social media
 description:

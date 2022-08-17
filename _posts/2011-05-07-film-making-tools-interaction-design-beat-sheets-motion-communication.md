@@ -1,8 +1,8 @@
 ---
-title: Film Making Tools and Interaction Design &#8211; Adam Connor
+title: "Film Making Tools and Interaction Design: Adam Connor"
+layout: post
 date: 2011-05-07T21:00:20+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

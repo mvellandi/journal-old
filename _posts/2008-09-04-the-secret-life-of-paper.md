@@ -1,8 +1,8 @@
 ---
-title: Secrets and Inside Look into Paper Manufacturing, Production and Recycling
+title: "Secrets and Inside Look into Paper Manufacturing, Production and Recycling"
+layout: post
 date: 2008-09-04T05:59:04+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - paper, paper recycling, paper production, sustainability, video, greenhouse gas, ghg
 description:

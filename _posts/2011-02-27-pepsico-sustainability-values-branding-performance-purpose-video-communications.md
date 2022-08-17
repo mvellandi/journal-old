@@ -1,8 +1,8 @@
 ---
-title: PepsiCo’s &#8220;Performance with Purpose&#8221; Sustainability Communications
+title: "PepsiCo’s “Performance with Purpose” Sustainability Communications"
+layout: post
 date: 2011-02-27T12:00:38+00:00
 author: Mario Vellandi
-layout: post
 description:
   - PepsiCo's video on “Performance with Purpose” platform and environmental sustainability progress in water, climate change, agriculture  and packaging
 categories:

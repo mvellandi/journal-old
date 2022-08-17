@@ -1,8 +1,8 @@
 ---
-title: Design for Social Innovation &#8211; Emily Pilloton of Project H
+title: "Design for Social Innovation: Emily Pilloton of Project H"
+layout: post
 date: 2011-01-19T09:00:37+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Story of Emily Pilloton and Project H. Love the learning landscapes for making math concrete and interactive, NOT a brute force, cognitive process
 categories:

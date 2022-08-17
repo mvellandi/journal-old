@@ -1,8 +1,8 @@
 ---
-title: The Evolutionary Benefits of Altruism &#8211; Dacher Keltner, UC Berkeley
+title: "The Evolutionary Benefits of Altruism: Dacher Keltner, UC Berkeley"
+layout: post
 date: 2010-06-14T11:00:19+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - enlightenment

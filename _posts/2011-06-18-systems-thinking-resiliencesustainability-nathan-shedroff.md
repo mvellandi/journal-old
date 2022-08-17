@@ -1,8 +1,8 @@
 ---
-title: Systems Thinking and Resilience in 7 Points &#8211; Nathan Shedroff
+title: "Systems Thinking and Resilience in 7 Points: Nathan Shedroff"
+layout: post
 date: 2011-06-18T17:00:11+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

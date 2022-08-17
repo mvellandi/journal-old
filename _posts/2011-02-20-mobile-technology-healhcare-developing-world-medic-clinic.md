@@ -1,8 +1,8 @@
 ---
-title: Mobile Healthcare for the Developing World &#8211; Medic Mobile
+title: "Mobile Healthcare for the Developing World: Medic Mobile"
+layout: post
 date: 2011-02-20T14:00:09+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Medic Mobile enables community health workers to use text messages to coordinate patient care in developing nations, offer mobile diagnostics, and map health services.
 categories:

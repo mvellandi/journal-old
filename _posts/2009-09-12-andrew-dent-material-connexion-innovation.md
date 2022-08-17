@@ -1,8 +1,8 @@
 ---
-title: Innovative Materials and Processes with Andrew Dent
+title: "Innovative Materials and Processes with Andrew Dent"
+layout: post
 date: 2009-09-12T11:38:34+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - sustainability

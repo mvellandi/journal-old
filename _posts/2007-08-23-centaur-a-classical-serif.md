@@ -1,8 +1,8 @@
 ---
-title: Centaur - An Old Style Serif with a Historic Feel
+title: "Centaur - An Old Style Serif with a Historic Feel"
+layout: post
 date: 2007-08-23T15:37:15+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - centaur, serif, old style, classical, illustration, example, history, typography, typeface
 description:

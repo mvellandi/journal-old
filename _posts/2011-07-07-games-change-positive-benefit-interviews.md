@@ -1,8 +1,8 @@
 ---
-title: Games for Positive Change &#8211; Interviews
+title: "Games for Positive Change: Interviews"
+layout: post
 date: 2011-07-07T01:26:19+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - sustainability

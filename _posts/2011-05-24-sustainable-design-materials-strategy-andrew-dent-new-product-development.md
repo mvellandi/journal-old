@@ -1,8 +1,8 @@
 ---
-title: 7 Points on Sustainable Design&#58; Andrew Dent, Material ConneXion
+title: "7 Points on Sustainable Design: Andrew Dent, Material ConneXion"
+layout: post
 date: 2011-05-24T20:00:39+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - new product development

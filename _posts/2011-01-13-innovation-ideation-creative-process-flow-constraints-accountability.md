@@ -1,8 +1,8 @@
 ---
-title: Ideation, the Importance of FLOW, and Avoiding Traps &#8211; Scott Belsky
+title: "Ideation, the Importance of FLOW, and Avoiding Traps: Scott Belsky"
+layout: post
 date: 2011-01-13T09:00:14+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Great presentation on the creative process and conditions for its success. Principles include restraints, chunking, devil's advocates, competition, and accountability.
 categories:

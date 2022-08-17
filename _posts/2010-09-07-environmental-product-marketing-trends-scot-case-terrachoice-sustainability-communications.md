@@ -1,8 +1,8 @@
 ---
-title: Environmental Product Marketing Trends with Scot Case of TerraChoice
+title: "Environmental Product Marketing Trends with Scot Case of TerraChoice"
+layout: post
 date: 2010-09-07T12:28:50+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

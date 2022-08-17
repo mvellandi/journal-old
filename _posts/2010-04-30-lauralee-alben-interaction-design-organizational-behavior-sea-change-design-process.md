@@ -1,8 +1,8 @@
 ---
-title: Lauralee Alben &#8211; Interaction Design &amp; Organizational Behavior
+title: "Lauralee Alben: Interaction Design &amp; Organizational Behavior"
+layout: post
 date: 2010-04-30T18:48:17+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - management
@@ -11,7 +11,7 @@ tags:
   - interaction design
   - process
 ---
-<img class="alignleft size-full wp-image-4161" style="margin-right: 15px;" title="innovator-lauraleeAlben" src="../images/wp-content/uploads/2010/04/innovator-lauraleeAlben.jpg" alt="lauralee alben" width="258" height="205" />s*Interview with:*  
+<img class="alignleft size-full wp-image-4161" style="margin-right: 15px;" title="innovator-lauraleeAlben" src="/images/2010/innovator-lauraleeAlben.jpg" alt="lauralee alben" width="258" height="205" />s*Interview with:*  
 Lauralee Alben, President of [Alben Design LLC](http://www.albendesign.com/)  
 _June 2009_
 

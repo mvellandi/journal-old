@@ -1,8 +1,8 @@
 ---
-title: Imagine Leadership
+title: "Imagine Leadership"
+layout: post
 date: 2009-06-29T13:26:40+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - management
 tags:

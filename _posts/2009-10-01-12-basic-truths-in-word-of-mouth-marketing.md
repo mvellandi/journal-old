@@ -1,8 +1,8 @@
 ---
-title: 12 Basic Truths in Word of Mouth Marketing, by Andy Sernovitz
+title: "12 Basic Truths in Word of Mouth Marketing, by Andy Sernovitz"
+layout: post
 date: 2009-10-01T14:29:14+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

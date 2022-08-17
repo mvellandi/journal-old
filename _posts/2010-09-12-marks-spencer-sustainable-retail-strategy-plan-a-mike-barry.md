@@ -1,8 +1,8 @@
 ---
-title: Marks and Spencer&#8217;s Consumer Education &#038; Empowerment Strategy &#8211; Mike Barry
+title: "Marks and Spencer’s Consumer Education & Empowerment Strategy: Mike Barry"
+layout: post
 date: 2010-09-12T12:00:54+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - management

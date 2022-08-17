@@ -1,8 +1,8 @@
 ---
-title: What Technology Wants &#8211; Kevin Kelly
+title: "What Technology Wants: Kevin Kelly"
+layout: post
 date: 2011-05-03T21:00:11+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - innovation

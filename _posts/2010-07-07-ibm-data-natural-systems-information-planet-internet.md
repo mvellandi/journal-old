@@ -1,8 +1,8 @@
 ---
-title: Rising Global Consciousness Through Data Capturing
+title: "Rising Global Consciousness Through Data Capturing"
+layout: post
 date: 2010-07-07T12:00:28+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - enlightenment
   - sustainability

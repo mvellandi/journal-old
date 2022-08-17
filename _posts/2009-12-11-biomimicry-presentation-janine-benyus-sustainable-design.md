@@ -1,8 +1,8 @@
 ---
-title: Biomimicry Explained with Janine Benyus
+title: "Biomimicry Explained with Janine Benyus"
+layout: post
 date: 2009-12-11T00:26:44+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

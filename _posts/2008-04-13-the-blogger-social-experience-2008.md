@@ -1,8 +1,8 @@
 ---
-title: The Blogger Social Experience 2008
+title: "The Blogger Social Experience 2008"
+layout: post
 date: 2008-04-13T21:04:54+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 tags:

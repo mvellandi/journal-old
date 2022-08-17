@@ -1,8 +1,8 @@
 ---
-title: The 17th Gyalwang Karmapa on The Meaning of Oneness
+title: "The 17th Gyalwang Karmapa on The Meaning of Oneness"
+layout: post
 date: 2008-07-11T16:50:01+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - buddhism, karmapa, enlightenment, philosophy, love, happiness, religion
 description:

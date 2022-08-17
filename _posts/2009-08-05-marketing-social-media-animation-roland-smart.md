@@ -1,8 +1,8 @@
 ---
-title: Marketing 2.0 Animated Explanation, by Roland Smart
+title: "Marketing 2.0 Animated Explanation, by Roland Smart"
+layout: post
 date: 2009-08-05T03:48:01+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

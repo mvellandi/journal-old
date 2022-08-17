@@ -1,8 +1,8 @@
 ---
-title: Empathy in Business &#038; Brands&#58; Wired to Care, with Dev Patnaik
+title: "Empathy in Business and Brands: Wired to Care, with Dev Patnaik"
+layout: post
 date: 2010-05-14T12:00:32+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - management

@@ -1,8 +1,8 @@
 ---
-title: Cause Marketing - Seventh Generation Campaign for Ingredient Transparency
+title: "Cause Marketing - Seventh Generation Campaign for Ingredient Transparency"
+layout: post
 date: 2008-11-06T15:31:18+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - seventh generation, cause related marketing, ingredients, health, safety, communications, campaign
 description:

@@ -1,8 +1,8 @@
 ---
-title: Adaptive Responses to Pain Tolerance and Interpersonal Attraction &#8211; Dan Ariely
+title: "Adaptive Responses to Pain Tolerance and Interpersonal Attraction: Dan Ariely"
+layout: post
 date: 2011-04-27T12:03:34+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Dan Ariely explores how these types of signals relate to pain and social adaptation. How does our previous exposure to pain alter how we experience it now?
 categories:

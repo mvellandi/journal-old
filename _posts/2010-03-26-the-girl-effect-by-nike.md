@@ -1,8 +1,8 @@
 ---
-title: The Girl Effect, by Nike
+title: "The Girl Effect, by Nike"
+layout: post
 date: 2010-03-26T02:26:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

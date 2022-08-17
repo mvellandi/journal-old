@@ -1,8 +1,8 @@
 ---
-title: Designing for Business as Unusual &#8211; John Thackara
+title: "Designing for Business as Unusual: John Thackara"
+layout: post
 date: 2009-06-28T01:21:09+00:00
 author: Mario Vellandi
-layout: post
 thesis_title:
   - 'Designing for Business as Unusual - John Thackara - Sustainable Interaction Design, Opportunity, Future'
 categories:

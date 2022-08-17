@@ -1,8 +1,8 @@
 ---
-title: Crowdfunding Social Good and Future Hopes &#8211; Amy Sample Ward, NTEN
+title: "Crowdfunding Social Good and Future Hopes: Amy Sample Ward, NTEN"
+layout: post
 date: 2011-05-20T23:09:30+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

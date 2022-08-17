@@ -1,8 +1,8 @@
 ---
-title: Greater Than Yourself by Steve Farber - Book Review
+title: "Greater Than Yourself by Steve Farber - Book Review"
+layout: post
 date: 2009-04-01T14:57:49+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - steve farber, greater than yourself, book, gty, philosophy, infographic, interpersonal development, giving, leadership
 description:

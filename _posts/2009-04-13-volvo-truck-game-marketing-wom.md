@@ -1,8 +1,8 @@
 ---
-title: Volvo World's Strongest Truck 2
+title: "Volvo World's Strongest Truck 2"
+layout: post
 date: 2009-04-13T14:20:07+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - volvo, truck, flash, game, word of mouth, marketing, interactive design
 categories:

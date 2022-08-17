@@ -1,8 +1,8 @@
 ---
-title: The Illustrated Story and Implications of Citizens United v. Federal Election Commission
+title: "The Illustrated Story and Implications of Citizens United v. Federal Election Commission"
+layout: post
 date: 2011-03-14T12:07:40+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Public Citizen worked with Annie Leonard and Free Range Studios to produce the following animated video as part of a campaign, Democracy is for People
 categories:

@@ -1,8 +1,8 @@
 ---
-title: The Future of Sustainable Branding
+title: "The Future of Sustainable Branding"
+layout: post
 date: 2009-02-03T17:01:43+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainable branding, sustainability, marketing, green marketing, scamper branding, video presentation, ethical business, moral consumer
 description:

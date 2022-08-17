@@ -1,8 +1,8 @@
 ---
-title: Hot, Flat, and Crowded by Thomas Friedman - Book Review
+title: "Hot, Flat, and Crowded by Thomas Friedman - Book Review"
+layout: post
 date: 2008-11-16T16:49:30+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - thomas friedman, sustainability, book review, journalism, editorial, clean energy, green, power, electricity, climate change, politics
 description:

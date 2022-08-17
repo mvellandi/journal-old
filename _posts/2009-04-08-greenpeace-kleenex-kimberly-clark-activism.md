@@ -1,8 +1,8 @@
 ---
-title: What's in Your Box of Kleenex? GreenPeace Campaign
+title: "What's in Your Box of Kleenex? GreenPeace Campaign"
+layout: post
 date: 2009-04-08T16:14:54+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - greepeace, social media, social activism, video, kimberly clark, communications, sustainability
 description:

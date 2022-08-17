@@ -1,8 +1,8 @@
 ---
-title: Regenerative Design Lecture with Bill McDonough
+title: "Regenerative Design Lecture with Bill McDonough"
+layout: post
 date: 2009-11-28T14:02:51+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

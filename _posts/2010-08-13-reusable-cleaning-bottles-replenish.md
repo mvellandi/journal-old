@@ -1,8 +1,8 @@
 ---
-title: Reusable Household Cleaning Bottles &#8211; Replenish
+title: "Reusable Household Cleaning Bottles: Replenish"
+layout: post
 date: 2010-08-13T12:00:09+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - new product development

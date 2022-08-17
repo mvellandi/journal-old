@@ -1,8 +1,8 @@
 ---
-title: Carbon Footprinting and Life Cycle Analysis
+title: "Carbon Footprinting and Life Cycle Analysis"
+layout: post
 date: 2008-09-02T18:45:45+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - carbon, life cycle, lifecycle analysis, sustainability, environment, LCA, impact assessment
 description:

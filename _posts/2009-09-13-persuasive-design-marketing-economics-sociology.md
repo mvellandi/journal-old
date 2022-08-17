@@ -1,8 +1,8 @@
 ---
-title: Persuasive Design or The Fine Art of Separating People from Their Bad Behaviours
+title: "Persuasive Design or The Fine Art of Separating People from Their Bad Behaviours"
+layout: post
 date: 2009-09-13T14:09:15+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

@@ -1,8 +1,8 @@
 ---
-title: SBA 504 Loan Expands for Green Projects
+title: "SBA 504 Loan Expands for Green Projects"
+layout: post
 date: 2009-02-09T03:50:03+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sba loan, 504 loan, green building, energy conservation, small business, sba 504 loan, leed, green design
 description:

@@ -1,8 +1,8 @@
 ---
-title: CSR 2.0 &#8211; The Future of Corporate Social Responsibility
+title: "CSR 2.0: The Future of Corporate Social Responsibility"
+layout: post
 date: 2010-07-14T13:17:25+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - sustainability

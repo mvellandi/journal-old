@@ -1,8 +1,8 @@
 ---
-title: Digital DUMBO&#58; Intro to a Brooklyn Creative Community
+title: "Digital DUMBO: Intro to a Brooklyn Creative Community"
+layout: post
 date: 2011-04-22T11:02:53+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 tags:

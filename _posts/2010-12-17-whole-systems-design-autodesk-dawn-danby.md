@@ -1,8 +1,8 @@
 ---
-title: Whole Systems Design with Autodesk&#8217;s Dawn Danby
+title: "Whole Systems Design with Autodesk’s Dawn Danby"
+layout: post
 date: 2010-12-17T09:00:25+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Autodesk's Dawn Danby talks about how opportunities for saving resources, like materials and energy, can often be uncovered early in the design process
 categories:

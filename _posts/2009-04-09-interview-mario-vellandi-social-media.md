@@ -1,8 +1,8 @@
 ---
-title: My Interview on Social Media and Marketing - Interview by C.B. Whittemore
+title: "My Interview on Social Media and Marketing - Interview by C.B. Whittemore"
+layout: post
 date: 2009-04-09T04:51:53+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - social media, marketing, interview
 description:

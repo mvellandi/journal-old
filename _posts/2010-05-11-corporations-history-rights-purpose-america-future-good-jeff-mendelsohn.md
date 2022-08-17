@@ -1,8 +1,8 @@
 ---
-title: Corporations are a Powerful Force. Let&#8217;s Harness this for Good
+title: "Corporations are a Powerful Force. Let’s Harness this for Good"
+layout: post
 date: 2010-05-11T12:00:03+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - management

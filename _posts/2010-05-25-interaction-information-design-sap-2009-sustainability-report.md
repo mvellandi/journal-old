@@ -1,8 +1,8 @@
 ---
-title: Great Info Design&#58; SAP 2009 Sustainability Report
+title: "Great Info Design: SAP 2009 Sustainability Report"
+layout: post
 date: 2010-05-25T18:00:49+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

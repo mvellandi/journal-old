@@ -1,8 +1,8 @@
 ---
-title: Writing for Customer Relationships and Applications &#8211; Denise Wilton
+title: "Writing for Customer Relationships and Applications: Denise Wilton"
+layout: post
 date: 2010-12-08T09:00:09+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Read this to learn the importance of strong and effective writing techniques for developing great customer relationships in online communications.
 categories:

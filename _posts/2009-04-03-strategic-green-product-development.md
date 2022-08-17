@@ -1,8 +1,8 @@
 ---
-title: Aligning Customer Value With Green Value
+title: "Aligning Customer Value With Green Value"
+layout: post
 date: 2009-04-03T21:45:42+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - new product development, npd, sustainability, bob lurie, product innovation, green design, sustainable products, benefits, research, sustainability
 description:

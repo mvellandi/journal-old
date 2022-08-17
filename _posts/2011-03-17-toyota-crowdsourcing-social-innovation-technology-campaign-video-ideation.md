@@ -1,8 +1,8 @@
 ---
-title: Toyota Ideas for Good &#8211; Crowdsourcing Innovation
+title: "Toyota Ideas for Good: Crowdsourcing Innovation"
+layout: post
 date: 2011-03-17T12:05:32+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - marketing

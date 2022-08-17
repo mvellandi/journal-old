@@ -1,8 +1,8 @@
 ---
-title: An Illustrated History of Interaction Design &#8211; Bill Verplank
+title: "An Illustrated History of Interaction Design: Bill Verplank"
+layout: post
 date: 2011-04-20T12:04:56+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Bill Verplank shows various paradigms of interaction design, including a good history of the practice since working at Xerox in the late 70s
 categories:
@@ -21,6 +21,6 @@ tags:
 
 _**Click image to open video page**_
 
-<img src="../images/wp-content/uploads/2011/03/bill-verplank-interaction-design.jpg" />
+<img src="/images/2011/bill-verplank-interaction-design.jpg" />
 
 [Video Link for Email/Other Subscribers &#8211; 62.5min](http://vimeo.com/20285615)

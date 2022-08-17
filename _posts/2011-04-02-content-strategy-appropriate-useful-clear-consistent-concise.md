@@ -1,8 +1,8 @@
 ---
-title: A Checklist for Content Work
+title: "A Checklist for Content Work"
+layout: post
 date: 2011-04-02T12:08:45+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Proctor &#038; Gamble&#8217;s New Sustainability Vision
+title: "Proctor & Gamble’s New Sustainability Vision"
+layout: post
 date: 2010-10-03T11:00:42+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

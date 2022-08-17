@@ -1,8 +1,8 @@
 ---
-title: The Beauty of Reduction
+title: "The Beauty of Reduction"
+layout: post
 date: 2008-05-24T15:19:19+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - reductionism, quality of life, clutter, focus, cutting, redundancy, productivity, happiness, zen
 description:
@@ -12,7 +12,7 @@ categories:
 tags:
   - reductionism
 ---
-<img style="border-right:0;border-top:0;border-left:0;border-bottom:0;" src="../images/wp-content/uploads/2008/05/reductionism-knifes-thumb.jpg" alt="reduction knives minimalism" width="504" height="278" />
+<img style="border-right:0;border-top:0;border-left:0;border-bottom:0;" src="/images/2008/reductionism-knifes-thumb.jpg" alt="reduction knives minimalism" width="504" height="278" />
 
 . . .
 

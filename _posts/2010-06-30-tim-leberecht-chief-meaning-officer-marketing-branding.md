@@ -1,8 +1,8 @@
 ---
-title: Chief Meaning Officer&#58; Tangible Ways to Create Intangible Value
+title: "Chief Meaning Officer: Tangible Ways to Create Intangible Value"
+layout: post
 date: 2010-06-30T12:43:11+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

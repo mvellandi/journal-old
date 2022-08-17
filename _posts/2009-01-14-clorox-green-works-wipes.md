@@ -1,8 +1,8 @@
 ---
-title: Clorox Green Works Wipes
+title: "Clorox Green Works Wipes"
+layout: post
 date: 2009-01-14T16:38:06+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - clorox, green works, kitchen wipes, safe, biodegradable, marketing, review, analysis, competition, retail, price, green marketing
 description:
@@ -16,7 +16,7 @@ tags:
   - greenworks
   - sustainability
 ---
-<img class="size-medium wp-image-758 alignleft" style="margin:5px 20px 10px 0; float: left;" title="clorox_green_works_wipes" src="../images/wp-content/uploads/2009/01/clorox_green_works_wipes-117x300.jpg" alt="clorox green works wipes" width="117" height="300" />Green Works from Clorox launched a new product this Monday, following its one year anniversary. Its <a rel="nofollow" href="http://www.greenworkspresskit.com/January_12_2009.html">Natural Biodegradable Cleaning Wipes</a> are said to be made from 100% cellulose fibers, derived from renewable farm grown trees, and are supposed to be biodegradable in typical compost conditions. What &#8216;typical&#8217; means is hopefully, for Clorox&#8217;s and the public&#8217;s perception, a backyard or home composting environment. (Aside, &#8216;biodegradable&#8217; is in marketing terms according to the FTC Green Guides, a subjective term that should be backed up by evidence).
+<img class="size-medium wp-image-758 alignleft" style="margin:5px 20px 10px 0; float: left;" title="clorox_green_works_wipes" src="/images/2009/clorox_green_works_wipes-117x300.jpg" alt="clorox green works wipes" width="117" height="300" />Green Works from Clorox launched a new product this Monday, following its one year anniversary. Its <a rel="nofollow" href="http://www.greenworkspresskit.com/January_12_2009.html">Natural Biodegradable Cleaning Wipes</a> are said to be made from 100% cellulose fibers, derived from renewable farm grown trees, and are supposed to be biodegradable in typical compost conditions. What &#8216;typical&#8217; means is hopefully, for Clorox&#8217;s and the public&#8217;s perception, a backyard or home composting environment. (Aside, &#8216;biodegradable&#8217; is in marketing terms according to the FTC Green Guides, a subjective term that should be backed up by evidence).
 
 The wipes will be on shelves soon, and are available starting in Original scent with SRPs of $3.39 (30-count canister) and for a $5.99 (62-count canister). This is competitively priced compared to other wipes from Clorox brand, Reckitt Benckiser&#8217;s Lysol, and P&G&#8217;s Mr. Clean.
 

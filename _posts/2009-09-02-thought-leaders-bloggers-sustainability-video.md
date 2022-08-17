@@ -1,8 +1,8 @@
 ---
-title: Thought Leaders on Sustainability
+title: "Thought Leaders on Sustainability"
+layout: post
 date: 2009-09-02T23:03:37+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

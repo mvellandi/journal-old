@@ -1,8 +1,8 @@
 ---
-title: Mixed Messaging and Incongruency in Marketing Channels
+title: "Mixed Messaging and Incongruency in Marketing Channels"
+layout: post
 date: 2010-11-12T09:00:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - communication

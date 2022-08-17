@@ -1,8 +1,8 @@
 ---
-title: Ten Business Models that Rocked 2010 &#8211; Nick Demey
+title: "Ten Business Models that Rocked 2010: Nick Demey"
+layout: post
 date: 2011-03-15T12:24:38+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 tags:

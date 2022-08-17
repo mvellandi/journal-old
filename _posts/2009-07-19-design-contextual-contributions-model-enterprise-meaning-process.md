@@ -1,8 +1,8 @@
 ---
-title: Design and its Contextual Contributions, by Ralf Beuker
+title: "Design and its Contextual Contributions, by Ralf Beuker"
+layout: post
 date: 2009-07-19T17:00:58+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

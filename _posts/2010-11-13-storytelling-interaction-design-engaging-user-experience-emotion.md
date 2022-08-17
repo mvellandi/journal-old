@@ -1,8 +1,8 @@
 ---
-title: Storytelling for Interaction Design and Engaging User Experiences
+title: "Storytelling for Interaction Design and Engaging User Experiences"
+layout: post
 date: 2010-11-13T09:00:39+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

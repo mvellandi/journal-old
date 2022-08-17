@@ -1,8 +1,8 @@
 ---
-title: Anvil Knitwear&#8217;s Organic Farming Campaign Video
+title: "Anvil Knitwear’s Organic Farming Campaign Video"
+layout: post
 date: 2010-10-06T15:10:20+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - sustainability

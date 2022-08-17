@@ -1,8 +1,8 @@
 ---
-title: Addressing the Kenyan Energy Market and Deforestation &#8211; Tevis Howard, Komaza
+title: "Addressing the Kenyan Energy Market and Deforestation: Tevis Howard, Komaza"
+layout: post
 date: 2011-04-28T12:04:15+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - sustainability

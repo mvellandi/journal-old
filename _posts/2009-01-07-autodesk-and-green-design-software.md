@@ -1,8 +1,8 @@
 ---
-title: Green Design Software and Autodesk&#58; Lynelle Cameron
+title: "Green Design Software and Autodesk: Lynelle Cameron"
+layout: post
 date: 2009-01-07T04:11:50+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainable design software, green design, design software, autodesk, lynelle cameron, video, interview, innovation
 description:

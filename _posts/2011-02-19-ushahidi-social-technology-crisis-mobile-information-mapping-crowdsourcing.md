@@ -1,8 +1,8 @@
 ---
-title: Crisis Mapping with Social Technology and Mobile Crowdsourcing &#8211; Ushahidi
+title: "Crisis Mapping with Social Technology and Mobile Crowdsourcing: Ushahidi"
+layout: post
 date: 2011-02-19T09:44:30+00:00
 author: Mario Vellandi
-layout: post
 description:
   - This great social technology platform Ushahidi, is capable of crowd-sourcing, sharing and mapping crisis information in near real time from mobile phones and the web
 categories:

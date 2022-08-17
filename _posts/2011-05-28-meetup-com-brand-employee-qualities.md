@@ -1,8 +1,8 @@
 ---
-title: Meetup.com Brand Employee Qualities
+title: "Meetup.com Brand Employee Qualities"
+layout: post
 date: 2011-05-28T19:00:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - management
 tags:
@@ -15,8 +15,8 @@ Recently, I attended an event at [Meetup.com](http://Meetup.com) headquarters in
 
 But first the obligatory photo of me by the big sign!
 
-<img src="../images/wp-content/uploads/2011/05/meetup-headquarters-mario-photo.jpg" />
+<img src="/images/2011/meetup-headquarters-mario-photo.jpg" />
 
 And here&#8217;s the qualities&#8230;
 
-[<img src="../images/wp-content/uploads/2011/05/meetup-employee-qualities-info.jpg" />](../wp-content/uploads/2011/05/meetup-employee-qualities-info.jpg)
+[<img src="/images/2011/meetup-employee-qualities-info.jpg" />](../2011/meetup-employee-qualities-info.jpg)

@@ -1,8 +1,8 @@
 ---
-title: Ecological Overshoot with Susan Burns
+title: "Ecological Overshoot with Susan Burns"
+layout: post
 date: 2010-05-04T11:00:27+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability
@@ -12,7 +12,7 @@ tags:
   - footprint
   - natural step
 ---
-<img class="alignleft size-full wp-image-4191" style="margin-right: 15px;" title="susan_burns" src="../images/wp-content/uploads/2010/05/susan_burns.jpg" alt="" width="170" height="216" />*Interview with:*
+<img class="alignleft size-full wp-image-4191" style="margin-right: 15px;" title="susan_burns" src="/images/2010/susan_burns.jpg" alt="" width="170" height="216" />*Interview with:*
 
 Susan Burns, [Global Footprint Network](http://globalfootprintnetwork.com/)
 

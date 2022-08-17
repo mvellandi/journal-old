@@ -1,8 +1,8 @@
 ---
-title: 10 Skills for Active Listening
+title: "10 Skills for Active Listening"
+layout: post
 date: 2010-09-03T01:45:18+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 tags:

@@ -1,8 +1,8 @@
 ---
-title: The Creative Benefits of Being an Outsider &#8211; Jonah Lehrer
+title: "The Creative Benefits of Being an Outsider: Jonah Lehrer"
+layout: post
 date: 2011-01-18T09:00:18+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Spatial, intellectual, temporal, and cultural distance can significantly drive innovation due to seeing things from a different perspective
 categories:

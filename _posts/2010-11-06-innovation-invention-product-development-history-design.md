@@ -1,8 +1,8 @@
 ---
-title: Innovation History, Myths, and Practical Reality
+title: "Innovation History, Myths, and Practical Reality"
+layout: post
 date: 2010-11-06T09:00:20+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - design
@@ -232,7 +232,7 @@ That&#8217;s right! Remember the Betamax? The [Iridium](http://www.iridium.com/)
 
 Scott wraps up the chapter with some great historical examples, along with a diagram that sums it up nicely, which I&#8217;ve remixed into the following:
 
-<img src="../images/wp-content/uploads/2010/10/innovation-adoption-advantage-economics.jpg" />
+<img src="/images/2010/innovation-adoption-advantage-economics.jpg" />
 
 ## The Relationship between Problems and Solutions
 

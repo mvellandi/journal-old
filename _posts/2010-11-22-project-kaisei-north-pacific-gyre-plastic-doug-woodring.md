@@ -1,8 +1,8 @@
 ---
-title: The Story of Project Kaisei and Oceanic Health &#8211; Doug Woodring
+title: "The Story of Project Kaisei and Oceanic Health: Doug Woodring"
+layout: post
 date: 2010-11-22T09:00:26+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Project Kaisei's Doug Woodring describes their history, mission, and collaborating with partners to conduct further research on the North Pacific Gyre
 categories:

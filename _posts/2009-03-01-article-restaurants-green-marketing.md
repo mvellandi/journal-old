@@ -1,8 +1,8 @@
 ---
-title: Restaurants and Green Marketing {Article}
+title: "Restaurants and Green Marketing {Article}"
+layout: post
 date: 2009-03-01T19:20:49+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green restaurant, sustainable operations, green marketing, flat top grill, boloco, planet smoothie
 description:

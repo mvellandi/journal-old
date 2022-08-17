@@ -1,8 +1,8 @@
 ---
-title: Beyond Carbon&#58; Carrying Capacity and the Ecological Footprint of Business
+title: "Beyond Carbon: Carrying Capacity and the Ecological Footprint of Business"
+layout: post
 date: 2010-05-13T12:00:38+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

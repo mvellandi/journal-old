@@ -1,8 +1,8 @@
 ---
-title: Earth Hour 2010 &#8211; Video
+title: "Earth Hour 2010: Video"
+layout: post
 date: 2010-03-25T03:33:50+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

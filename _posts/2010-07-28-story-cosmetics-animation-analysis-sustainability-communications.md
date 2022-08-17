@@ -1,8 +1,8 @@
 ---
-title: The Story of Cosmetics
+title: "The Story of Cosmetics"
+layout: post
 date: 2010-07-28T03:50:44+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - sustainability

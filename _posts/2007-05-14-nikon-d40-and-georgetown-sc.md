@@ -1,12 +1,12 @@
 ---
-title: Nikon D40 and Georgetown, SC
+title: "Nikon D40 and Georgetown, SC"
+layout: post
 date: 2007-05-14T00:43:34+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 ---
-<img src="../images/wp-content/uploads/2008/03/picturetown.jpg"/>Picturetown is a microsite from Nikon, that first caught my attention from a recent commercial. I couldn&#8217;t remember the web address nor name, so I searched extensively. Finally, I called MWW on Friday and a gentleman named Kevin pointed it out to me. This post is a quick rundown of the site and my thoughts about it. Note: I am a proud owner of a Canon Rebel XT.
+<img src="/images/2008/picturetown.jpg"/>Picturetown is a microsite from Nikon, that first caught my attention from a recent commercial. I couldn&#8217;t remember the web address nor name, so I searched extensively. Finally, I called MWW on Friday and a gentleman named Kevin pointed it out to me. This post is a quick rundown of the site and my thoughts about it. Note: I am a proud owner of a Canon Rebel XT.
 
 Picturetown opens with 2 concise sentences
 

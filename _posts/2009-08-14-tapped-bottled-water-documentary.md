@@ -1,8 +1,8 @@
 ---
-title: Tapped &#8211; The Bottled Water Documentary
+title: "Tapped: The Bottled Water Documentary"
+layout: post
 date: 2009-08-14T12:29:46+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Design and Management Education, by Roger Martin
+title: "Design and Management Education, by Roger Martin"
+layout: post
 date: 2009-12-30T23:44:40+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - enlightenment

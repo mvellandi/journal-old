@@ -1,8 +1,8 @@
 ---
-title: Terracycle to Create Products from Mars Inc. Brands
+title: "Terracycle to Create Products from Mars Inc. Brands"
+layout: post
 date: 2009-04-23T01:19:59+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - terracycle, tom szaky, mars, consumer products, waste, brands, desire, marketing, product development, sustainability
 description:

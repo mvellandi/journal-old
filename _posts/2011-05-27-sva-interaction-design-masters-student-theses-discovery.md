@@ -1,8 +1,8 @@
 ---
-title: SVA Interaction Design Student Theses&#58; Discovery
+title: "SVA Interaction Design Student Theses: Discovery"
+layout: post
 date: 2011-05-27T19:00:15+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design
@@ -13,7 +13,7 @@ tags:
   - mobile
   - student thesis
 ---
-[<img src="../images/wp-content/uploads/2011/05/open-ixd-interaction-design-festival-logo.jpg" />](http://interactiondesign.sva.edu/events/entry/open_ixd/)
+[<img src="/images/2011/open-ixd-interaction-design-festival-logo.jpg" />](http://interactiondesign.sva.edu/events/entry/open_ixd/)
 
 So earlier this month, I attended the [MFA Interaction Design Festival](http://interactiondesign.sva.edu/events/entry/open_ixd/), which showcased Masters of Fine Arts student theses projects at the [School of Visual Arts in NYC](http://sva.edu). In all, I was taken away by the high amount of humanistic ideas put forward by the students. This post covers the first of four themes: __Discovery__.
 

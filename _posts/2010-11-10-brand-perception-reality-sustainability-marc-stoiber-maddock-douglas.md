@@ -1,8 +1,8 @@
 ---
-title: Brand Perception v. Reality on Sustainability &#8211; Marc Stoiber
+title: "Brand Perception v. Reality on Sustainability: Marc Stoiber"
+layout: post
 date: 2010-11-10T09:00:09+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

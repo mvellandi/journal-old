@@ -1,8 +1,8 @@
 ---
-title: SunChips Fixes Noisy Bag, Explains How with Content Marketing
+title: "SunChips Fixes Noisy Bag, Explains How with Content Marketing"
+layout: post
 date: 2011-03-22T12:44:57+00:00
 author: Mario Vellandi
-layout: post
 description:
   - SunChips has fixed the noisy biodegradable bag problem and Brad Rogers is here to talk about it with video for great public relations and content marketing
 categories:

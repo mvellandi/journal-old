@@ -1,8 +1,8 @@
 ---
-title: Santa Claus Brand Guidelines &#8211; I Swear You&#8217;ll Laugh
+title: "Santa Claus Brand Guidelines: I Swear You’ll Laugh"
+layout: post
 date: 2010-12-24T09:00:25+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Hilarious! If you love marketing and geeking out on its principles, then you'll love this video from QuietRoom on Santa Claus branding
 categories:

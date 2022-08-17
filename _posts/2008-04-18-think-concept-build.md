@@ -1,8 +1,8 @@
 ---
-title: Think, Concept, Build - A New Product Development Model
+title: "Think, Concept, Build - A New Product Development Model"
+layout: post
 date: 2008-04-18T17:50:45+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - concept development, ideation, npd, new product development, product design, innovation, objective, strategic fit, viability analysis
 description:

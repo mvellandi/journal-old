@@ -1,8 +1,8 @@
 ---
-title: Sustainability Q&A at University of Pennsylvania
+title: "Sustainability Q&A at University of Pennsylvania"
+layout: post
 date: 2009-02-18T06:11:43+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, upenn, university pennsylvania, symposium, discussion, question and answer, business, corporate social responsibility, society
 description:

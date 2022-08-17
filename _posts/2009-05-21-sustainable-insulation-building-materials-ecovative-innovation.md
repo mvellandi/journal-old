@@ -1,8 +1,8 @@
 ---
-title: Sustainable Insulation & Building Materials
+title: "Sustainable Insulation & Building Materials"
+layout: post
 date: 2009-05-21T13:00:27+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - innovation

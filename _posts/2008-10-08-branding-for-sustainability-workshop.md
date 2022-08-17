@@ -1,8 +1,8 @@
 ---
-title: Sustainable Branding Workshop with GAP, BBMG, and SustainAbility
+title: "Sustainable Branding Workshop with GAP, BBMG, and SustainAbility"
+layout: post
 date: 2008-10-08T13:13:15+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - gap, banana republic, branding, kindley walsh lawlor, brad bemporad, chris guenther, workshop, marketing
 description:

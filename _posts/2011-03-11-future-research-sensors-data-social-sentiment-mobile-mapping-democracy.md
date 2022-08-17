@@ -1,8 +1,8 @@
 ---
-title: The Future and Implications of Real-Time Information
+title: "The Future and Implications of Real-Time Information"
+layout: post
 date: 2011-03-11T12:04:57+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Reports highlights the subjects-- sensors, census, social sentiment, media sharing, mobile, mapping, timelines, nature, smart grids, and data democracy.
 categories:

@@ -1,8 +1,8 @@
 ---
-title: The Essence of Branding - Inspired by Tom Asacker
+title: "The Essence of Branding - Inspired by Tom Asacker"
+layout: post
 date: 2008-05-08T01:11:05+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - books, marketing, branding, positioning, business, soul, psychology, customer, story, belief, tom asacker, value proposition
 description:
@@ -22,7 +22,7 @@ tags:
   - tom asacker
   - value proposition
 ---
-<img style="border-width:0;margin:0 20px 15px 0;" src="../images/wp-content/uploads/2008/05/heartcloud1.jpg" alt="heartCloud1" width="244" height="232" align="left" />While marketers have debated the meaning of &#8216;Brand&#8217; like the classical Greeks had with &#8216;Democracy&#8217;, or the French & Italians with &#8216;Love&#8217;, one contemporary author has nailed an excellent definition for our times. What follows is the first of an article series covering themes from the book: [A Clear Eye for Branding](http://www.amazon.com/gp/product/097252908X?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=097252908X)<img style="border-style:none !important;margin:0;" src="http://www.assoc-amazon.com/e/ir?t=melodinmarke-20&l=as2&o=1&a=097252908X" alt="" width="1" height="1" />, by [Tom Asacker](http://www.acleareye.com/ "Tom Asacker author A Clear Eye for Branding").
+<img style="border-width:0;margin:0 20px 15px 0;" src="/images/2008/heartcloud1.jpg" alt="heartCloud1" width="244" height="232" align="left" />While marketers have debated the meaning of &#8216;Brand&#8217; like the classical Greeks had with &#8216;Democracy&#8217;, or the French & Italians with &#8216;Love&#8217;, one contemporary author has nailed an excellent definition for our times. What follows is the first of an article series covering themes from the book: [A Clear Eye for Branding](http://www.amazon.com/gp/product/097252908X?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=097252908X)<img style="border-style:none !important;margin:0;" src="http://www.assoc-amazon.com/e/ir?t=melodinmarke-20&l=as2&o=1&a=097252908X" alt="" width="1" height="1" />, by [Tom Asacker](http://www.acleareye.com/ "Tom Asacker author A Clear Eye for Branding").
 
 We choose brands based on the Feelings they evoke in us. Quality and Consistency were the traditional branding values. As advertising and new products proliferated, nowadays these values have shifted to Familiarity and Comfort (especially for low-involvement products with minor differences between brands).
 

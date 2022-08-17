@@ -1,8 +1,8 @@
 ---
-title: Toyota Europe Launches Aim Zero Emissions Blog
+title: "Toyota Europe Launches Aim Zero Emissions Blog"
+layout: post
 date: 2009-02-18T16:21:06+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - 'aim zero emissions, toyota blog, environment, sustainability, social media, colin hensley, public relations '
 description:

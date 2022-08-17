@@ -1,8 +1,8 @@
 ---
-title: Strategic Product Design - Brian Ling Industrial Designer
+title: "Strategic Product Design - Brian Ling Industrial Designer"
+layout: post
 date: 2008-08-25T14:04:04+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - strategic design, strategic product development, design strategy, industrial designer, management, product innovation
 description:

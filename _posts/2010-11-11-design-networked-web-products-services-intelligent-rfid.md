@@ -1,8 +1,8 @@
 ---
-title: Design for Networked Objects in the World
+title: "Design for Networked Objects in the World"
+layout: post
 date: 2010-11-11T09:00:41+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - new product development

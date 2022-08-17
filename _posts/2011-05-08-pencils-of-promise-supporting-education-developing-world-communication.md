@@ -1,8 +1,8 @@
 ---
-title: Pencils of Promise &#8211; Supporting Education in the Developing World
+title: "Pencils of Promise: Supporting Education in the Developing World"
+layout: post
 date: 2011-05-08T21:00:27+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 tags:

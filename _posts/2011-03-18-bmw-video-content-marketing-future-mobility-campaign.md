@@ -1,8 +1,8 @@
 ---
-title: Activate the Future (of Mobility), by BMW
+title: "Activate the Future (of Mobility), by BMW"
+layout: post
 date: 2011-03-18T12:04:13+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Neat content marketing campaign around the upcoming release of the BMWi and ActiveE cars, by filming a four-part video series around the future of mobility
 categories:
@@ -19,7 +19,7 @@ tags:
 ---
 Neat content marketing campaign around the upcoming release of the BMWi and ActiveE cars, by filming a four-part video series around the future of mobility, through interviews on the website.
 
-[<img src="../images/wp-content/uploads/2011/03/bmw-activate-the-future-video-content-marketing.jpg" />](http://bmwactivatethefuture.com/)
+[<img src="/images/2011/bmw-activate-the-future-video-content-marketing.jpg" />](http://bmwactivatethefuture.com/)
 
 In their own words,
 

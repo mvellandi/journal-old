@@ -1,8 +1,8 @@
 ---
-title: Corporate Responsibility and Business Strategy &#8211; Toby Webb, Ethical Corporation
+title: "Corporate Responsibility and Business Strategy: Toby Webb, Ethical Corporation"
+layout: post
 date: 2010-05-02T05:36:05+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - management

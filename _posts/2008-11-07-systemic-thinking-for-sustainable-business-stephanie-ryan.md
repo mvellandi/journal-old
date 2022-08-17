@@ -1,8 +1,8 @@
 ---
-title: Systemic Thinking for Sustainable Business&#58; Stephanie Ryan
+title: "Systemic Thinking for Sustainable Business: Stephanie Ryan"
+layout: post
 date: 2008-11-07T16:47:30+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - systems thinking, stephanie ryan, sustainability, csr, corporate social responsibility
 categories:

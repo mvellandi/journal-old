@@ -1,8 +1,8 @@
 ---
-title: Learning Interaction Design From Everyday Objects &#8211; Bill DeRouchey
+title: "Learning Interaction Design From Everyday Objects: Bill DeRouchey"
+layout: post
 date: 2011-01-21T09:00:13+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Interaction has a language that is created and curated, expressed through visceral stimuli, and gives priority, clarity, and purpose. By Bill DeRouchey
 categories:

@@ -1,8 +1,8 @@
 ---
-title: Documentary Films&#58; Expanding Distribution and Influencing Change
+title: "Documentary Films: Expanding Distribution and Influencing Change"
+layout: post
 date: 2011-06-05T16:00:44+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

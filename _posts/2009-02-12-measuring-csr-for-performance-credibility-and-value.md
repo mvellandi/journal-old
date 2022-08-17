@@ -1,8 +1,8 @@
 ---
-title: Do Socially Responsible Companies Perform Better? The Role of Metrics
+title: "Do Socially Responsible Companies Perform Better? The Role of Metrics"
+layout: post
 date: 2009-02-12T04:25:49+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - csr measurement, measuring social responsibility, csr metrics, social return on investment, csr evaluation, corporate social responsibility
 description:

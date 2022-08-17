@@ -1,8 +1,8 @@
 ---
-title: Recyclable Packaging Considered Most Important to Consumers
+title: "Recyclable Packaging Considered Most Important to Consumers"
+layout: post
 date: 2009-03-08T14:52:35+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainable packaging, recyclable packaging, biodegradable, minimal packaging, post-consumer recycled content, compostable
 description:

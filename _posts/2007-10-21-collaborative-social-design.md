@@ -1,8 +1,8 @@
 ---
-title: Collaborative Social Design
+title: "Collaborative Social Design"
+layout: post
 date: 2007-10-21T13:42:51+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

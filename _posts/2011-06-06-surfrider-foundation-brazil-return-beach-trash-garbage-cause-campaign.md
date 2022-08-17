@@ -1,8 +1,8 @@
 ---
-title: Returning the Beach Trash &#8211; Surfrider Foundation Brazil
+title: "Returning the Beach Trash: Surfrider Foundation Brazil"
+layout: post
 date: 2011-06-06T21:24:17+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
   - sustainability

@@ -1,8 +1,8 @@
 ---
-title: Affordable, Quality Eyewear to Buy and Give &#8211; Neil Blumenthal, Warby Parker
+title: "Affordable, Quality Eyewear to Buy and Give: Neil Blumenthal, Warby Parker"
+layout: post
 date: 2011-06-04T16:00:47+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - new product development

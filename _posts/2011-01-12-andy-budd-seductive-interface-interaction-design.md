@@ -1,8 +1,8 @@
 ---
-title: Seductive Interface Design &#8211; Andy Budd
+title: "Seductive Interface Design: Andy Budd"
+layout: post
 date: 2011-01-12T09:00:08+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Interaction design for seduction, attraction, desire, rapport, and commitment. Andy Budd describes web and interface design principles that build relationships.
 categories:

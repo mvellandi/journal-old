@@ -1,8 +1,8 @@
 ---
-title: 8 Principles of Resiliency
+title: "8 Principles of Resiliency"
+layout: post
 date: 2009-04-24T18:13:55+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - management, design, resiliency, resilience, redundancy, diversity, decentralization, collaboration, transparency, failure, grace, flexibility, foresight, jamais cascio, infographic, sustainability, principles, illustration
 description:

@@ -1,8 +1,8 @@
 ---
-title: Ford Motor Company&#8217;s Sustainability Strategy &#8211; John Viera
+title: "Ford Motor Company’s Sustainability Strategy: John Viera"
+layout: post
 date: 2010-08-30T10:30:15+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - design

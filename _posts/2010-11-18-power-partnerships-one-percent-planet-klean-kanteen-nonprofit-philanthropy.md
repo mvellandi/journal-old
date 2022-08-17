@@ -1,8 +1,8 @@
 ---
-title: The Power of Partnerships&#58; 1% for the Planet and Klean Kanteen
+title: "The Power of Partnerships: 1% for the Planet and Klean Kanteen"
+layout: post
 date: 2010-11-18T15:00:57+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Klean Kanteen and 1% For the Planet discuss their organizations, their partnership, and developing relationships and cooperative activities
 categories:

@@ -1,8 +1,8 @@
 ---
-title: Waste to Resource Matchmaking Service
+title: "Waste to Resource Matchmaking Service"
+layout: post
 date: 2009-03-03T04:47:18+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - waste management, polystyrene recycling, polymer, National Industrial Symbiosis Programme, supplier exchange, waste recycling
 description:

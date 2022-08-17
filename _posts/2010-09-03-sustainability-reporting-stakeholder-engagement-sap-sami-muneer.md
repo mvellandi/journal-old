@@ -1,8 +1,8 @@
 ---
-title: Sustainability Reporting and Stakeholder Engagement at SAP &#8211; Sami Muneer
+title: "Sustainability Reporting and Stakeholder Engagement at SAP: Sami Muneer"
+layout: post
 date: 2010-09-03T11:10:50+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

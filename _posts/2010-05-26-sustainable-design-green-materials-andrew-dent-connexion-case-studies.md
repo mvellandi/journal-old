@@ -1,8 +1,8 @@
 ---
-title: Transparency &#038; Green Materials
+title: "Transparency and Green Materials"
+layout: post
 date: 2010-05-26T12:00:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

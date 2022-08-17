@@ -1,8 +1,8 @@
 ---
-title: Movements v. Campaigns in Social Media Marketing
+title: "Movements v. Campaigns in Social Media Marketing"
+layout: post
 date: 2009-09-26T13:14:10+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

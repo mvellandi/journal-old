@@ -1,8 +1,8 @@
 ---
-title: Social Marketing Analytics, by Altimeter Group
+title: "Social Marketing Analytics, by Altimeter Group"
+layout: post
 date: 2010-06-23T10:44:46+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

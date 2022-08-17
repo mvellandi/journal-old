@@ -1,8 +1,8 @@
 ---
-title: SQFT&#58; Utilizing Empty Spaces for Pop-Up Culture and Commerce
+title: "SQFT: Utilizing Empty Spaces for Pop-Up Culture and Commerce"
+layout: post
 date: 2012-09-06T18:44:27+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 ---

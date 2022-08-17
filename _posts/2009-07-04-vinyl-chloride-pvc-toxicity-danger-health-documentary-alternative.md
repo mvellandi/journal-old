@@ -1,8 +1,8 @@
 ---
-title: Blue Vinyl &#8211; Documentary Highlights of the Toxic Plastic
+title: "Blue Vinyl: Documentary Highlights of the Toxic Plastic"
+layout: post
 date: 2009-07-04T12:48:00+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - enlightenment

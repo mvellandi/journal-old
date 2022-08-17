@@ -1,8 +1,8 @@
 ---
-title: Building Projects and Using Tech for Social Impact
+title: "Building Projects and Using Tech for Social Impact"
+layout: post
 date: 2009-07-12T01:02:11+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - innovation

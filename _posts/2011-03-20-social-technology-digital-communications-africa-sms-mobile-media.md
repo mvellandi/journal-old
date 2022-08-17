@@ -1,8 +1,8 @@
 ---
-title: Social Technology and Mobile Communications in Africa &#8211; Erik Hersman
+title: "Social Technology and Mobile Communications in Africa: Erik Hersman"
+layout: post
 date: 2011-03-20T12:09:53+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Review of social technology development across Africa using SMS, mapping, media, and payments. Video of Erik Hersman. Great work and inspirational.
 categories:
@@ -22,6 +22,6 @@ Erik Hersman, who [I&#8217;ve profiled here before with videos about Ushahidi](.
 
 **_click image to open video page_**
 
-<a href="http://vimeo.com/20309871"><img src="../images/wp-content/uploads/2011/03/erik-hersman-mobile-computing-africa.jpg" /></a>**
+<a href="http://vimeo.com/20309871"><img src="/images/2011/erik-hersman-mobile-computing-africa.jpg" /></a>**
 
 [Video Link for Email/Other Subscribers &#8211; 33min](http://vimeo.com/20309871)

@@ -1,8 +1,8 @@
 ---
-title: TED Talks -- William McDonough
+title: "TED Talks -- William McDonough"
+layout: post
 date: 2007-09-14T17:01:40+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

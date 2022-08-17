@@ -1,8 +1,8 @@
 ---
-title: Sustainable Packaging Design Software&#58; Envirowise
+title: "Sustainable Packaging Design Software: Envirowise"
+layout: post
 date: 2009-06-25T02:33:03+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

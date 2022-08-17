@@ -1,8 +1,8 @@
 ---
-title: Sustainable Packaging Redesign&#58; Yoplait
+title: "Sustainable Packaging Redesign: Yoplait"
+layout: post
 date: 2008-06-12T14:39:50+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - yoplait, skunk, usability, branding, green packaging, green packaging design, sustainable packaging, sustainable packaging design, yogurt packaging, yogurt packaging design
 description:
@@ -31,7 +31,7 @@ So, I noticed after opening a box of Yoplait yogurt I purchased at Costco that t
 
 Here&#8217;s how the redesign looks:
 
-<img class="aligncenter size-full wp-image-200" title="yoplait yogurt packaging design blueberry container" src="../images/wp-content/uploads/2008/06/yoplaitpackaging.jpg" alt="general mills yoplait container with curved redesign " width="500" height="270" />
+<img class="aligncenter size-full wp-image-200" title="yoplait yogurt packaging design blueberry container" src="/images/2008/yoplaitpackaging.jpg" alt="general mills yoplait container with curved redesign " width="500" height="270" />
 
 ### Branding
 

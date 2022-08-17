@@ -1,8 +1,8 @@
 ---
-title: Meaningful Marketing for Social Benefit &#8211; Bob Gilbreath
+title: "Meaningful Marketing for Social Benefit: Bob Gilbreath"
+layout: post
 date: 2010-11-23T09:00:48+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Bob Gilbreath of Bridge Worldwide describes the importance of meaningful marketing, solutions, connection, and helping people realize achievements
 categories:

@@ -1,8 +1,8 @@
 ---
-title: Community Management and Marketing &#8211; Justin Isaf, Huffington Post
+title: "Community Management and Marketing: Justin Isaf, Huffington Post"
+layout: post
 date: 2011-05-13T19:00:05+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

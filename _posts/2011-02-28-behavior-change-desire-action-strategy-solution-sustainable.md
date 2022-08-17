@@ -1,8 +1,8 @@
 ---
-title: Making Behavior Change Actionable &#8211; Holly Kretschmar, IDEO
+title: "Making Behavior Change Actionable: Holly Kretschmar, IDEO"
+layout: post
 date: 2011-02-28T12:12:39+00:00
 author: Mario Vellandi
-layout: post
 description:
   - People have a surfeit of desire but often lack a coherent, actionable strategy to transfer desire into action, leading to sustainable behavior change
 categories:

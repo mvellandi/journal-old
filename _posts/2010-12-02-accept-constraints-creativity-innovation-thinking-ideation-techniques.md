@@ -1,8 +1,8 @@
 ---
-title: Embracing Constraints for Creativity &#038; Innovation
+title: "Embracing Constraints for Creativity and Innovation"
+layout: post
 date: 2010-12-02T09:00:43+00:00
 author: Mario Vellandi
-layout: post
 description:
   - When acknowledging and challenging those constraints, better ideas will emerge within the scope of a project's objective, or the problem to be solved
 categories:

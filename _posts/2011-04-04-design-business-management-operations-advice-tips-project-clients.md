@@ -1,8 +1,8 @@
 ---
-title: Ten Mistakes to Avoid in Running a Design Business (And What To Do Instead)
+title: "Ten Mistakes to Avoid in Running a Design Business (And What To Do Instead)"
+layout: post
 date: 2011-04-04T12:01:58+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - management

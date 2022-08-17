@@ -1,8 +1,8 @@
 ---
-title: Procter & Gamble and Sustainable Innovation&#58; Critical Analysis
+title: "Procter & Gamble and Sustainable Innovation: Critical Analysis"
+layout: post
 date: 2009-03-31T12:38:30+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - business, green business, sustainability, proctor gamble, cpg, sustainable innovation, analysis, roadmap, products, portfolio management
 description:

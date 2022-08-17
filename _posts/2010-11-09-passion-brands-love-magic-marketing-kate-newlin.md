@@ -1,8 +1,8 @@
 ---
-title: Passion Brand Magic and the 7 Accelerators
+title: "Passion Brand Magic and the 7 Accelerators"
+layout: post
 date: 2010-11-09T09:00:14+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - communication

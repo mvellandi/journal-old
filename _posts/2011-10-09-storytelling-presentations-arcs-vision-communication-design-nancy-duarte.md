@@ -1,8 +1,8 @@
 ---
-title: Weaving Stories into Your Presentation &#8211; Nancy Duarte
+title: "Weaving Stories into Your Presentation: Nancy Duarte"
+layout: post
 date: 2011-10-09T12:21:28+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 ---

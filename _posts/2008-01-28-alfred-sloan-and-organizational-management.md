@@ -1,8 +1,8 @@
 ---
-title: Alfred Sloan and The Discipline of Organizational Management
+title: "Alfred Sloan and The Discipline of Organizational Management"
+layout: post
 date: 2008-01-28T14:37:26+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - alfred sloan, organizational management, leadership, general motors, business history, branding, portfolio management
 description:
@@ -12,7 +12,7 @@ categories:
 tags:
   - organizational design
 ---
-<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" alt="alfred sloan portrait photo" src="../images/wp-content/uploads/2008/03/portrait-alfredsloan.jpg" />One of the subjects I&#8217;m currently studying is American business history. It can be fascinating for its insight into how and why modern business practices evolved the way they did.
+<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" alt="alfred sloan portrait photo" src="/images/2008/portrait-alfredsloan.jpg" />One of the subjects I&#8217;m currently studying is American business history. It can be fascinating for its insight into how and why modern business practices evolved the way they did.
 
 Henry Ford helped build the U.S. automobile industry by becoming a master of production methods, and using the subsequent economies of scale to progressively offer the public a better Model T at an increasingly lower price. Though he was a brilliant engineer and equitable leader, he detested bureaucracy, org charts, and so called &#8216;financeering&#8217;; as a result, he bought back all of his company&#8217;s stock in 1919 and took the firm private. Ford was the proud individualist who understood practical economics, but two conditions slowly brought his firm down. First, his centralized management style couldn&#8217;t adapt to the unique needs of a much larger corporation of its operational nature. Secondly, his complete lack of a customer and market-orientation led Ford to make few model updates and new brands, causing a steady drop in market share from 56% in 1921 to 21% by 1937.
 

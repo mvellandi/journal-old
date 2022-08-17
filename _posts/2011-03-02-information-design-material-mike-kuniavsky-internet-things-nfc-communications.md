@@ -1,8 +1,8 @@
 ---
-title: Information as a Material &#8211; Mike Kuniavsky
+title: "Information as a Material: Mike Kuniavsky"
+layout: post
 date: 2011-03-02T12:05:01+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Information as a material enables The Internet of Things, object-oriented hardware, smart materials, ubiquitous computing, and intelligent environments.
 categories:

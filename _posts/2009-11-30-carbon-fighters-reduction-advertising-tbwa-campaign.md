@@ -1,8 +1,8 @@
 ---
-title: Carbon Fighters Take It to the Workplace
+title: "Carbon Fighters Take It to the Workplace"
+layout: post
 date: 2009-11-30T15:06:15+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - sustainability

@@ -1,8 +1,8 @@
 ---
-title: Design Strategy &#8211; A Short Film About It
+title: "Design Strategy: A Short Film About It"
+layout: post
 date: 2009-06-21T14:16:13+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

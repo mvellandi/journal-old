@@ -1,8 +1,8 @@
 ---
-title: Moms Against Climate Change (Environmental Defence Canada &#038; ForestEthics Ad)
+title: "Moms Against Climate Change (Environmental Defence Canada and ForestEthics Ad)"
+layout: post
 date: 2009-11-20T11:48:16+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

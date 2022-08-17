@@ -1,8 +1,8 @@
 ---
-title: What and Where is Interaction Design? Richard Buchanan
+title: "What and Where is Interaction Design? Richard Buchanan"
+layout: post
 date: 2011-03-30T12:08:33+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

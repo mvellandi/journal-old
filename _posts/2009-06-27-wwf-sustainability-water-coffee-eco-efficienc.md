@@ -1,8 +1,8 @@
 ---
-title: Change The Way You Think About Lattes &#8211; WWF
+title: "Change The Way You Think About Lattes: WWF"
+layout: post
 date: 2009-06-27T06:16:22+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

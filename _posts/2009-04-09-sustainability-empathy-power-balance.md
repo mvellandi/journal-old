@@ -1,8 +1,8 @@
 ---
-title: Sustainable Organizations&#58; Balancing Empathy and Power
+title: "Sustainable Organizations: Balancing Empathy and Power"
+layout: post
 date: 2009-04-09T05:19:21+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - organizational behavior, enlightenment, management, empathy, power, sustainability
 description:

@@ -1,8 +1,8 @@
 ---
-title: US Green Building Council - 15 Years Video History
+title: "US Green Building Council - 15 Years Video History"
+layout: post
 date: 2009-01-27T14:58:40+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green building, green design, us green building council, video, usgbc, documentary, history, accomplishments
 description:

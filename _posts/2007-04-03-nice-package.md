@@ -1,8 +1,8 @@
 ---
-title: Clamshell Packaging Made Easy
+title: "Clamshell Packaging Made Easy"
+layout: post
 date: 2007-04-03T16:05:15+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - clamshell packaging, usability, pvc packaging, shopper frustration, packaging design, photo
 description:

@@ -1,8 +1,8 @@
 ---
-title: Mediated Culture and Doing Whatever It Takes&#8230;Together
+title: "Mediated Culture and Doing Whatever It Takes…Together"
+layout: post
 date: 2010-12-15T09:00:07+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Fantastic video presentation and notes on media history, culture, society, indifference, social and new media, sharing, and the positive future opportunities
 categories:

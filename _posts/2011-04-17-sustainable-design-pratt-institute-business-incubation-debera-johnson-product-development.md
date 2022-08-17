@@ -1,8 +1,8 @@
 ---
-title: Sustainable Innovation and Project Incubation &#8211; Debera Johnson, Pratt Institute
+title: "Sustainable Innovation and Project Incubation: Debera Johnson, Pratt Institute"
+layout: post
 date: 2011-04-17T12:06:33+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - new product development

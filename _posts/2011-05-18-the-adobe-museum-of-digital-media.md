@@ -1,8 +1,8 @@
 ---
-title: The Adobe Museum of Digital Media
+title: "The Adobe Museum of Digital Media"
+layout: post
 date: 2011-05-18T11:18:02+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 tags:
@@ -11,7 +11,7 @@ tags:
   - john maeda
   - museum
 ---
-[<img src="../images/wp-content/uploads/2011/04/adobe-digital-media-museum.jpg" />](http://www.adobemuseum.com/)
+[<img src="/images/2011/adobe-digital-media-museum.jpg" />](http://www.adobemuseum.com/)
 
 The [Adobe Museum of Digital Media](http://www.adobemuseum.com/index.php) is a neat concept, although there are only two active exhibits: A presentation by John Maeda on digital media history, and Tony Oursler&#8217;s interactive abstract art on various subjects.
 

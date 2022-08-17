@@ -1,8 +1,8 @@
 ---
-title: 10 Criteria for Good Design - Dieter Rams
+title: "10 Criteria for Good Design - Dieter Rams"
+layout: post
 date: 2009-03-10T04:42:43+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - good design, great product design, product design criteria, product development guidelines, development criteria, dieter rams, video, guidelines, commandments, philosophy
 description:

@@ -1,8 +1,8 @@
 ---
-title: The IDEO Human-Centered Design Toolkit
+title: "The IDEO Human-Centered Design Toolkit"
+layout: post
 date: 2009-07-21T14:56:57+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - new product development
@@ -24,11 +24,11 @@ Human-Centered Design is a process used for decades to create new solutions for 
 
 The reason this process is called “human-centered” is because it starts with the people we are designing for. The starting point of the HCD process is to examine the needs, dreams, and behaviors of the people we want to affect with our solutions. We seek to listen to and understand what they want. We call this the Desirability lens.
 
-<img class="aligncenter size-full wp-image-3651" title="product-development-questions-analysis" alt="product-development-questions-analysis" src="../images/wp-content/uploads/2009/07/product-development-questions-analysis.jpg" width="350" height="380" />
+<img class="aligncenter size-full wp-image-3651" title="product-development-questions-analysis" alt="product-development-questions-analysis" src="/images/2009/product-development-questions-analysis.jpg" width="350" height="380" />
 
 It is the lens through which we view the world through the entire design process. Once we have identified the universe of what is Desirable, we begin to view our solutions through the lenses of Feasibility and Viability. We carefully bring these lenses in at the later phases of the process.
 
-<img class="aligncenter size-full wp-image-3652" title="ideo-human-centered-design-process-graph" alt="ideo-human-centered-design-process-graph" src="../images/wp-content/uploads/2009/07/ideo-human-centered-design-process-graph.jpg" width="500" height="271" />
+<img class="aligncenter size-full wp-image-3652" title="ideo-human-centered-design-process-graph" alt="ideo-human-centered-design-process-graph" src="/images/2009/ideo-human-centered-design-process-graph.jpg" width="500" height="271" />
 
 ## Scenarios
 
@@ -105,7 +105,7 @@ __Steps__:
   2. Identify Capabilities Required for Delivering Solutions (Distribution, Requirements v. Capabilities, Potential Partners)
   3. Plan a Pipeline of Solutions
 
-<img class="aligncenter size-full wp-image-3653" title="innovation-map-incremental-evolutionary-diagram" alt="innovation-map-incremental-evolutionary-diagram" src="../images/wp-content/uploads/2009/07/innovation-map-incremental-evolutionary-diagram.jpg" width="393" height="396" />
+<img class="aligncenter size-full wp-image-3653" title="innovation-map-incremental-evolutionary-diagram" alt="innovation-map-incremental-evolutionary-diagram" src="/images/2009/innovation-map-incremental-evolutionary-diagram.jpg" width="393" height="396" />
 
   1. Create an Implementation Timeline
   2. Plan Mini-Pilots and Iteration

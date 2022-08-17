@@ -1,8 +1,8 @@
 ---
-title: Design Thinking and Marketing
+title: "Design Thinking and Marketing"
+layout: post
 date: 2008-11-01T05:33:49+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - design thinking, management, marketing, design, communication, concept, business, commerce, development, usability, HCI
 description:

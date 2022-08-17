@@ -1,8 +1,8 @@
 ---
-title: Design Green Now - Videos from 2008
+title: "Design Green Now - Videos from 2008"
+layout: post
 date: 2009-03-08T04:03:55+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainable product design, sustainable product development, green design, green product development, frog design, adam richardson, biomimicry, storytelling
 description:

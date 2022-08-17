@@ -1,8 +1,8 @@
 ---
-title: 15 Cultural Meanings Important to Marketing and Design
+title: "15 Cultural Meanings Important to Marketing and Design"
+layout: post
 date: 2010-12-06T09:00:04+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Explanation of 15 Meanings as identified by Steve Diller, Darrel Rhea, and Nathan Shedroff in their book Making Meaning.
 categories:

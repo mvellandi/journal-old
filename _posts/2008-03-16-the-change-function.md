@@ -1,8 +1,8 @@
 ---
-title: The Change Function by Pip Coburn
+title: "The Change Function by Pip Coburn"
+layout: post
 date: 2008-03-16T22:20:42+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - innovation diagram, change function, infographic, pip coburn, book review
 description:

@@ -1,8 +1,8 @@
 ---
-title: Personal Note to my Readers
+title: "Personal Note to my Readers"
+layout: post
 date: 2008-06-11T14:44:19+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - special note, green marketing, sustainability
 description:
@@ -10,4 +10,4 @@ description:
 categories:
   - intermezzo
 ---
-<img class="size-full wp-image-198 aligncenter" title="note to readers" src="../images/wp-content/uploads/2008/06/notetoreader.jpg" alt="special note for my readers and a new address" width="500" height="342" />
+<img class="size-full wp-image-198 aligncenter" title="note to readers" src="/images/2008/notetoreader.jpg" alt="special note for my readers and a new address" width="500" height="342" />

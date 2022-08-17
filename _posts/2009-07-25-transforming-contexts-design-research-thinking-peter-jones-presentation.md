@@ -1,8 +1,8 @@
 ---
-title: Transforming Contexts in Design Research, by Peter Jones
+title: "Transforming Contexts in Design Research, by Peter Jones"
+layout: post
 date: 2009-07-25T11:34:35+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - research

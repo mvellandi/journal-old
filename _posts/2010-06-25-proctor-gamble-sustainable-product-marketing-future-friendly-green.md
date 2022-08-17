@@ -1,8 +1,8 @@
 ---
-title: P&#038;G&#8217;s Future Friendly Approach to Sustainable Product Marketing
+title: "P&G’s Future Friendly Approach to Sustainable Product Marketing"
+layout: post
 date: 2010-06-25T09:52:14+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

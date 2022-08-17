@@ -1,8 +1,8 @@
 ---
-title: Making Fair Trade Work Right &#8211; Labeeb Abboud, Rainforest Alliance
+title: "Making Fair Trade Work Right: Labeeb Abboud, Rainforest Alliance"
+layout: post
 date: 2011-05-10T19:00:59+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Labeeb Abboud of Rainforest Alliance discusses how all value chain partners need to benefit, poverty alleviation, and environmental sustainability
 categories:

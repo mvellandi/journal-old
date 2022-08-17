@@ -1,8 +1,8 @@
 ---
-title: Green Marketing Pie - By John Grant
+title: "Green Marketing Pie - By John Grant"
+layout: post
 date: 2009-01-04T23:35:53+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, green marketing, green business, john grant, chart, diagram, infographic, hierarchy, illustration
 description:

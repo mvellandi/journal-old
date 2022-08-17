@@ -1,8 +1,8 @@
 ---
-title: ChangeMaker&#58; Justin Yuen and Collaborative Software
+title: "ChangeMaker: Justin Yuen and Collaborative Software"
+layout: post
 date: 2010-05-25T11:00:36+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - sustainability

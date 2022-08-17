@@ -1,8 +1,8 @@
 ---
-title: Inspirational Blueprint for a Better Society &#8211; Ezio Manzini
+title: "Inspirational Blueprint for a Better Society: Ezio Manzini"
+layout: post
 date: 2010-12-09T09:00:06+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Presentation and notes on 3 signals for an improved society from designer Ezio Manzini. Using social innovation to improve communities through enabling systems
 categories:

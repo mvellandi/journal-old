@@ -1,8 +1,8 @@
 ---
-title: Data Visualization and Storytelling
+title: "Data Visualization and Storytelling"
+layout: post
 date: 2011-01-09T09:00:28+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Visualizations should be meaningful, have low cognitive load factors, and an interpreter to tell the story. Overwhelm people and you'll upset them
 categories:
@@ -15,7 +15,7 @@ tags:
   - information
   - storytelling
 ---
-<img src="../images/wp-content/uploads/2011/01/oakland-crimespotting-infographic-data.jpg" />
+<img src="/images/2011/oakland-crimespotting-infographic-data.jpg" />
 
 From Oakland Crimespotting
 

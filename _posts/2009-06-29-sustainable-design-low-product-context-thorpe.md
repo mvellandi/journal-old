@@ -1,8 +1,8 @@
 ---
-title: The Context of &#8216;Low Product&#8217;, by Ann Thorpe {Article}
+title: "The Context of 'Low Product', by Ann Thorpe {Article}"
+layout: post
 date: 2009-06-29T03:51:13+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

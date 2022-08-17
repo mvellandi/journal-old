@@ -1,8 +1,8 @@
 ---
-title: Learning from Design-Driven Innovation &#8211; Tim Leberecht, Frog Design
+title: "Learning from Design-Driven Innovation: Tim Leberecht, Frog Design"
+layout: post
 date: 2010-12-26T09:00:29+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Design thinking, rapid prototyping, agility, storytelling, multimedia, active listening, being social...all are powerful tools for organizational resilience
 categories:

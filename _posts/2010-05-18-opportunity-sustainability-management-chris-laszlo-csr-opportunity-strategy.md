@@ -1,8 +1,8 @@
 ---
-title: The Opportunity for Sustainability Within an Economic Downturn
+title: "The Opportunity for Sustainability Within an Economic Downturn"
+layout: post
 date: 2010-05-18T12:00:10+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - management

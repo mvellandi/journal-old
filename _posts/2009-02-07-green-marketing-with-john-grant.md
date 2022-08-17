@@ -1,8 +1,8 @@
 ---
-title: Green Marketing Presentation with John Grant
+title: "Green Marketing Presentation with John Grant"
+layout: post
 date: 2009-02-07T13:39:51+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - john grant, green marketing, marketing communications, greenwashing, authenticity, video, green business, ethics
 description:

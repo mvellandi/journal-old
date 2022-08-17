@@ -1,8 +1,8 @@
 ---
-title: Teaching Digital Tech Skills to New Media Journalism Students &#8211; Steven Johnson
+title: "Teaching Digital Tech Skills to New Media Journalism Students: Steven Johnson"
+layout: post
 date: 2011-05-06T21:51:53+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 tags:

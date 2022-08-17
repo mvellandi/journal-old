@@ -1,8 +1,8 @@
 ---
-title: SC Johnson Continues Promoting Transparency and Values
+title: "SC Johnson Continues Promoting Transparency and Values"
+layout: post
 date: 2010-12-03T09:00:34+00:00
 author: Mario Vellandi
-layout: post
 description:
   - With SC Johnson, its values branding function is partly defense against smaller brands claims on being healthier, and advocacy for trust.
 categories:

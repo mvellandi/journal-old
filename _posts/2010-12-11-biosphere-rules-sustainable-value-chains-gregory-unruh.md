@@ -1,8 +1,8 @@
 ---
-title: Biosphere Rules and Sustainable Value Chains &#8211; Gregory Unruh
+title: "Biosphere Rules and Sustainable Value Chains: Gregory Unruh"
+layout: post
 date: 2010-12-11T09:00:12+00:00
 author: Mario Vellandi
-layout: post
 description:
   - The value chain is the represents the first half of a product's lifecycle, yet it doesn't account for all the waste that's at production's front-end
 categories:

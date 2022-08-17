@@ -1,8 +1,8 @@
 ---
-title: EcoATM&#58; Easy and Incentivized Used Phone Recycling
+title: "EcoATM: Easy and Incentivized Used Phone Recycling"
+layout: post
 date: 2011-03-23T12:09:38+00:00
 author: Mario Vellandi
-layout: post
 description:
   - EcoATM provides an easy, accessible mobile phone and portable electronics recycling process providing instant gratification with a fair value exchange
 categories:

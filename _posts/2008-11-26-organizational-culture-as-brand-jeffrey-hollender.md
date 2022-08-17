@@ -1,8 +1,8 @@
 ---
-title: Organizational Culture as Brand - Jeffrey Hollender of Seventh Generation
+title: "Organizational Culture as Brand - Jeffrey Hollender of Seventh Generation"
+layout: post
 date: 2008-11-26T07:59:17+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, jeffrey hollender, seventh generation, social responsibility, csr, workplace, ethics, culture, brand, values, employees, organizational behavior, systemic thinking, cause related marketing
 description:

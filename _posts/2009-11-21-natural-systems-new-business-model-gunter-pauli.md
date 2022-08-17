@@ -1,8 +1,8 @@
 ---
-title: How Natural Systems Shape a New Business Model, by Gunter Pauli
+title: "How Natural Systems Shape a New Business Model, by Gunter Pauli"
+layout: post
 date: 2009-11-21T16:36:37+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - sustainability

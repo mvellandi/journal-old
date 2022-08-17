@@ -1,8 +1,8 @@
 ---
-title: A Love Story… In Milk
+title: "A Love Story… In Milk"
+layout: post
 date: 2011-05-24T02:25:58+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Recycling communications piece for Friends of the Earth. Humor, joy, hope, and other emotions are what make advocacy communications stand out.
 categories:

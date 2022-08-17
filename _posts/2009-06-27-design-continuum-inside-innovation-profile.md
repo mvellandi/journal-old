@@ -1,8 +1,8 @@
 ---
-title: Inside Design &#038; Innovation at Continuum
+title: "Inside Design: Innovation at Continuum"
+layout: post
 date: 2009-06-27T06:41:57+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

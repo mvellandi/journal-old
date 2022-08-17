@@ -1,8 +1,8 @@
 ---
-title: Collective Intelligence and Conversational Marketing
+title: "Collective Intelligence and Conversational Marketing"
+layout: post
 date: 2008-05-15T23:40:18+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - social media, collective intelligence, marketing research, competitive intelligence, product development, marketing, communication
 description:

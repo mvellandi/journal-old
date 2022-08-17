@@ -1,8 +1,8 @@
 ---
-title: Designer's Field Guide to Sustainability
+title: "Designer's Field Guide to Sustainability"
+layout: post
 date: 2008-08-26T17:35:56+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - lunar, sustainable product development, eco product, green design, sustainable product design, sustainability, guidelines
 description:

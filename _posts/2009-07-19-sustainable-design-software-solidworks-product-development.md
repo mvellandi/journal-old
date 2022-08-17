@@ -1,8 +1,8 @@
 ---
-title: SolidWorks Sustainability Xpress &#8211; Design Software Demo
+title: "SolidWorks Sustainability Xpress: Design Software Demo"
+layout: post
 date: 2009-07-19T10:00:51+00:00
 author: Mario Vellandi
-layout: post
 thesis_title:
   - 'Sustainable Design Software Demo - Solidworks Sustainability Xpress'
 categories:

@@ -1,8 +1,8 @@
 ---
-title: How to Change Complicated Stuff (And Better the World) &#8211; Marc Rettig
+title: "How to Change Complicated Stuff (And Better the World): Marc Rettig"
+layout: post
 date: 2009-07-17T00:12:17+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - research

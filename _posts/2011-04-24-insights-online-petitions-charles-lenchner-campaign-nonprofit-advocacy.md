@@ -1,8 +1,8 @@
 ---
-title: Insights to Online Petitions &#8211; Charles Lenchner, Organizing 2.0
+title: "Insights to Online Petitions: Charles Lenchner, Organizing 2.0"
+layout: post
 date: 2011-04-24T12:09:25+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

@@ -1,8 +1,8 @@
 ---
-title: The Future Cost of Meat? A Few Spoof Advertisements
+title: "The Future Cost of Meat? A Few Spoof Advertisements"
+layout: post
 date: 2011-03-07T12:09:02+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Gamification&#58; Helping People get from Point A to Point B in their Lives
+title: "Gamification: Helping People get from Point A to Point B in their Lives"
+layout: post
 date: 2011-05-21T19:00:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

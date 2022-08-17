@@ -1,8 +1,8 @@
 ---
-title: Climate Change Animation - Tipping Point Ahead, by Leo Murray
+title: "Climate Change Animation - Tipping Point Ahead, by Leo Murray"
+layout: post
 date: 2008-12-18T18:39:38+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - animation, climate change, sustainability, education, leo murray, art, action, awareness
 description:

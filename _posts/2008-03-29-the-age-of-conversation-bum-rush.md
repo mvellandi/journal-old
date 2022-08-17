@@ -1,8 +1,8 @@
 ---
-title: The Age of Conversation
+title: "The Age of Conversation"
+layout: post
 date: 2008-03-29T00:30:23+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
 tags:

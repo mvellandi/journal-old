@@ -1,8 +1,8 @@
 ---
-title: Honda Innovation Short Films
+title: "Honda Innovation Short Films"
+layout: post
 date: 2009-03-04T19:42:41+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - honda innovation, company culture, video, filming, people, stories
 description:

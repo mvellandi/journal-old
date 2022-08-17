@@ -1,8 +1,8 @@
 ---
-title: Google&#8217;s Project 10^100 Selects Grant Winners
+title: "Google’s Project 10^100 Selects Grant Winners"
+layout: post
 date: 2010-10-04T11:00:39+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
 tags:

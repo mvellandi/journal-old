@@ -1,8 +1,8 @@
 ---
-title: Trajan - A Classic and Overused Roman Capital Serif
+title: "Trajan - A Classic and Overused Roman Capital Serif"
+layout: post
 date: 2008-03-30T23:31:45+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - trajan, typography, graphic design, roman serif, caps, classic serif, history, humor, video
 description:

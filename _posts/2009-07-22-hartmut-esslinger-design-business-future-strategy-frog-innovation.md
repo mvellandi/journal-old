@@ -1,8 +1,8 @@
 ---
-title: Hartmut Esslinger on Design, Business, and the Future
+title: "Hartmut Esslinger on Design, Business, and the Future"
+layout: post
 date: 2009-07-22T18:05:43+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - design

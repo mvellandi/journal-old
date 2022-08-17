@@ -1,8 +1,8 @@
 ---
-title: Carbon Footprints &#8211; The Dramatic Short Film
+title: "Carbon Footprints: The Dramatic Short Film"
+layout: post
 date: 2010-03-03T09:02:14+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 tags:

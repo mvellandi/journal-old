@@ -1,8 +1,8 @@
 ---
-title: Innovation Trends in Biofuel, Social Technology, and Education &#8211; Anya Kamenetz
+title: "Innovation Trends in Biofuel, Social Technology, and Education: Anya Kamenetz"
+layout: post
 date: 2010-11-24T09:00:00+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Anya Kamenetz of Fast Company talks algae biofuels, social media for social impact with collaborative technologies, and alternative education models
 categories:

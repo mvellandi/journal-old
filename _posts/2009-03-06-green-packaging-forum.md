@@ -1,8 +1,8 @@
 ---
-title: Green Packaging Forum Launched
+title: "Green Packaging Forum Launched"
+layout: post
 date: 2009-03-06T14:07:13+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainable packaging, packaging, sustainability, forum, network, news, resources
 description:

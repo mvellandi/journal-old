@@ -1,8 +1,8 @@
 ---
-title: Environmental Management with IBM&#8217;s Smarter Planet &#8211; Lee Green
+title: "Environmental Management with IBM’s Smarter Planet: Lee Green"
+layout: post
 date: 2010-09-10T12:00:23+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - management

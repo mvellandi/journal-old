@@ -1,8 +1,8 @@
 ---
-title: Product Placement Documentary with Radical Brand Sponsors &#8211; Morgan Spurlock
+title: "Product Placement Documentary with Radical Brand Sponsors: Morgan Spurlock"
+layout: post
 date: 2011-04-10T12:11:56+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

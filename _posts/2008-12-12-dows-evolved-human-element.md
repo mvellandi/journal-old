@@ -1,8 +1,8 @@
 ---
-title: Dow's Evolved Human Element Campaign
+title: "Dow's Evolved Human Element Campaign"
+layout: post
 date: 2008-12-12T17:55:14+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - 'dow, sustainability, csr, corporate social responsibility, human element, campaign, communication, video, multimedia, bbdo, social media, marketing, story, criticism, agency, water, solar energy '
 description:

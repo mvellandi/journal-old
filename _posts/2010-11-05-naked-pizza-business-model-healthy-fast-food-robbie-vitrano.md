@@ -1,8 +1,8 @@
 ---
-title: A Business Model for Healthy Fast Food &#8211; Robbie Vitrano, Naked Pizza
+title: "A Business Model for Healthy Fast Food: Robbie Vitrano, Naked Pizza"
+layout: post
 date: 2010-11-05T09:00:51+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

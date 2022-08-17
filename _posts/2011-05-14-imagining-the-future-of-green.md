@@ -1,8 +1,8 @@
 ---
-title: Imagining the Future of Green
+title: "Imagining the Future of Green"
+layout: post
 date: 2011-05-14T19:00:41+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - enlightenment
   - sustainability

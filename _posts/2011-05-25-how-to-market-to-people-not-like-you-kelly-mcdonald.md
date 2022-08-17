@@ -1,8 +1,8 @@
 ---
-title: How to Market to People Not Like You, by Kelly McDonald
+title: "How to Market to People Not Like You, by Kelly McDonald"
+layout: post
 date: 2011-05-25T19:00:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:
@@ -13,7 +13,7 @@ tags:
   - kelly mcdonald
   - segmentation
 ---
-[<img class="alignleft size-full wp-image-7026" style="margin: 10px 20px;" title="How to Market to People Not Like You" src="../images/wp-content/uploads/2011/05/cultural-marketing-kelly-mcdonald.jpg" alt="book on cultural marketing by kelly mcdonald" width="185" height="280" />](http://www.amazon.com/gp/product/0470879009/ref=as_li_ss_tl?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0470879009)
+[<img class="alignleft size-full wp-image-7026" style="margin: 10px 20px;" title="How to Market to People Not Like You" src="/images/2011/cultural-marketing-kelly-mcdonald.jpg" alt="book on cultural marketing by kelly mcdonald" width="185" height="280" />](http://www.amazon.com/gp/product/0470879009/ref=as_li_ss_tl?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0470879009)
 
 [Kelly McDonald](http://www.mcdonaldmarketing.com/ "Kelly McDonald's website") wrote [this book](http://www.amazon.com/gp/product/0470879009/ref=as_li_ss_tl?ie=UTF8&tag=melodinmarke-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0470879009 "Amazon link to Kelly's marketing book") I read recently that provides the principles of marketing along with tactics to understand and communicate with a whole variety of demographic, cultural, and values-based market segments. The nice thing about it was that although I wasn&#8217;t the target audience (being a marketing nerd), it seemed **very** approachable for small to medium sized businesses on the principles part, and insightful on the cultural part for every conceivable reader who picks this up.
 

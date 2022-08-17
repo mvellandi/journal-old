@@ -1,8 +1,8 @@
 ---
-title: Endless Media Consumption Should NOT be Encouraged &#8211; Peter Knocke
+title: "Endless Media Consumption Should NOT be Encouraged: Peter Knocke"
+layout: post
 date: 2011-05-09T21:00:33+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

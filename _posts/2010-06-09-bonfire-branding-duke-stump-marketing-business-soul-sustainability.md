@@ -1,8 +1,8 @@
 ---
-title: Bonfire Branding with Duke Stump
+title: "Bonfire Branding with Duke Stump"
+layout: post
 date: 2010-06-09T11:00:06+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - enlightenment

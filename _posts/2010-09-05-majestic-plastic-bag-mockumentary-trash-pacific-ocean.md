@@ -1,8 +1,8 @@
 ---
-title: The Majestic Plastic Bag &#8211; A Mockumentary
+title: "The Majestic Plastic Bag: A Mockumentary"
+layout: post
 date: 2010-09-05T09:04:19+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

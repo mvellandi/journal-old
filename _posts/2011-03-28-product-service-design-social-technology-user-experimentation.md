@@ -1,8 +1,8 @@
 ---
-title: Product and Service Design for User Hijacking and Experimentation
+title: "Product and Service Design for User Hijacking and Experimentation"
+layout: post
 date: 2011-03-28T12:13:23+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Retrospective look at the early days of the internet, to what people can do now through experimentation and social technology platforms
 categories:

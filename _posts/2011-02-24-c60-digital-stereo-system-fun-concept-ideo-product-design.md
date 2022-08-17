@@ -1,8 +1,8 @@
 ---
-title: Fun and Playful Digital Stereo System by IDEO
+title: "Fun and Playful Digital Stereo System by IDEO"
+layout: post
 date: 2011-02-24T15:10:21+00:00
 author: Mario Vellandi
-layout: post
 description:
   - NFC stereo system with an electronic storage device underneath a box, with RFID sensors that when activated, tell the device what song or album to play
 categories:

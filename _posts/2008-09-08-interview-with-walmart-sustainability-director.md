@@ -1,8 +1,8 @@
 ---
-title: Wal-Mart Sustainability - Janelle Kearsley Interview
+title: "Wal-Mart Sustainability - Janelle Kearsley Interview"
+layout: post
 date: 2008-09-08T15:43:42+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - wal-mart, walmart, janelle kearsley, sustainability, product development, third party certification, trust
 description:

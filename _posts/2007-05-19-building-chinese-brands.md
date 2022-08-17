@@ -1,8 +1,8 @@
 ---
-title: Building Chinese Brands
+title: "Building Chinese Brands"
+layout: post
 date: 2007-05-19T00:26:44+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - foreign trade
   - marketing

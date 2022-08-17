@@ -1,8 +1,8 @@
 ---
-title: Polyethylene Billboard Advertising - Green Outdoor Marketing Article
+title: "Polyethylene Billboard Advertising - Green Outdoor Marketing Article"
+layout: post
 date: 2009-03-23T19:13:40+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - billboards, advertising, polyethylene, marketing communications, green design, sustainability
 description:

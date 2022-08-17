@@ -1,8 +1,8 @@
 ---
-title: RecycleMatch&#58; Creating Secondary Markets for Materials &#8211; Brooke Betts Farrell
+title: "RecycleMatch: Creating Secondary Markets for Materials: Brooke Betts Farrell"
+layout: post
 date: 2011-01-16T09:00:22+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Recyclematch creates secondary materials markets for scrap and waste. Brooke Betts Farrell describes the conditions of the recycling industry and why her marketplace makes sense.
 categories:

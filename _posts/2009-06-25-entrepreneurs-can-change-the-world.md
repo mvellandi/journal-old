@@ -1,8 +1,8 @@
 ---
-title: Entrepreneurs Can Change the World
+title: "Entrepreneurs Can Change the World"
+layout: post
 date: 2009-06-25T21:27:25+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - enlightenment
 tags:

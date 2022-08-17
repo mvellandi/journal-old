@@ -1,8 +1,8 @@
 ---
-title: World of Good - Presentation with Priya Haji and Robert Chatwani
+title: "World of Good - Presentation with Priya Haji and Robert Chatwani"
+layout: post
 date: 2008-11-14T16:41:16+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - world of good, ebay, robert chatwani, priya haji, fair trade, social responsibility, website, marketplace, commerce
 description:

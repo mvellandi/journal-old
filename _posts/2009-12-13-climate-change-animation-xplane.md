@@ -1,8 +1,8 @@
 ---
-title: The Carbon Economy, by Xplane
+title: "The Carbon Economy, by Xplane"
+layout: post
 date: 2009-12-13T18:10:38+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - sustainability

@@ -1,8 +1,8 @@
 ---
-title: Sustainability Forecast Map to 2017
+title: "Sustainability Forecast Map to 2017"
+layout: post
 date: 2009-03-08T14:29:03+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability forecast, sustainable business, green innovation, climate change, institute for the future, business strategy
 description:

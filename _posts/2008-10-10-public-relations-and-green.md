@@ -1,8 +1,8 @@
 ---
-title: Public Relations for Sustainable Products and Services
+title: "Public Relations for Sustainable Products and Services"
+layout: post
 date: 2008-10-10T03:01:46+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green marketing, public relations, pr, communication, messages, joel makower, strategy, business
 description:

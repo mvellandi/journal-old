@@ -1,8 +1,8 @@
 ---
-title: Moved to New York City
+title: "Moved to New York City"
+layout: post
 date: 2011-02-14T21:10:37+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 tags:

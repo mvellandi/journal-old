@@ -1,8 +1,8 @@
 ---
-title: Effective Service Design {Presentation}
+title: "Effective Service Design {Presentation}"
+layout: post
 date: 2009-05-03T16:49:56+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - innovation, service design, design
 description:

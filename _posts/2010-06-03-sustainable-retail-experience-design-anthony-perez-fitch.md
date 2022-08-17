@@ -1,8 +1,8 @@
 ---
-title: Creating Ownable Green Presence at Shelf &#8211; Sustainable Retail
+title: "Creating Ownable Green Presence at Shelf: Sustainable Retail"
+layout: post
 date: 2010-06-03T09:00:45+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - marketing

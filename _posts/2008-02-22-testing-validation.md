@@ -1,8 +1,8 @@
 ---
-title: Testing and Validation in the New Product Development Process
+title: "Testing and Validation in the New Product Development Process"
+layout: post
 date: 2008-02-22T00:30:42+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - stage gate, near testing, field testing, market testing, trial sells, research validation, product testing, product development, stage gate
 description:
@@ -14,7 +14,7 @@ tags:
   - testing
   - validation
 ---
-<img src="../images/wp-content/uploads/2008/03/npd-testing.jpg" alt="testing checklist validation" hspace="10" vspace="5" align="left" />Continuing on the subject of New Product Development, today I&#8217;ll cover the essentials of &#8216;Testing & Validation&#8217;. The purpose of this phase is to completely validate your project in terms of the product, its marketing plan, and the production. It is broken up into three phases:
+<img src="/images/2008/npd-testing.jpg" alt="testing checklist validation" hspace="10" vspace="5" align="left" />Continuing on the subject of New Product Development, today I&#8217;ll cover the essentials of &#8216;Testing & Validation&#8217;. The purpose of this phase is to completely validate your project in terms of the product, its marketing plan, and the production. It is broken up into three phases:
 
 ### Near Testing
 

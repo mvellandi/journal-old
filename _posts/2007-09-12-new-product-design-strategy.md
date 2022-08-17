@@ -1,8 +1,8 @@
 ---
-title: New Product Design Strategy
+title: "New Product Design Strategy"
+layout: post
 date: 2007-09-12T08:00:44+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - design strategy, npd, product design, product development
 description:
@@ -16,7 +16,7 @@ tags:
   - product design
   - product development
 ---
-<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../images/wp-content/uploads/2008/03/npd-designstrategy-sm.jpg" alt="visual metaphor for design strategy" />Continuing on the subject of new product development, today I’ll discuss **“Design Strategy”**.
+<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="/images/2008/npd-designstrategy-sm.jpg" alt="visual metaphor for design strategy" />Continuing on the subject of new product development, today I’ll discuss **“Design Strategy”**.
 
 This follows the previous phase: [Building the Business Case and Plan](../building-the-business-case-plan/ "building the business case and plan in new product development"). However, applying these principles can be done anytime during concept development. Ultimately, these design strategies help you build a solid product definition and guide you to focus on what&#8217;s important during the development phase.
 

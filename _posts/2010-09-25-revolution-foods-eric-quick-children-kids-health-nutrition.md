@@ -1,8 +1,8 @@
 ---
-title: Improving Children&#8217;s Health Through Nutrition &#8211; Eric Quick, Revolution Foods
+title: "Improving Children’s Health Through Nutrition: Eric Quick, Revolution Foods"
+layout: post
 date: 2010-09-25T10:52:27+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - sustainability

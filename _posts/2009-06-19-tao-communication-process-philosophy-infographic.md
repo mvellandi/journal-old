@@ -1,8 +1,8 @@
 ---
-title: The Tao of Communication
+title: "The Tao of Communication"
+layout: post
 date: 2009-06-19T16:59:13+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Infographic and article on the communications process from a Taoism perspective, considering the Subjective (listening, inspiration, stories, advice) and Objective (inquiry, theory, case studies, directives)
 categories:

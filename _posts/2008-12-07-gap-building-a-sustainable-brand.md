@@ -1,8 +1,8 @@
 ---
-title: GAP Inc on Building a Sustainable Brand - Kindley Walsh-Lawlor
+title: "GAP Inc on Building a Sustainable Brand - Kindley Walsh-Lawlor"
+layout: post
 date: 2008-12-07T20:56:36+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainable retail, gap, kindley walsh-lawlor, monica oberkofler, traci pessaro, franky mo, banana republic, old navy, clothing, merchandising, operations, branding, marketing, csr, video
 description:

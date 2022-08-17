@@ -1,8 +1,8 @@
 ---
-title: Execution, Leadership, and Building a Great Organizational Culture &#8211; Robert Sutton
+title: "Execution, Leadership, and Building a Great Organizational Culture: Robert Sutton"
+layout: post
 date: 2011-04-18T12:02:12+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - management

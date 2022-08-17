@@ -1,8 +1,8 @@
 ---
-title: Green Nanomaterials Hold Great Promise
+title: "Green Nanomaterials Hold Great Promise"
+layout: post
 date: 2009-03-12T14:16:59+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green nanomaterials, green chemistry, nanotechnology, sustainable innovation, innovation, environmental science, sustainable nanotechnology
 description:

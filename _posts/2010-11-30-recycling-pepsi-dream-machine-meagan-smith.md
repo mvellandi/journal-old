@@ -1,8 +1,8 @@
 ---
-title: Promoting Recycling with Pepsi&#8217;s Dream Machine &#8211; Meagan Smith
+title: "Promoting Recycling with Pepsi’s Dream Machine: Meagan Smith"
+layout: post
 date: 2010-11-30T09:00:22+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Since bottle and can recycling rates are low for a variety of reasons including availability and awareness, Pepsi is hoping to increase participation
 categories:

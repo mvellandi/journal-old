@@ -1,8 +1,8 @@
 ---
-title: The Electronic Wasteland
+title: "The Electronic Wasteland"
+layout: post
 date: 2008-11-12T23:39:02+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - ecycling, recycling, china, sustainability, electronics, waste
 description:

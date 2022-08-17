@@ -1,8 +1,8 @@
 ---
-title: The Power of AND &#8211; Sustainable Brands 10
+title: "The Power of AND: Sustainable Brands 10"
+layout: post
 date: 2010-05-17T12:00:54+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

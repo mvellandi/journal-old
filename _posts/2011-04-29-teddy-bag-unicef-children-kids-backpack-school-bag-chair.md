@@ -1,8 +1,8 @@
 ---
-title: Teddy Bag &#8211; UNICEF Index Design Challenge Winner
+title: "Teddy Bag: UNICEF Index Design Challenge Winner"
+layout: post
 date: 2011-04-29T12:09:26+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - new product development

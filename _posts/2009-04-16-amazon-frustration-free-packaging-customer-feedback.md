@@ -1,8 +1,8 @@
 ---
-title: Amazon Expands Frustration Free Packaging Program With Customer Feedback
+title: "Amazon Expands Frustration Free Packaging Program With Customer Feedback"
+layout: post
 date: 2009-04-16T16:41:25+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - amazon, frustration free, packaging, feedback, loop, online, service development, sustainable packaging, continuous improvement, innovation, customer
 description:
@@ -22,7 +22,7 @@ tags:
 ---
 So after recently reading about the expanded Amazon program as part of its <a rel="nofollow" href="http://www.amazon.com/packaging">Frustration-Free packaging initiative</a>, I decided to check it out myself and give you a visual of how it looks:
 
-<img class="aligncenter size-full wp-image-2855" title="amazon-packaging-feedback" src="../images/wp-content/uploads/2009/04/amazon-packaging-feedback.jpg" alt="amazon-packaging-feedback" width="500" height="600" />
+<img class="aligncenter size-full wp-image-2855" title="amazon-packaging-feedback" src="/images/2009/amazon-packaging-feedback.jpg" alt="amazon-packaging-feedback" width="500" height="600" />
 
 This is not just an environmental initiative, but a great example of continuous product/service improvement through online customer feedback.
 

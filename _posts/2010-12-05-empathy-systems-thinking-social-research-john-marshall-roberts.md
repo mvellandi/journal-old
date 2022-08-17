@@ -1,8 +1,8 @@
 ---
-title: Empathy, Systems Thinking and Social Research &#8211; John Marshall Roberts
+title: "Empathy, Systems Thinking and Social Research: John Marshall Roberts"
+layout: post
 date: 2010-12-05T09:00:15+00:00
 author: Mario Vellandi
-layout: post
 description:
   - How are people attracted to sustainability shifting their worldviews? John Marshall Roberts discusses this, social research, empathy, and emotional intelligence.
 categories:

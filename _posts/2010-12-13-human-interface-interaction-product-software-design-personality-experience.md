@@ -1,8 +1,8 @@
 ---
-title: The Human Interface, or Why Products are People too
+title: "The Human Interface, or Why Products are People too"
+layout: post
 date: 2010-12-13T09:00:22+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Discussion on interactions with products and devices can be increasingly personal, as opposed to merely functional, and product design implications
 categories:

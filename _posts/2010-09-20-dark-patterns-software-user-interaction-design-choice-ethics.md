@@ -1,8 +1,8 @@
 ---
-title: Dark Patterns&#58; User Interfaces Designed to Trick People
+title: "Dark Patterns: User Interfaces Designed to Trick People"
+layout: post
 date: 2010-09-20T09:02:52+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

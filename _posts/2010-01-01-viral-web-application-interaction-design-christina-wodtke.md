@@ -1,8 +1,8 @@
 ---
-title: Designing Viral Web Applications, by Christina Wodtke
+title: "Designing Viral Web Applications, by Christina Wodtke"
+layout: post
 date: 2010-01-01T15:56:37+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

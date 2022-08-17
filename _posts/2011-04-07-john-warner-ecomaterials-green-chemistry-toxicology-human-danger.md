@@ -1,8 +1,8 @@
 ---
-title: Green Chemistry, EcoMaterials, and Toxicology &#8211; John Warner
+title: "Green Chemistry, EcoMaterials, and Toxicology: John Warner"
+layout: post
 date: 2011-04-07T12:05:22+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

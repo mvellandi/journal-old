@@ -1,8 +1,8 @@
 ---
-title: Sustainability &#038; CSR Career Skillsets &#038; Competencies
+title: "Sustainability & CSR Career Skillsets"
+layout: post
 date: 2010-01-06T01:01:02+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - sustainability
@@ -13,7 +13,7 @@ tags:
 ---
 I found this chart by <a href="http://www.ethicalcorporation.com/">Ethical Corporation</a> to be an interesting segmentation of disciplines in sustainability and CSR
 
-[<img class="size-full wp-image-4038 alignnone" title="CR-Professionals_KnowledgeAreas-2" src="../images/wp-content/uploads/2010/01/CR-Professionals_KnowledgeAreas-2.jpg" alt="sustainability csr segmentation disciplines" width="550" height="302" />](../wp-content/uploads/2010/01/CR-Professionals_KnowledgeAreas-2.jpg)
+[<img class="size-full wp-image-4038 alignnone" title="CR-Professionals_KnowledgeAreas-2" src="/images/2010/CR-Professionals_KnowledgeAreas-2.jpg" alt="sustainability csr segmentation disciplines" width="550" height="302" />](../2010/CR-Professionals_KnowledgeAreas-2.jpg)
 
 Now although individuals obviously specialize in specific areas, there&#8217;s two job types that need an exposure to and basic knowledge of all: chief officers and communications professionals.
 

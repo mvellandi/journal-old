@@ -1,8 +1,8 @@
 ---
-title: Conferences and Extending Content &#38; Attendance
+title: "Conferences and Extending Content and Attendance"
+layout: post
 date: 2007-10-21T01:06:07+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 ---

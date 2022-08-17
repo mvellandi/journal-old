@@ -1,8 +1,8 @@
 ---
-title: Applying Behavioral Economics to Sustainability &#8211; Pam Cohen
+title: "Applying Behavioral Economics to Sustainability: Pam Cohen"
+layout: post
 date: 2010-11-28T09:00:07+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Pam Cohen explains behavioral economics as understanding why people make decisions, their subconscious motivations, and potential cognitive biases or distortions
 categories:

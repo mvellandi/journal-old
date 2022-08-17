@@ -1,8 +1,8 @@
 ---
-title: Sustainable Building Guidelines by Julia McMorrough
+title: "Sustainable Building Guidelines by Julia McMorrough"
+layout: post
 date: 2008-07-16T16:50:43+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green building, green design, julia mcmorrough, principles, energy, wood, plastic, materials, water, sustainability
 description:

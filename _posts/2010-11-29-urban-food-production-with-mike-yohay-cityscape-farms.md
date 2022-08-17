@@ -1,8 +1,8 @@
 ---
-title: Urban Food Production with Mike Yohay, Cityscape Farms
+title: "Urban Food Production with Mike Yohay, Cityscape Farms"
+layout: post
 date: 2010-11-29T09:00:05+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Mike Yohay of Cityscape Farms talks about aquaponic irrigation, and how urban farming is ideal for a food chain in an increasingly water-constrained world
 categories:

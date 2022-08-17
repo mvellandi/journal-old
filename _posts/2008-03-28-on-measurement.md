@@ -1,8 +1,8 @@
 ---
-title: A Truism on Measurement by Jack Welch
+title: "A Truism on Measurement by Jack Welch"
+layout: post
 date: 2008-03-28T15:11:55+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - jack welch, quotation, measurement, business philosophy, management, reasoning, logic, effectiveness
 description:

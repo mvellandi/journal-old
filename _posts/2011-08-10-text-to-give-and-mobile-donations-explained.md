@@ -1,8 +1,8 @@
 ---
-title: Text to Give, and Mobile Donations Explained
+title: "Text to Give, and Mobile Donations Explained"
+layout: post
 date: 2011-08-10T13:24:30+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 ---

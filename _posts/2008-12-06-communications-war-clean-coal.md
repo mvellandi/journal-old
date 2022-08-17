@@ -1,8 +1,8 @@
 ---
-title: The Communications War Over Clean Coal
+title: "The Communications War Over Clean Coal"
+layout: post
 date: 2008-12-06T22:37:07+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - clean coal, energy, advertisement, marketing, communications, television, truth, campaign, public relations, pr, social media
 description:

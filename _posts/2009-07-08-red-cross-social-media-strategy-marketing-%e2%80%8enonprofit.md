@@ -1,8 +1,8 @@
 ---
-title: How the Red Cross Does Social Media
+title: "How the Red Cross Does Social Media"
+layout: post
 date: 2009-07-08T11:54:23+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

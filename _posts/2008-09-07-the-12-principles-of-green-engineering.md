@@ -1,8 +1,8 @@
 ---
-title: The 12 Principles of Green Engineering
+title: "The 12 Principles of Green Engineering"
+layout: post
 date: 2008-09-07T12:22:56+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green engineering, green design, sustainable design, sustainability, environment
 description:

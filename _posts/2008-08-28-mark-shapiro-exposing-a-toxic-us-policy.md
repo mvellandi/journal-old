@@ -1,8 +1,8 @@
 ---
-title: Toxic Substances Legislation Reform - Mark Shapiro
+title: "Toxic Substances Legislation Reform - Mark Shapiro"
+layout: post
 date: 2008-08-28T05:34:59+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - pthalates, european union, environmental regulation, toxic substances, eco product, sustainability, united states, mark schapiro
 description:

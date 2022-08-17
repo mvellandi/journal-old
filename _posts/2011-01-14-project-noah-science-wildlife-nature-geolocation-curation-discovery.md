@@ -1,8 +1,8 @@
 ---
-title: Project Noah&#58; Citizen Curated Science
+title: "Project Noah: Citizen Curated Science"
+layout: post
 date: 2011-01-14T09:00:34+00:00
 author: Mario Vellandi
-layout: post
 description:
   - I totally love Project Noah! Imagine Wikipedia for science, wildlife, and nature combined with geolocation, and user-curated discovering and mapping
 categories:

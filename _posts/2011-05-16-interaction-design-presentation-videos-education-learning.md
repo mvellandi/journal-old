@@ -1,8 +1,8 @@
 ---
-title: More Interaction Design Videos I&#8217;ve Watched and Perhaps You&#8217;d Enjoy Too
+title: "More Interaction Design Videos I’ve Watched and Perhaps You’d Enjoy Too"
+layout: post
 date: 2011-05-16T21:45:54+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

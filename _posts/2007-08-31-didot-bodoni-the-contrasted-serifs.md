@@ -1,8 +1,8 @@
 ---
-title: Didot and Bodoni &#8211; The Contrasted Serifs
+title: "Didot and Bodoni – The Contrasted Serifs"
+layout: post
 date: 2007-08-31T09:31:39+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - serif, illustration, classical, didone, bodoni, typography history, giambatista bodoni
 description:

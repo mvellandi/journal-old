@@ -1,8 +1,8 @@
 ---
-title: Sony PlayStations Recycled into Chairs
+title: "Sony PlayStations Recycled into Chairs"
+layout: post
 date: 2009-04-14T20:26:28+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sony playstation, sustainable design, recycled plastic, closed loop recycling, design, sustainability, chair, pli design, new product development, abs plastic, electronics, industrial design
 description:

@@ -1,8 +1,8 @@
 ---
-title: Green Business and Living Forecast&#58; Eco-Bounty
+title: "Green Business and Living Forecast: Eco-Bounty"
+layout: post
 date: 2009-03-09T15:35:23+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green living, sustainable lifestyle, forecast, trends, marketing, innovation, eco-bounty
 description:

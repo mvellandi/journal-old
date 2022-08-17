@@ -1,8 +1,8 @@
 ---
-title: Sustainable Designer&#58; Nathan Shedroff
+title: "Sustainable Designer: Nathan Shedroff"
+layout: post
 date: 2008-11-27T18:10:38+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, idsa, nathan shedroff, sustainable design, product development, life cycle analysis, social return on investment, roi, analysis, tools, frameworks
 description:

@@ -1,8 +1,8 @@
 ---
-title: The Hannover Principles of Sustainable Design - Bill McDonough
+title: "The Hannover Principles of Sustainable Design - Bill McDonough"
+layout: post
 date: 2007-09-13T11:00:00+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - hannover principles, sustainable design, philosophy, william mcdonough, michael braungart, earth, cradle to cradle, social values, green society, environment, process design
 description:
@@ -15,7 +15,7 @@ tags:
   - process design
   - product design
 ---
-<img src="../images/wp-content/uploads/2008/03/sustainableleaf-sm1.jpg" alt="a leaf" hspace="5" vspace="5" align="left" />First developed in 1992 by architect [William McDonough](http://www.mcdonough.com/ "william mcdonough's website") and German chemist [Michael Braungart](http://en.wikipedia.org/wiki/Michael_Braungart "wikipedia article on Michael Braungart"), the [Hannover Principles](http://en.wikipedia.org/wiki/Hannover_Principles "wikipedia article on the Hannover Principles") set out to address our interdependence with nature, and how we can use design to better protect and improve our environment. These guidelines aren&#8217;t just meant for industrial designers, engineers, architects and others with a hand in creation or maintenance; they also include you, your organization, your suppliers and customers.
+<img src="/images/2008/sustainableleaf-sm1.jpg" alt="a leaf" hspace="5" vspace="5" align="left" />First developed in 1992 by architect [William McDonough](http://www.mcdonough.com/ "william mcdonough's website") and German chemist [Michael Braungart](http://en.wikipedia.org/wiki/Michael_Braungart "wikipedia article on Michael Braungart"), the [Hannover Principles](http://en.wikipedia.org/wiki/Hannover_Principles "wikipedia article on the Hannover Principles") set out to address our interdependence with nature, and how we can use design to better protect and improve our environment. These guidelines aren&#8217;t just meant for industrial designers, engineers, architects and others with a hand in creation or maintenance; they also include you, your organization, your suppliers and customers.
 
 I first came across them through a [6 part audio series](http://www.ndbroadcasting.org/search.php?q=monticello "the monticello dialogues from new dimensions media") called the Monticello Dialogues, where William McDonough is interviewed on the topics of design and sustainability on the [Monticello estate](http://en.wikipedia.org/wiki/Monticello "wikipedia article on monticello"), the home of Thomas Jefferson.
 

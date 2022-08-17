@@ -1,8 +1,8 @@
 ---
-title: The History and Future of Sustainability - Mark Lee
+title: "The History and Future of Sustainability - Mark Lee"
+layout: post
 date: 2008-11-30T16:15:08+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability history, mark lee, video, future, trends, progress, society, waves, systems, values, business, politics, environment
 description:

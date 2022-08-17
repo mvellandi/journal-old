@@ -1,8 +1,8 @@
 ---
-title: Macroforces and Business Values Branding &#8211; Tom LaForge, Coca Cola
+title: "Macroforces and Business Values Branding: Tom LaForge, Coca Cola"
+layout: post
 date: 2010-11-02T10:38:29+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

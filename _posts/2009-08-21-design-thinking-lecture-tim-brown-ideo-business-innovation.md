@@ -1,8 +1,8 @@
 ---
-title: Lecture on Design Thinking, by Tim Brown of IDEO
+title: "Lecture on Design Thinking, by Tim Brown of IDEO"
+layout: post
 date: 2009-08-21T01:30:49+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

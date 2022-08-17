@@ -1,8 +1,8 @@
 ---
-title: Happiness Through Constraints and Fewer Choices &#8211; Barry Schwartz
+title: "Happiness Through Constraints and Fewer Choices: Barry Schwartz"
+layout: post
 date: 2011-04-08T12:07:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - enlightenment
   - research

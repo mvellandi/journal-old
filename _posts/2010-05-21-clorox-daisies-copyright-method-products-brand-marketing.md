@@ -1,8 +1,8 @@
 ---
-title: Clorox, Daisies, and Method Products
+title: "Clorox, Daisies, and Method Products"
+layout: post
 date: 2010-05-21T01:11:24+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

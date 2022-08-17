@@ -1,8 +1,8 @@
 ---
-title: Human Centered Branding, by Erik Roscam Abbing
+title: "Human Centered Branding, by Erik Roscam Abbing"
+layout: post
 date: 2009-07-15T02:08:16+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - management

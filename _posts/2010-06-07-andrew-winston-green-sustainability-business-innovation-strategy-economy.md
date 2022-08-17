@@ -1,8 +1,8 @@
 ---
-title: Recovering Green&#58; Sustainable Innovations That Will Lead us Forward
+title: "Recovering Green: Sustainable Innovations That Will Lead us Forward"
+layout: post
 date: 2010-06-07T11:00:33+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - management

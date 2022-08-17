@@ -1,8 +1,8 @@
 ---
-title: Fighting Outdoor Visual Pollution and Advertising
+title: "Fighting Outdoor Visual Pollution and Advertising"
+layout: post
 date: 2012-08-12T20:06:25+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - enlightenment

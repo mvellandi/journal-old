@@ -1,8 +1,8 @@
 ---
-title: Critically Analyzing BoP Design for Viability and Lasting Impact
+title: "Critically Analyzing BoP Design for Viability and Lasting Impact"
+layout: post
 date: 2011-03-10T12:04:27+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Great talk on product/service design for the developing world. As with any product development process (waterfall or agile), the outcome must be useful and viable
 categories:

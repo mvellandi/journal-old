@@ -1,8 +1,8 @@
 ---
-title: Enterprise Sustainability Strategy, Innovation, and the Future &#8211; Tim Mohin, AMD
+title: "Enterprise Sustainability Strategy, Innovation, and the Future: Tim Mohin, AMD"
+layout: post
 date: 2010-11-03T09:00:58+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - management

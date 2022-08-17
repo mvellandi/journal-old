@@ -1,8 +1,8 @@
 ---
-title: World Environment Day 2011&#58; Forests
+title: "World Environment Day 2011: Forests"
+layout: post
 date: 2011-05-19T19:00:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
   - sustainability

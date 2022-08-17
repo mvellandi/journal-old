@@ -1,8 +1,8 @@
 ---
-title: Press Pause Play &#8211; A Documentary on New Media Production
+title: "Press Pause Play: A Documentary on New Media Production"
+layout: post
 date: 2012-05-25T20:11:01+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 ---

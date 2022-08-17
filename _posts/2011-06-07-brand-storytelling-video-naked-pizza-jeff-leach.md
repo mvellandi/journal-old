@@ -1,8 +1,8 @@
 ---
-title: Brand Storytelling from Naked Pizza&#8217;s Jeff Leach
+title: "Brand Storytelling from Naked Pizza’s Jeff Leach"
+layout: post
 date: 2011-06-07T19:00:27+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

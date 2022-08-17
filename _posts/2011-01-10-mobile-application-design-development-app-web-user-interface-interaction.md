@@ -1,8 +1,8 @@
 ---
-title: Mobile Application Design Best Practices &#8211; Keegan Jones and Tim Van Damme
+title: "Mobile Application Design Best Practices: Keegan Jones and Tim Van Damme"
+layout: post
 date: 2011-01-10T09:00:54+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Great presentation on mobile application design, graphical user interfaces, platforms, web versus native apps, focus and context, usability, and testing
 categories:

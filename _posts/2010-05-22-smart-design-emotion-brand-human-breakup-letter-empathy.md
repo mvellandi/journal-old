@@ -1,8 +1,8 @@
 ---
-title: The Breakup Letter &#8211; Emotional Connections and Brands
+title: "The Breakup Letter: Emotional Connections and Brands"
+layout: post
 date: 2010-05-22T16:42:01+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

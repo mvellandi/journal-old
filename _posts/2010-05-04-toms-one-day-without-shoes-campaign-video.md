@@ -1,8 +1,8 @@
 ---
-title: Toms &#8211; One Day Without Shoes
+title: "Toms: One Day Without Shoes"
+layout: post
 date: 2010-05-04T00:56:14+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

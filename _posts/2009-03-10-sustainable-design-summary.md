@@ -1,8 +1,8 @@
 ---
-title: Sustainable Design Strategies and Frameworks - Nathan Shedroff
+title: "Sustainable Design Strategies and Frameworks - Nathan Shedroff"
+layout: post
 date: 2009-03-10T03:15:44+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainable design strategies, sustainable product design, green product development, sustainability frameworks, nathan shedroff, design philosophy, sustainable solutions
 description:

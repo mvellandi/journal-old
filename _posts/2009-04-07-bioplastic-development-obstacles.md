@@ -1,8 +1,8 @@
 ---
-title: Bioplastic Research & Development
+title: "Bioplastic Research & Development"
+layout: post
 date: 2009-04-07T23:26:57+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, innovation, bioplastic, biopolymer, packaging, pla
 description:

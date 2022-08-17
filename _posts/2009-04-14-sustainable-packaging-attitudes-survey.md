@@ -1,8 +1,8 @@
 ---
-title: Sustainable Packaging Attitudes Vary Among Generations
+title: "Sustainable Packaging Attitudes Vary Among Generations"
+layout: post
 date: 2009-04-14T19:13:13+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Summary of Sage Group survey called, “My Views on Environmentally Friendly Packaging,” delivered to nearly 800 multiple-generation “friends” via an email or Facebook.
 categories:

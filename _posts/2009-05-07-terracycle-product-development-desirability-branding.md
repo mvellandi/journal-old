@@ -1,8 +1,8 @@
 ---
-title: Terracycle on Product Development and Desirability
+title: "Terracycle on Product Development and Desirability"
+layout: post
 date: 2009-05-07T14:13:07+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - terracycle, sustainability, marketing, product development, branding, product design, tom szaky, consumer products
 description:

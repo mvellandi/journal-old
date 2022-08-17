@@ -1,8 +1,8 @@
 ---
-title: Plan A, Because There is No Plan B &#8211; Mike Barry, Marks &#038; Spencer
+title: "Plan A, Because There is No Plan B: Mike Barry, Marks & Spencer"
+layout: post
 date: 2010-06-05T11:00:03+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - management

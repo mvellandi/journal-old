@@ -1,8 +1,8 @@
 ---
-title: Meaningful Social Media for Values Driven Organizations
+title: "Meaningful Social Media for Values Driven Organizations"
+layout: post
 date: 2010-07-21T14:53:57+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

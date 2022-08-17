@@ -1,8 +1,8 @@
 ---
-title: eBay&#8217;s Green Team&#58; Journey, Lessons, and the Road Ahead &#8211; Amy Skozclas Cole
+title: "eBay’s Green Team: Journey, Lessons, and the Road Ahead: Amy Skozclas Cole"
+layout: post
 date: 2010-11-25T09:00:49+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Amy describes how the eBay Green Team program began, community engagement on buying & selling, lessons learned, green product marketing, and communications
 categories:

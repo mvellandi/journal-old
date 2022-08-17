@@ -1,8 +1,8 @@
 ---
-title: Thoughts on Open Innovation
+title: "Thoughts on Open Innovation"
+layout: post
 date: 2011-03-12T12:10:15+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 tags:

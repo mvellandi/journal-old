@@ -1,8 +1,8 @@
 ---
-title: The North Pacific Gyre and Garbage Island
+title: "The North Pacific Gyre and Garbage Island"
+layout: post
 date: 2008-06-15T18:01:24+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - north pacific gyre, plastic, trash, ocean ecology, vice magazine, video, investigative journalism
 description:

@@ -1,8 +1,8 @@
 ---
-title: Social Innovation &#038; Development with Shivani Siroya of InVentureFund.org
+title: "Social Innovation & Development with Shivani Siroya of InVentureFund.org"
+layout: post
 date: 2010-04-29T02:52:57+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 tags:

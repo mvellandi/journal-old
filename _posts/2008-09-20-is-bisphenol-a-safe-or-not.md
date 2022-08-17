@@ -1,8 +1,8 @@
 ---
-title: Bisphenol-A, BPA, Safety, and Public Policy
+title: "Bisphenol-A, BPA, Safety, and Public Policy"
+layout: post
 date: 2008-09-20T16:22:03+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - bpa, bisphenol-a, green chemistry, fda, research, health, safety, legislation, consumer products, studies, polycarbonate, plastics
 description:

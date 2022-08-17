@@ -1,8 +1,8 @@
 ---
-title: What&#8217;s NEXT in Sustainable Business and Management?
+title: "What’s NEXT in Sustainable Business and Management?"
+layout: post
 date: 2010-12-18T09:00:19+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Mark Lee says business management should now execute, innovate, and develop internal skills and methods to dramatically drive progress beyond projects
 categories:

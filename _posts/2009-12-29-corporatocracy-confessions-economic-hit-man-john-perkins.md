@@ -1,8 +1,8 @@
 ---
-title: Confessions of an Economic Hit Man, by John Perkins
+title: "Confessions of an Economic Hit Man, by John Perkins"
+layout: post
 date: 2009-12-29T16:06:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - corporate social responsibility

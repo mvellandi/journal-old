@@ -1,8 +1,8 @@
 ---
-title: Social Business Innovation &#8211; The Next Frontier
+title: "Social Business Innovation: The Next Frontier"
+layout: post
 date: 2011-03-27T12:04:46+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Increased interpersonal communication, transparency, using kindness and objectivity to differentiate and be more responsive to stakeholder needs.
 categories:

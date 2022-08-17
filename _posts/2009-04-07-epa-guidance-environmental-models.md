@@ -1,8 +1,8 @@
 ---
-title: EPA Issues New Guidance on Environmental Models
+title: "EPA Issues New Guidance on Environmental Models"
+layout: post
 date: 2009-04-07T05:49:20+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, sustainable design, design, epa, life cycle analysis, life cycle assessment, lca, model
 description:

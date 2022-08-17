@@ -1,8 +1,8 @@
 ---
-title: Personal Care Product Sustainability - Eastman Chemical Interview
+title: "Personal Care Product Sustainability - Eastman Chemical Interview"
+layout: post
 date: 2008-10-07T11:43:26+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - eastman chemical, jim mccaulley, green chemistry, personal care, cosmetics, beauty, LOHAS, ingredient, safety, toxicity
 description:

@@ -1,8 +1,8 @@
 ---
-title: Southern California Desert &#038; Nature Photos
+title: "Southern California Desert: Nature Photos"
+layout: post
 date: 2009-04-27T00:24:45+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 tags:

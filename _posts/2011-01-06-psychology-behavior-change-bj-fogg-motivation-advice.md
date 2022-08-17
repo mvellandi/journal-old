@@ -1,8 +1,8 @@
 ---
-title: Top 10 Mistakes in Behavior Change, and What to Do Instead
+title: "Top 10 Mistakes in Behavior Change, and What to Do Instead"
+layout: post
 date: 2011-01-06T09:00:57+00:00
 author: Mario Vellandi
-layout: post
 description:
   - If change requires a lot of exerted effort (cognitive, emotional, big time slots), we'll lose inertia. Forget about motivation, and rely on aspiration and values for energy
 categories:

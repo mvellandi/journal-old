@@ -1,8 +1,8 @@
 ---
-title: Life Cycle Analysis with Heidrun Mumper-Drumm
+title: "Life Cycle Analysis with Heidrun Mumper-Drumm"
+layout: post
 date: 2008-04-16T12:59:13+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainable design, green product development, life cycle analysis, heidrun mumper drumm, lca, design green now, csulb
 description:
@@ -21,7 +21,7 @@ Last Friday night, I attended the local tour stop of [Design Green Now](http://w
 
 The moderator, Rob Curedale, is an industrial designer with 30 years experience in consumer products. He recounted to the audience his feelings on how designers&#8217; relationships to their work have enlarged over the years from being aesthetics-oriented with a large attention for personal fame, to a holistic constraints-orientation that includes environmental and societal considerations with a greater concern for &#8220;Us&#8221;.
 
-<img class="alignleft size-full wp-image-215" style="float:left;margin:25px 20px 10px 0;" src="../images/wp-content/uploads/2008/04/dgn-panelist_drumm.jpg" alt="Heidrun Mumper-Drumm Professor - Art Center College of Design, Pasadena" />
+<img class="alignleft size-full wp-image-215" style="float:left;margin:25px 20px 10px 0;" src="/images/2008/dgn-panelist_drumm.jpg" alt="Heidrun Mumper-Drumm Professor - Art Center College of Design, Pasadena" />
 
 ### Heidrun Mumper-Drumm
 

@@ -1,8 +1,8 @@
 ---
-title: Invisible Children&#8217;s Protection Plan
+title: "Invisible Children’s Protection Plan"
+layout: post
 date: 2011-03-16T12:04:31+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Organizations like these inspire me to bring high quality creative, engaging content, and focused interaction design to future communication projects in sustainability
 categories:

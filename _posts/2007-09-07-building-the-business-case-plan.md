@@ -1,8 +1,8 @@
 ---
-title: Building the Business Case and Plan in New Product Development
+title: "Building the Business Case and Plan in New Product Development"
+layout: post
 date: 2007-09-07T12:37:11+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - npd, cooper, business case, plan, new product development, innovation, brand development, financial, technical, market, timeline, value proposition, sense, research, profitable, stage gate, marketing
 description:
@@ -17,7 +17,7 @@ tags:
   - npd
   - product development
 ---
-<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../images/wp-content/uploads/2008/03/npd-businesscase.jpg" alt="paperwork photo" />Continuing on the subject of new product development, today I&#8217;ll discuss **&#8220;Building the Business Case & Plan&#8221;**.
+<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="/images/2008/npd-businesscase.jpg" alt="paperwork photo" />Continuing on the subject of new product development, today I&#8217;ll discuss **&#8220;Building the Business Case & Plan&#8221;**.
 
 This follows the Concept Review and the previous phase: [&#8220;Scoping&#8221;](../scoping/). This is the last phase of Concept Development.
 

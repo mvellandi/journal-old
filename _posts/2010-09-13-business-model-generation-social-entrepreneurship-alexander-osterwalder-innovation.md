@@ -1,8 +1,8 @@
 ---
-title: Business Model Generation and Social Entrepreneurship &#8211; Alexander Osterwalder
+title: "Business Model Generation and Social Entrepreneurship: Alexander Osterwalder"
+layout: post
 date: 2010-09-13T15:07:23+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - innovation

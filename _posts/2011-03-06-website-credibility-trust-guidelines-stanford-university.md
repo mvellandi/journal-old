@@ -1,8 +1,8 @@
 ---
-title: Website Credibility and Trust&#58; 10 Guidelines from Stanford University
+title: "Website Credibility and Trust: 10 Guidelines from Stanford University"
+layout: post
 date: 2011-03-06T12:12:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

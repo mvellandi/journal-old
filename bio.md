@@ -1,5 +1,6 @@
 ---
 title: Bio
+layout: page
 ---
 I've been working in digital media since 2004. Creating, managing, and designing how people interact with it. And now I'm taking the next step in my career: prototyping concepts, learning to code beyond HTML/CSS, and exploring interactive storytelling.
 

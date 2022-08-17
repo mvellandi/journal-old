@@ -1,8 +1,8 @@
 ---
-title: ChildCount&#58; Mobile Healthcare Systems in Africa &#8211; Matthew Berg
+title: "ChildCount: Mobile Healthcare Systems in Africa: Matthew Berg"
+layout: post
 date: 2011-01-15T09:00:04+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Matt and colleagues created ChildCount, a mobile health service in Africa which delivers service faster since many people have access to mobile phones
 categories:

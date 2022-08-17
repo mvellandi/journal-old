@@ -1,8 +1,8 @@
 ---
-title: Lift Conference 09 Videos
+title: "Lift Conference 09 Videos"
+layout: post
 date: 2009-06-25T10:24:44+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - design

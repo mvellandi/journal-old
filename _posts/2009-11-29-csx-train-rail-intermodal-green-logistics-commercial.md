@@ -1,8 +1,8 @@
 ---
-title: CSX Train Commercial Using Green Marketing
+title: "CSX Train Commercial Using Green Marketing"
+layout: post
 date: 2009-11-29T10:00:27+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
   - sustainability

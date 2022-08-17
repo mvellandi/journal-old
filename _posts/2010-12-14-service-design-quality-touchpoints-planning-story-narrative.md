@@ -1,8 +1,8 @@
 ---
-title: Service Design with Montages, Improvisation, and Dramatic Structure
+title: "Service Design with Montages, Improvisation, and Dramatic Structure"
+layout: post
 date: 2010-12-14T09:00:42+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

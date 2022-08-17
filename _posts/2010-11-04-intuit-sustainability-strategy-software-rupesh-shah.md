@@ -1,8 +1,8 @@
 ---
-title: Intuit&#8217;s Approach to Integrating Sustainability &#8211; Rupesh Shah
+title: "Intuit’s Approach to Integrating Sustainability: Rupesh Shah"
+layout: post
 date: 2010-11-04T09:00:43+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - sustainability

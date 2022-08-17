@@ -1,8 +1,8 @@
 ---
-title: Mapping and Analyzing Technology Innovation &#8211; Sean Gourley, Quid
+title: "Mapping and Analyzing Technology Innovation: Sean Gourley, Quid"
+layout: post
 date: 2011-01-04T09:00:03+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Quid gathers lots of data on more than 21k entities, mapping out 28k technology genes. Analysis can get really interesting when comparing massive numbers.
 categories:

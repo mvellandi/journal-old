@@ -1,8 +1,8 @@
 ---
-title: Soup Merchandising and Retail Innovation
+title: "Soup Merchandising and Retail Innovation"
+layout: post
 date: 2007-08-27T19:27:30+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - soup merchandising, retail display, shelving, marketing, signage, experience design
 description:

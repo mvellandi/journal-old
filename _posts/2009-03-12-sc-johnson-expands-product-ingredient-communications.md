@@ -1,8 +1,8 @@
 ---
-title: SC Johnson Expands Product Ingredient Communications
+title: "SC Johnson Expands Product Ingredient Communications"
+layout: post
 date: 2009-03-12T15:29:01+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sc johnson, ingredient communications, consumer product ingredients, csr, clorox, public relations, chemicals, phthalates
 description:

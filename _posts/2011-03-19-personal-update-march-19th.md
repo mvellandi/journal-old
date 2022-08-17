@@ -1,8 +1,8 @@
 ---
-title: Personal Update&#58; March 19th
+title: "Personal Update: March 19th"
+layout: post
 date: 2011-03-19T12:06:26+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 ---

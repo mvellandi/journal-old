@@ -1,8 +1,8 @@
 ---
-title: Corporate Social Responsibility with GE's Jeffrey Immelt
+title: "Corporate Social Responsibility with GE's Jeffrey Immelt"
+layout: post
 date: 2009-01-30T06:18:59+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - corporate social responsibility, jeffrey immelt, general electric, speech, social responsibility, business, video
 description:

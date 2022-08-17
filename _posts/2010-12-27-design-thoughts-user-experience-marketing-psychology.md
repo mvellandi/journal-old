@@ -1,8 +1,8 @@
 ---
-title: To me, Design is&#8230;
+title: "To me, Design is…"
+layout: post
 date: 2010-12-27T09:00:49+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Quotes from famous designers and agency associates. For professionals of all design and marketing disciplines, the user experience is all that matters
 categories:

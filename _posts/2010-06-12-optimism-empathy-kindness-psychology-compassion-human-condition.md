@@ -1,8 +1,8 @@
 ---
-title: Channeling Optimism, Empathy, and Kindness to Business Benefit
+title: "Channeling Optimism, Empathy, and Kindness to Business Benefit"
+layout: post
 date: 2010-06-12T11:00:41+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - enlightenment

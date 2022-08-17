@@ -1,8 +1,8 @@
 ---
-title: Content Marketing is Dead. Long Live Experimentation, Focus, and Iterating Success
+title: "Content Marketing is Dead. Long Live Experimentation, Focus, and Iterating Success"
+layout: post
 date: 2011-01-07T09:00:14+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

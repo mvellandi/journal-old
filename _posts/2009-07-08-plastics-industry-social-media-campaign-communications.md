@@ -1,8 +1,8 @@
 ---
-title: Plastics Industry Plans Social Media Blitz
+title: "Plastics Industry Plans Social Media Blitz"
+layout: post
 date: 2009-07-08T20:00:53+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

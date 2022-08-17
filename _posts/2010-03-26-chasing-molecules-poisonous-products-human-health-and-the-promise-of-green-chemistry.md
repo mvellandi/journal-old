@@ -1,8 +1,8 @@
 ---
-title: Chasing Molecules&#58; Poisonous Products, Human Health, and the Promise of Green Chemistry
+title: "Chasing Molecules: Poisonous Products, Human Health, and the Promise of Green Chemistry"
+layout: post
 date: 2010-03-26T13:31:00+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - design

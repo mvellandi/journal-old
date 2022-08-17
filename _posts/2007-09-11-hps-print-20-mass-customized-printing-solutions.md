@@ -1,8 +1,8 @@
 ---
-title: HP's Print 2.0 -- Mass Customized Printing Solutions
+title: "HP's Print 2.0 -- Mass Customized Printing Solutions"
+layout: post
 date: 2007-09-11T13:34:23+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 ---

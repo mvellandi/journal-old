@@ -1,8 +1,8 @@
 ---
-title: Yelp&#58; Empowering Consumers with Local Knowledge (WOMM-U)
+title: "Yelp: Empowering Consumers with Local Knowledge (WOMM-U)"
+layout: post
 date: 2009-06-30T11:00:42+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

@@ -1,8 +1,8 @@
 ---
-title: NRDC Clean By Design &#8211; Branded Infotainment Reporting
+title: "NRDC Clean By Design: Branded Infotainment Reporting"
+layout: post
 date: 2010-09-27T10:10:52+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

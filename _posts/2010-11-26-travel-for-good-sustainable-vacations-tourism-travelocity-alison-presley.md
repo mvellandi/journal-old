@@ -1,8 +1,8 @@
 ---
-title: Travel for Good and Sustainable Vacations with Travelocity&#8217;s Alison Presley
+title: "Travel for Good and Sustainable Vacations with Travelocity’s Alison Presley"
+layout: post
 date: 2010-11-26T09:00:30+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - marketing

@@ -1,8 +1,8 @@
 ---
-title: Choose Your Own (Mis)Adventure with Harry &#8211; Range Rover Promo Film
+title: "Choose Your Own (Mis)Adventure with Harry: Range Rover Promo Film"
+layout: post
 date: 2011-05-22T19:00:11+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing
@@ -16,7 +16,7 @@ tags:
   - range rover
   - video
 ---
-[<img src="../images/wp-content/uploads/2011/05/video-marketing-interactive-game.jpg" />](http://www.helloevoque.com/beinghenry)
+[<img src="/images/2011/video-marketing-interactive-game.jpg" />](http://www.helloevoque.com/beinghenry)
 
 [Neat interactive game for Range Rover](http://www.helloevoque.com/beinghenry). I&#8217;m not quite sure if something similar would be possible with HTML5 and Javascript, though suppose it could be if there&#8217;s a video event attribute for &#8220;finished&#8221;, a sniffer for such states which then commands overlaid with images/text links at specific x/y coordinates, which then load corresponding new videos.
 

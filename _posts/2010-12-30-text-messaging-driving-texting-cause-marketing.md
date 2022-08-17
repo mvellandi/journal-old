@@ -1,8 +1,8 @@
 ---
-title: Text Messaging and Driving &#8211; Cause Campaigns
+title: "Text Messaging and Driving: Cause Campaigns"
+layout: post
 date: 2010-12-30T00:24:33+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
 tags:

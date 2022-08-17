@@ -1,8 +1,8 @@
 ---
-title: Media Design and Environments for Passive Utility
+title: "Media Design and Environments for Passive Utility"
+layout: post
 date: 2010-11-15T09:00:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

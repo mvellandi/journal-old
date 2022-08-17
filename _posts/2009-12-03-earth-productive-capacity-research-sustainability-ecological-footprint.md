@@ -1,8 +1,8 @@
 ---
-title: Humanity Now Demanding 1.5 Earths
+title: "Humanity Now Demanding 1.5 Earths"
+layout: post
 date: 2009-12-03T16:06:09+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - sustainability
 tags:

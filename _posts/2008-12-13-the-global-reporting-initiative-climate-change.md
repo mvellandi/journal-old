@@ -1,8 +1,8 @@
 ---
-title: The Global Reporting Initiative & Climate Change - Ernst Ligteringen
+title: "The Global Reporting Initiative & Climate Change - Ernst Ligteringen"
+layout: post
 date: 2008-12-13T04:47:11+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - Ernst Ligteringen, climate change, interview, reporting, gri, global reporting initiative, standards, framework, indicators, platform, stakeholder, gri
 description:

@@ -1,8 +1,8 @@
 ---
-title: Sustainable Capitalism&#58; Hunter Lovins and Gil Friend
+title: "Sustainable Capitalism: Hunter Lovins and Gil Friend"
+layout: post
 date: 2009-01-20T23:01:38+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - 'sustainability, green business, capitalism, natural economics, seminar, systems thinking, resources, capital, video, hunter lovins, gil friend '
 description:

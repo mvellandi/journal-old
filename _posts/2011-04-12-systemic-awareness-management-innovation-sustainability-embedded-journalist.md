@@ -1,8 +1,8 @@
 ---
-title: Systemic Awareness and the Embedded Journalist
+title: "Systemic Awareness and the Embedded Journalist"
+layout: post
 date: 2011-04-12T12:00:17+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Systems thinking and change can only be addressed in response to a stimulus, an identified deficiency, problem, threat, opportunity. That requires awareness
 categories:

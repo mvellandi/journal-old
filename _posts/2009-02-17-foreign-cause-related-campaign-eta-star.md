@@ -1,8 +1,8 @@
 ---
-title: Cause Related Campaign - ETA Star and Red Crescent Authority
+title: "Cause Related Campaign - ETA Star and Red Crescent Authority"
+layout: post
 date: 2009-02-17T03:31:27+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - cause related marketing, eta star, red crescent authority, habitat for humanity, advertisement, ramadan
 description:

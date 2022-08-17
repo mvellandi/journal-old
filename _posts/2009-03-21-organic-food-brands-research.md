@@ -1,8 +1,8 @@
 ---
-title: Organic Food Industry {Visualized Study}
+title: "Organic Food Industry {Visualized Study}"
+layout: post
 date: 2009-03-21T17:09:24+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - organic industry, usda organic, agribusiness, organic food brands, relational hierarchy, infographic, research, visual design, phil howard, study
 description:

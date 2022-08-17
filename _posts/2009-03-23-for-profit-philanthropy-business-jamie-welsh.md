@@ -1,8 +1,8 @@
 ---
-title: For-Profit Philanthropy, Cause Marketing - Jamie Welsh
+title: "For-Profit Philanthropy, Cause Marketing - Jamie Welsh"
+layout: post
 date: 2009-03-23T19:46:54+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - philanthropy, csr, business model, cause marketing, corporate social responsibility, gennefer snowfield, jamie welsh, sustainability, 10 percent solution
 description:

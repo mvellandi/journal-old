@@ -1,8 +1,8 @@
 ---
-title: The Story of Electronics
+title: "The Story of Electronics"
+layout: post
 date: 2010-12-06T15:00:14+00:00
 author: Mario Vellandi
-layout: post
 description:
   - We can't shop our way out of this situation, it's up to us to responsibly recycle, and support legislation for extended producer responsibility.
 categories:

@@ -1,8 +1,8 @@
 ---
-title: Big Question&#58; Feast or Famine?
+title: "Big Question: Feast or Famine?"
+layout: post
 date: 2011-06-03T16:00:48+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Straight up facts on sustainable agriculture and biodiversity loss presented alongside graphic metaphors, questions, and proposed solutions for adaptation
 categories:

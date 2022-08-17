@@ -1,8 +1,8 @@
 ---
-title: Fear and Leadership in Personal Development by Steve Farber
+title: "Fear and Leadership in Personal Development by Steve Farber"
+layout: post
 date: 2008-02-11T00:24:26+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - fear, leadership, personal growth, radical leap, steve farber, personal development
 description:
@@ -15,7 +15,7 @@ tags:
   - leadership
   - personal development
 ---
-<img src="../images/wp-content/uploads/2008/02/tarantula.jpg" alt="Tarantula fear visual metaphor" hspace="10" align="left" />So I started a new book tonight: [The Radical Leap](http://www.amazon.com/Radical-Leap-Personal-Extreme-Leadership/dp/0793185688/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1202716720&sr=8-1 "The Radical Leap book by Steve Farber"), by Steve Farber. After the first chapter though, I really couldn&#8217;t continue reading that or anything else. I wanted a certain feeling to stick around a little longer, and not be distracted or diluted with other interesting facts or observations on any subject. Here&#8217;s some quotes that caught my attention:
+<img src="/images/2008/tarantula.jpg" alt="Tarantula fear visual metaphor" hspace="10" align="left" />So I started a new book tonight: [The Radical Leap](http://www.amazon.com/Radical-Leap-Personal-Extreme-Leadership/dp/0793185688/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1202716720&sr=8-1 "The Radical Leap book by Steve Farber"), by Steve Farber. After the first chapter though, I really couldn&#8217;t continue reading that or anything else. I wanted a certain feeling to stick around a little longer, and not be distracted or diluted with other interesting facts or observations on any subject. Here&#8217;s some quotes that caught my attention:
 
 _&#8220;We&#8217;ve been conditioned to believe that fear is bad. And yeah, fear can save your life or keep you from doing something stupid, but it can also keep you from doing something great, from learning something new, and from growing as a human being. Fear is a natural part of growth, and since growth, change, and evolution are all on the Extreme Leader&#8217;s agenda, fear comes with the territory.&#8221;_
 

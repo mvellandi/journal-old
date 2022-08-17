@@ -1,8 +1,8 @@
 ---
-title: Why Social Media Projects Fail?! – A European Perspective
+title: "Why Social Media Projects Fail?! – A European Perspective"
+layout: post
 date: 2010-08-27T11:13:21+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

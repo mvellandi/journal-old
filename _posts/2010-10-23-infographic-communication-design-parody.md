@@ -1,8 +1,8 @@
 ---
-title: Infographic Parody Animation
+title: "Infographic Parody Animation"
+layout: post
 date: 2010-10-23T00:57:02+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Methods &#038; Practices Guide from Stanford Design School
+title: "Methods & Practices Guide from Stanford Design School"
+layout: post
 date: 2010-02-02T00:43:06+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

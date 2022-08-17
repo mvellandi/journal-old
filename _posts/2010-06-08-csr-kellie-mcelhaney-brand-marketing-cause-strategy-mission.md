@@ -1,8 +1,8 @@
 ---
-title: Driving Brand Value Through CSR &#8211; Kellie McElhaney
+title: "Driving Brand Value Through CSR: Kellie McElhaney"
+layout: post
 date: 2010-06-08T11:00:58+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

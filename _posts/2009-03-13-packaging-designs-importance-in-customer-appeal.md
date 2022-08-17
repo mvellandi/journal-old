@@ -1,8 +1,8 @@
 ---
-title: Great Packaging Design is Imperative for Consumer Product Marketing
+title: "Great Packaging Design is Imperative for Consumer Product Marketing"
+layout: post
 date: 2009-03-13T18:33:56+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - great packaging design, importance of packaging design, ted mininni, product development, commoditization, cpg branding, customer appeal, product marketing, product design
 description:

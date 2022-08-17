@@ -1,8 +1,8 @@
 ---
-title: Kimberly-Clark Adds Recycled Paper Products to Scott Brand
+title: "Kimberly-Clark Adds Recycled Paper Products to Scott Brand"
+layout: post
 date: 2009-04-08T17:13:07+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - recycled content, kimberly clark, consumer products, new product development, sustainability, paper
 description:

@@ -1,8 +1,8 @@
 ---
-title: Comic Relief at Borders
+title: "Comic Relief at Borders"
+layout: post
 date: 2007-04-26T16:29:40+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

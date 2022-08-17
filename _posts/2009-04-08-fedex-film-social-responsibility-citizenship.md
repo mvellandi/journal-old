@@ -1,8 +1,8 @@
 ---
-title: FedEx Winning Entry in Corporate Citizenship Film Festival
+title: "FedEx Winning Entry in Corporate Citizenship Film Festival"
+layout: post
 date: 2009-04-08T00:12:45+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - fedex, price waterhouse coopers, hitachi, csr, social responsibility, video, film festival, corporate citizenship
 description:

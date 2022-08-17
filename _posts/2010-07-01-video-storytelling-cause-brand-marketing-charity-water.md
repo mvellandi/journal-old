@@ -1,8 +1,8 @@
 ---
-title: The Story of Charity Water
+title: "The Story of Charity Water"
+layout: post
 date: 2010-07-01T14:21:23+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

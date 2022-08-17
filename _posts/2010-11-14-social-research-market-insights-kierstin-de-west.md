@@ -1,8 +1,8 @@
 ---
-title: Social Research for Meaningful Market Insights &#8211; Kierstin De West
+title: "Social Research for Meaningful Market Insights: Kierstin De West"
+layout: post
 date: 2010-11-14T09:00:41+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
   - research

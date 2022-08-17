@@ -1,8 +1,8 @@
 ---
-title: Sustainable Development and Communications at The Gap
+title: "Sustainable Development and Communications at The Gap"
+layout: post
 date: 2010-12-04T09:00:57+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Kindley Walsh-Lawlor of GAP Inc. discusses the evolution of their corporate responsibility work, environmental impacts, and community development
 categories:

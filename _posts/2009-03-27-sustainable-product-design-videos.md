@@ -1,8 +1,8 @@
 ---
-title: Design Green Now Videos
+title: "Design Green Now Videos"
+layout: post
 date: 2009-03-27T13:40:58+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - 'sustainable product design, product development, Yves Béhar,  Dawn Danby, Sara Louise Todd, Jorden Segraves, Heidrun Mumper-Drumm, Nathan VanHook, design green now'
 description:

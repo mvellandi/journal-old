@@ -1,8 +1,8 @@
 ---
-title: Radical Design Thinking for Cultural Change &#8211; Jon Kolko
+title: "Radical Design Thinking for Cultural Change: Jon Kolko"
+layout: post
 date: 2010-12-12T09:00:36+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Presentation on design research regarding experience, human behavior, meaning, and culture. By Jon Kolko of frog design. Social innovation rocks!
 categories:

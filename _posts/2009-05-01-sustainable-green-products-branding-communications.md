@@ -1,8 +1,8 @@
 ---
-title: Survey Shows Product Sustainability Attributes Considered by 54% of Folks
+title: "Survey Shows Product Sustainability Attributes Considered by 54% of Folks"
+layout: post
 date: 2009-05-01T04:57:38+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - communication, green marketing, marketing, sustainability, green products, branding, brand communications, survey, shoppers, perception, beliefs, research, best practices, advice
 description:

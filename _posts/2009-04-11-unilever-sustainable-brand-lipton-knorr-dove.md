@@ -1,8 +1,8 @@
 ---
-title: Unilever Sustainable Brand Strategy
+title: "Unilever Sustainable Brand Strategy"
+layout: post
 date: 2009-04-11T06:07:56+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, video, unilever, brand imprint, vitality framework, consumer products, csr, brand strategy, santiago gowland, Axe, Ben and Jerrys, Bertolli, Dove, Finesse, Knorr, Lipton, Persil, Ragu, Rama, Suave, Sunsilk, Tchae, Timotei, Vaseline, portfolio management
 description:
@@ -48,7 +48,7 @@ Exceeding their initial expectations, Unilever proceeded to conduct &#8220;Brand
 
 Holistic inquiry into the *&#8220;Impacts by&#8221;* and *&#8220;Influences on&#8221;* a brand. Participants include the corporate responsibility team, brand management leaders (supply chain, internal operations, marketing, support functions), consultants, and advisers acting on behalf of outside stakeholders. Together they conduct an up-front analysis, discuss and review the findings, generate alternative strategies, and establish an integrated brand strategy.
 
-<img class="aligncenter" title="unilever brand imprint process" src="../images/wp-content/uploads/2009/04/unilever-brand-imprint-process.jpg" alt="the brand imprint process for unilever" width="370" height="406" />
+<img class="aligncenter" title="unilever brand imprint process" src="/images/2009/unilever-brand-imprint-process.jpg" alt="the brand imprint process for unilever" width="370" height="406" />
 
 #### Impacts
 
@@ -103,7 +103,7 @@ Which of the global challenges is Unilever best able to respond to? Which ones c
 
 In 2008, Unilever finalized a Vitality Framework to help them deliver their mission in a systematic and measurable way.
 
-<img class="aligncenter" title="unilever-brand-vitality-sustainability" src="../images/wp-content/uploads/2009/04/unilever-brand-vitality-sustainability.jpg" alt="unilever brand vitality sustainability" width="468" height="468" />
+<img class="aligncenter" title="unilever-brand-vitality-sustainability" src="/images/2009/unilever-brand-vitality-sustainability.jpg" alt="unilever brand vitality sustainability" width="468" height="468" />
 
 It allows brand managers to explore opportunities to innovate and improve their brands in three ways:
 

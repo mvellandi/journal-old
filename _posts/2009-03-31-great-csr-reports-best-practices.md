@@ -1,8 +1,8 @@
 ---
-title: Great CSR Reporting and Best Practices
+title: "Great CSR Reporting and Best Practices"
+layout: post
 date: 2009-03-31T17:16:44+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - csr, corporate social responsibility, reporting, csr report, green business, tips, best practices, sustainability, communication
 description:

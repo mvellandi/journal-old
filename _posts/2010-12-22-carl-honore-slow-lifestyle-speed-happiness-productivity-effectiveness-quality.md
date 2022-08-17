@@ -1,8 +1,8 @@
 ---
-title: In Praise of Slowness &#8211; Carl Honore
+title: "In Praise of Slowness: Carl Honore"
+layout: post
 date: 2010-12-22T09:00:34+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Speed often trumps quality of life. Carl urges us to  slow  down and alter our culture of speed and its negative effect on our happiness
 categories:

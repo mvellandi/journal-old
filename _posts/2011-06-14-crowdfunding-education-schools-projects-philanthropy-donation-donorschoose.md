@@ -1,8 +1,8 @@
 ---
-title: Crowdfunding Schools and Projects &#8211; DonorsChoose
+title: "Crowdfunding Schools and Projects: DonorsChoose"
+layout: post
 date: 2011-06-14T19:00:50+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 tags:

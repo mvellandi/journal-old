@@ -1,8 +1,8 @@
 ---
-title: Co-Opportunity for Sustainable Change &#8211; John Grant
+title: "Co-Opportunity for Sustainable Change: John Grant"
+layout: post
 date: 2010-05-20T12:00:58+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - sustainability

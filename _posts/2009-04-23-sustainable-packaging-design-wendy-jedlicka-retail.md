@@ -1,8 +1,8 @@
 ---
-title: Sustainable Packaging Design Interview with Wendy Jedlicka
+title: "Sustainable Packaging Design Interview with Wendy Jedlicka"
+layout: post
 date: 2009-04-23T14:48:04+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - wendy jedlicka, sustainable packaging, packaging design, consumer products, interview, best practices, trends, retail, reductionism, supply chain, secondary packaging, lean thinking, wal-mart, video, pallet, marketing, new product development, design, sustainability
 description:

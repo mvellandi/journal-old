@@ -1,8 +1,8 @@
 ---
-title: Interbrand&#8217;s Cause Campaign, &#8220;Gather for Change&#8221;
+title: "Interbrand’s Cause Campaign, “Gather for Change”"
+layout: post
 date: 2010-12-15T15:00:21+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Neat program by brand consultancy Interbrand. They've set up collection boxes in their international offices and online; lucky sum guesser donates the money to the cause of their choice.
 categories:

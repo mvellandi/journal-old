@@ -1,8 +1,8 @@
 ---
-title: Toyota's Why Not Campaign
+title: "Toyota's Why Not Campaign"
+layout: post
 date: 2009-03-03T14:56:39+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - toyota, green marketing, social responsibility, environmental responsibility, csr, interactive design, campaign
 description:

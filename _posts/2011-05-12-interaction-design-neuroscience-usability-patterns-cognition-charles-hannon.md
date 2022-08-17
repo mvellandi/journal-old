@@ -1,8 +1,8 @@
 ---
-title: Neuroscience, Known Affordances, and Design Patterns in IxD&#58; Charles Hannon
+title: "Neuroscience, Known Affordances, and Design Patterns in IxD: Charles Hannon"
+layout: post
 date: 2011-05-12T08:39:21+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

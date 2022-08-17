@@ -1,8 +1,8 @@
 ---
-title: Packaging Design - Dentyne Ice
+title: "Packaging Design - Dentyne Ice"
+layout: post
 date: 2007-08-29T16:38:00+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - gum, packaging design, blue, briefcase, neat, dentyne
 description:

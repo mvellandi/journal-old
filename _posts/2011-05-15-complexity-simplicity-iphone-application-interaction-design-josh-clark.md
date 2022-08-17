@@ -1,8 +1,8 @@
 ---
-title: Up With Complexity! Challenging Users for Fun and Profit &#8211; Josh Clark
+title: "Up With Complexity! Challenging Users for Fun and Profit: Josh Clark"
+layout: post
 date: 2011-05-15T14:00:40+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

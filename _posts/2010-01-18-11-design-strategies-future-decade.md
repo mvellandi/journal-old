@@ -1,8 +1,8 @@
 ---
-title: 11 Product Design Strategies for this Decade
+title: "11 Product Design Strategies for this Decade"
+layout: post
 date: 2010-01-18T02:18:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

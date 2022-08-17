@@ -1,8 +1,8 @@
 ---
-title: Some Tales of my Treaded Path &#8211; Part I
+title: "Some Tales of my Treaded Path – Part I"
+layout: post
 date: 2008-01-22T00:43:16+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 tags:

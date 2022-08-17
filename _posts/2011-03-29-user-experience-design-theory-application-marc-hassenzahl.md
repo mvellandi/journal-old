@@ -1,8 +1,8 @@
 ---
-title: Experience Design Theory &#8211; Marc Hassenzahl and Commentaries
+title: "Experience Design Theory: Marc Hassenzahl and Commentaries"
+layout: post
 date: 2011-03-29T12:06:15+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Marc described experiences as actual and reflective. The first is the objective, in-the-moment phenomena dealing with functionality, usability, and visceral stimulation
 categories:

@@ -1,8 +1,8 @@
 ---
-title: Adiri Natural Nurser - Leveraging Health & Design
+title: "Adiri Natural Nurser - Leveraging Health & Design"
+layout: post
 date: 2008-07-25T16:26:36+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green design, baby bottle, innovation, marketing, branding, bpa, safe, review, green design
 description:
@@ -20,7 +20,7 @@ tags:
   - innovation
   - product development
 ---
-<img class="alignleft size-full wp-image-229" style="margin:5px 20px 5px 0; float: left;" title="adiri natural nurser baby bottle" src="../images/wp-content/uploads/2008/07/adiri.jpg" alt="the adiri natural nurser baby bottle" width="249" height="260" />
+<img class="alignleft size-full wp-image-229" style="margin:5px 20px 5px 0; float: left;" title="adiri natural nurser baby bottle" src="/images/2008/adiri.jpg" alt="the adiri natural nurser baby bottle" width="249" height="260" />
 
 Where there is concern for personal health, and most importantly the health of infants and children, there is a market opportunity.
 

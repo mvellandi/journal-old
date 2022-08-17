@@ -1,8 +1,8 @@
 ---
-title: Aquafina Makes Lightest Bottle at 11 Grams
+title: "Aquafina Makes Lightest Bottle at 11 Grams"
+layout: post
 date: 2009-03-26T05:42:50+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - aquafina, packaging, sustainable packaging, bottled water, weight, green marketing, greenwash, pet, marketing, communication, sustainability
 description:

@@ -1,8 +1,8 @@
 ---
-title: The Future of the Book
+title: "The Future of the Book"
+layout: post
 date: 2010-09-22T13:01:25+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - new product development

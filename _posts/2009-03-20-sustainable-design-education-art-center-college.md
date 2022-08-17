@@ -1,8 +1,8 @@
 ---
-title: Art Center College of Sustainable Design {Article}
+title: "Art Center College of Sustainable Design {Article}"
+layout: post
 date: 2009-03-20T13:54:16+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainable design, education, lca, life cycle analysis, art center, systemic product manufacturing, green product development
 description:

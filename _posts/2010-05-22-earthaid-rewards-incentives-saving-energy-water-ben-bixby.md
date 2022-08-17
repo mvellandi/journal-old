@@ -1,8 +1,8 @@
 ---
-title: EarthAid&#58; Rewards for Saving Energy
+title: "EarthAid: Rewards for Saving Energy"
+layout: post
 date: 2010-05-22T12:00:40+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - sustainability

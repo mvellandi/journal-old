@@ -1,8 +1,8 @@
 ---
-title: Intel&#8217;s Visual Life &#8211; Branded and User Generated Video Storytelling
+title: "Intel’s Visual Life: Branded and User Generated Video Storytelling"
+layout: post
 date: 2011-01-22T09:00:14+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

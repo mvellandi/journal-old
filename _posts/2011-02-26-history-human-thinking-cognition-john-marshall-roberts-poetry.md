@@ -1,8 +1,8 @@
 ---
-title: The History of Human Thinking (in 6 minutes, 4 seconds)
+title: "The History of Human Thinking (in 6 minutes, 4 seconds)"
+layout: post
 date: 2011-02-26T12:00:23+00:00
 author: Mario Vellandi
-layout: post
 description:
   - My buddy John Marshall Roberts goes off in poetic flair in this video piece about human psychology over the course of time
 categories:

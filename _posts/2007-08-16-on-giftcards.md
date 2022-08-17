@@ -1,8 +1,8 @@
 ---
-title: Giftcard Design and Marketing for Excellent Customer Experiences
+title: "Giftcard Design and Marketing for Excellent Customer Experiences"
+layout: post
 date: 2007-08-16T17:14:36+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - giftcard, retail marketing, shopper, giftcard design, customer experience, giftcard packaging
 description:

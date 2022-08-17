@@ -1,8 +1,8 @@
 ---
-title: Digital Storytelling with Resonance &#8211; Gideon D&#8217;Arcangelo
+title: "Digital Storytelling with Resonance: Gideon D’Arcangelo"
+layout: post
 date: 2011-01-20T09:00:47+00:00
 author: Mario Vellandi
-layout: post
 description:
   - A story's last page isn't necessarily conclusive. It can be any point in time. Continuity is an option, and a very brief story can be made longer
 categories:

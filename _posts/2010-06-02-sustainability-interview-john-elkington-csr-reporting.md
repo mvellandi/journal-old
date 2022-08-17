@@ -1,8 +1,8 @@
 ---
-title: Reporting Sustainability &#038; CSR &#8211; Interview with John Elkington
+title: "Reporting Sustainability and CSR: Interview with John Elkington"
+layout: post
 date: 2010-06-02T18:00:24+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

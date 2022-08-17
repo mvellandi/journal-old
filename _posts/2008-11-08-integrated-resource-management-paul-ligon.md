@@ -1,8 +1,8 @@
 ---
-title: Integrated Resource Management&#58; Paul Ligon
+title: "Integrated Resource Management: Paul Ligon"
+layout: post
 date: 2008-11-08T11:10:01+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, upstream, waste management, paul ligon, resource management, waste, efficiency, supply chain, operations, lean, muda
 categories:

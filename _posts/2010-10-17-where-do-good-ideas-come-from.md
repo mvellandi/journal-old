@@ -1,8 +1,8 @@
 ---
-title: Where Do Good Ideas Come From?
+title: "Where Do Good Ideas Come From?"
+layout: post
 date: 2010-10-17T10:00:17+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - innovation

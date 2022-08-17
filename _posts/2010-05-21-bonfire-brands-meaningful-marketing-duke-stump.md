@@ -1,8 +1,8 @@
 ---
-title: Bonfire Brands and Meaningful Marketing
+title: "Bonfire Brands and Meaningful Marketing"
+layout: post
 date: 2010-05-21T12:00:02+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

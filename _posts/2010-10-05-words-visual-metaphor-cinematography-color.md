@@ -1,8 +1,8 @@
 ---
-title: WORDS &#8211; Short Film
+title: "WORDS: Short Film"
+layout: post
 date: 2010-10-05T11:00:47+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - intermezzo

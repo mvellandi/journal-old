@@ -1,8 +1,8 @@
 ---
-title: The Discovery Process of New Product Development
+title: "The Discovery Process of New Product Development"
+layout: post
 date: 2007-07-30T13:47:44+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - innovation, new product development, robert cooper, npd, discovery, process, environment, idea generation, ideation, internal, external, boundary, concept, competition, employee, business, marketing
 description:
@@ -16,7 +16,7 @@ tags:
   - npd
   - product development
 ---
-<img src="../images/wp-content/uploads/2008/03/npd-discovery.jpg" />
+<img src="/images/2008/npd-discovery.jpg" />
 
 How do individuals and businesses develop new products and services?<br /> It all begins with a trip into the Ocean of Opportunity and charting the waters.
 

@@ -1,8 +1,8 @@
 ---
-title: Nature by Numbers
+title: "Nature by Numbers"
+layout: post
 date: 2010-03-29T18:57:35+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Applied Storytelling to Product &#038; Interaction Design
+title: "Applied Storytelling to Product and Interaction Design"
+layout: post
 date: 2010-10-18T11:00:59+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

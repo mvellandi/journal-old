@@ -1,8 +1,8 @@
 ---
-title: Brands in a New Age of Responsibility &#8211; Jez Frampton, Interbrand
+title: "Brands in a New Age of Responsibility: Jez Frampton, Interbrand"
+layout: post
 date: 2010-08-15T15:45:48+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
   - sustainability

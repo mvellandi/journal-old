@@ -1,8 +1,8 @@
 ---
-title: Interview Avec Moi &#8211; Digital PR &#038; Sustainability/CSR
+title: "Interview Avec Moi: Digital PR & Sustainability/CSR"
+layout: post
 date: 2010-06-29T10:50:41+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

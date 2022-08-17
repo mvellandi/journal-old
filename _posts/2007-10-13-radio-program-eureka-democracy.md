@@ -1,8 +1,8 @@
 ---
-title: Radio Program&#58; Eureka Democracy
+title: "Radio Program: Eureka Democracy"
+layout: post
 date: 2007-10-13T15:48:21+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 tags:

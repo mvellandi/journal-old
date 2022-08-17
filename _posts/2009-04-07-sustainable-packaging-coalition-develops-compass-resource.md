@@ -1,8 +1,8 @@
 ---
-title: COMPASS Sustainable Packaging Assessment Tool by SPC
+title: "COMPASS Sustainable Packaging Assessment Tool by SPC"
+layout: post
 date: 2009-04-07T04:49:49+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainable packaging, compass, green design, packaging design, design, sustainability, life cycle assessment
 description:

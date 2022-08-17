@@ -1,8 +1,8 @@
 ---
-title: Adam Werbach and How Sustainability Means More Than Green
+title: "Adam Werbach and How Sustainability Means More Than Green"
+layout: post
 date: 2009-07-20T16:30:08+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - management

@@ -1,8 +1,8 @@
 ---
-title: Fellowforce Ideation Community
+title: "Fellowforce Ideation Community"
+layout: post
 date: 2007-09-10T22:41:23+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 tags:

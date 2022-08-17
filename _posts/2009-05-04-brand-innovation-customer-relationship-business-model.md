@@ -1,8 +1,8 @@
 ---
-title: New Brand Relationship Model, by Erik Roscam Abbing
+title: "New Brand Relationship Model, by Erik Roscam Abbing"
+layout: post
 date: 2009-05-04T15:57:56+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - infographic, Erik Roscam Abbing, branding, customer experience, marketing, product development, design, model, innovation
 description:

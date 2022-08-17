@@ -1,5 +1,6 @@
 ---
 title: "Summer Dev Update"
+layout: post
 categories:
   - web dev
 ---

@@ -1,8 +1,8 @@
 ---
-title: Building Natural, Local Material-Sourced Homes &#8211; Dan Phillips
+title: "Building Natural, Local Material-Sourced Homes: Dan Phillips"
+layout: post
 date: 2011-05-01T12:06:51+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

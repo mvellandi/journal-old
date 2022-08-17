@@ -1,8 +1,8 @@
 ---
-title: SunChips Pleases Litterbugs and Worms with Compostable Bags
+title: "SunChips Pleases Litterbugs and Worms with Compostable Bags"
+layout: post
 date: 2009-04-23T12:26:46+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sunchips, frito lay, pepsico, compostable, bag, plastic, pla, ingeo, natureworks, packaging, marketing, sustainability, innovation, video
 categories:

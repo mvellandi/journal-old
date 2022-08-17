@@ -1,8 +1,8 @@
 ---
-title: Idea Screening in New Product Development
+title: "Idea Screening in New Product Development"
+layout: post
 date: 2007-08-20T17:59:21+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - concept development, ideation, npd, new product development, product design, innovation, screen, weed out, refine, limit, narrow, idea, criteria
 description:
@@ -16,7 +16,7 @@ tags:
   - npd
   - product development
 ---
-<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="../images/wp-content/uploads/2008/03/npd-ideascreen.jpg" alt="idea concept screen sieve" />
+<img class="alignleft" style="margin: 5px 20px 10px 0pt; float: left;" src="/images/2008/npd-ideascreen.jpg" alt="idea concept screen sieve" />
 
 In a previous post, I explained a little bit about the first phase in developing new products:](../discovery-the-pursuit-of-breakthrough-ideas/ "article on Discovery and Ideation in new product development")
 

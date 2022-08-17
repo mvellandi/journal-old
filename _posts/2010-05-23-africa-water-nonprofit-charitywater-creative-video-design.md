@@ -1,8 +1,8 @@
 ---
-title: Awesome Nonprofit Video Design&#58; Charity Water TimeBomb
+title: "Awesome Nonprofit Video Design: Charity Water TimeBomb"
+layout: post
 date: 2010-05-23T18:00:19+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

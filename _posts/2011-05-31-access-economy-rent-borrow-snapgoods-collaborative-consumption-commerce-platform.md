@@ -1,8 +1,8 @@
 ---
-title: The Access Economy of Renting and Borrowing &#8211; Ron J. Williams, SnapGoods
+title: "The Access Economy of Renting and Borrowing: Ron J. Williams, SnapGoods"
+layout: post
 date: 2011-05-31T16:00:35+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
 tags:

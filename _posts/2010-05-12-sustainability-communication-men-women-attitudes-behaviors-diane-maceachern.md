@@ -1,8 +1,8 @@
 ---
-title: Insights into New Consumer Segments&#58; Moms and Millennials
+title: "Insights into New Consumer Segments: Moms and Millennials"
+layout: post
 date: 2010-05-12T11:00:35+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

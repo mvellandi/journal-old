@@ -1,8 +1,8 @@
 ---
-title: The Creative Mind by Norman Podhoretz
+title: "The Creative Mind by Norman Podhoretz"
+layout: post
 date: 2008-04-22T10:12:30+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - 'creative mind, child, adult, quotation, norman podhoretz, creativity, inspiration, insight '
 description:

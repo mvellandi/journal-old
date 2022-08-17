@@ -1,8 +1,8 @@
 ---
-title: Media and the Continuous Path Toward Sustainability
+title: "Media and the Continuous Path Toward Sustainability"
+layout: post
 date: 2009-09-08T23:24:27+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 tags:

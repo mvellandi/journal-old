@@ -1,8 +1,8 @@
 ---
-title: Enterprise Water Management with Michael Glade, Molson Coors
+title: "Enterprise Water Management with Michael Glade, Molson Coors"
+layout: post
 date: 2010-11-08T09:00:21+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - management

@@ -1,8 +1,8 @@
 ---
-title: EcoBonus&#58; A Coalition to Reach &#038; Reward Green Shoppers
+title: "EcoBonus: A Coalition to Reach and Reward Green Shoppers"
+layout: post
 date: 2010-11-18T09:00:30+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Traditional loyalty marketing programs work on a small scale. Enter EcoBonus, a coalition of leading manufacturers, retailers, and service providers
 categories:

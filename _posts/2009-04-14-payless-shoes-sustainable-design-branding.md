@@ -1,8 +1,8 @@
 ---
-title: Payless Shoes Sustainable Product Design & Marketing with Zoe & Zac Brand
+title: "Payless Shoes Sustainable Product Design & Marketing with Zoe & Zac Brand"
+layout: post
 date: 2009-04-14T18:18:22+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - payless shoes, zoe and zac, csr, product design, sustainability, new product development, marketing, branding, sustainable design, consumer products, house brand, green marketing
 description:

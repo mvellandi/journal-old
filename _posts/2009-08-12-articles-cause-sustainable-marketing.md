@@ -1,8 +1,8 @@
 ---
-title: Articles on Cause/Sustainable Marketing
+title: "Articles on Cause/Sustainable Marketing"
+layout: post
 date: 2009-08-12T01:34:32+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

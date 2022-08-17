@@ -1,8 +1,8 @@
 ---
-title: Factiva and Premium Intelligence Service Integration
+title: "Factiva and Premium Intelligence Service Integration"
+layout: post
 date: 2007-10-12T23:42:01+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
 tags:

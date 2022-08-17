@@ -1,8 +1,8 @@
 ---
-title: I&#8217;m Moving to Alaska to Work on Social Media for Chevron Oil!
+title: "I’m Moving to Alaska to Work on Social Media for Chevron Oil!"
+layout: post
 date: 2011-04-01T12:02:11+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Am I really selling my soul by working for a big oil company in Alaska, taking a super fat salary by greenwashing the energy industry? Read on...
 categories:
@@ -10,7 +10,7 @@ categories:
 tags:
   - april fools
 ---
-<img src="../images/wp-content/uploads/2011/04/pipeline-alaksa.jpg" />
+<img src="/images/2011/pipeline-alaksa.jpg" />
 
 Yeah Right! 😀
 

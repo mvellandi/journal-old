@@ -1,8 +1,8 @@
 ---
-title: Micromidas&#58; Bioplastic from Organic Waste &#8211; Ryan Smith
+title: "Micromidas: Bioplastic from Organic Waste: Ryan Smith"
+layout: post
 date: 2011-01-17T09:00:05+00:00
 author: Mario Vellandi
-layout: post
 description:
   - A non-petroleum plastic made from organic waste that completely degrades in six months to a year? What’s not to love? Seriously, you rock Ryan
 categories:

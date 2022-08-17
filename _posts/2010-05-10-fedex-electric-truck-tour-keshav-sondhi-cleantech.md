@@ -1,8 +1,8 @@
 ---
-title: FedEx Electric Truck Story and Tour with Keshav Sondhi
+title: "FedEx Electric Truck Story and Tour with Keshav Sondhi"
+layout: post
 date: 2010-05-10T22:22:46+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

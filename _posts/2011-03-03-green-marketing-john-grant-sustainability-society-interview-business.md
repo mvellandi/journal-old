@@ -1,8 +1,8 @@
 ---
-title: The Marketing Century and Sustainability &#8211; John Grant
+title: "The Marketing Century and Sustainability: John Grant"
+layout: post
 date: 2011-03-03T12:04:27+00:00
 author: Mario Vellandi
-layout: post
 description:
   - John Grant gives a historical perspective on business and society transitions, the current evolution taking place, and the future of sustainable branding
 categories:

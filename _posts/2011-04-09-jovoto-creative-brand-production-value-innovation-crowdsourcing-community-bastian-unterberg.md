@@ -1,8 +1,8 @@
 ---
-title: Jovoto&#58; Disrupting Creative Sourcing and Production &#8211; Bastian Unterberg
+title: "Jovoto: Disrupting Creative Sourcing and Production: Bastian Unterberg"
+layout: post
 date: 2011-04-09T13:26:24+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Bastian left his work doing programming and decided to venture out with a purpose-- Connect creatives and clients together through a community platform that produces the best deliverables, faster, and without an agency
 categories:
@@ -19,7 +19,7 @@ tags:
   - production
   - sourcing
 ---
-<img src="../images/wp-content/uploads/2011/04/bastian-unterberg-jovoto.jpg" />Early last month, I met up with Bastian following an online invitation I took him up on. Knowing he was German and being a digital entrepreneur, I just couldn&#8217;t help myself from the opportunity to chat a bit in my second tongue and about the prospects for the future of digital media and creative production.
+<img src="/images/2011/bastian-unterberg-jovoto.jpg" />Early last month, I met up with Bastian following an online invitation I took him up on. Knowing he was German and being a digital entrepreneur, I just couldn&#8217;t help myself from the opportunity to chat a bit in my second tongue and about the prospects for the future of digital media and creative production.
 
 About 4 years ago, Bastian left his work doing programming and decided to venture out with a purpose: Connect creatives and clients together through a community platform that produces the best deliverables, faster, and without an agency. [Jovoto](http://www.jovoto.com/) was born.
 

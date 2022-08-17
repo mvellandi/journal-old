@@ -1,8 +1,8 @@
 ---
-title: Life Cycle Management and Ethical Systems Design
+title: "Life Cycle Management and Ethical Systems Design"
+layout: post
 date: 2008-08-27T15:24:40+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - ethical sourcing, sustainable products, green design, eco product, retail distribution, sustainability, environment
 description:

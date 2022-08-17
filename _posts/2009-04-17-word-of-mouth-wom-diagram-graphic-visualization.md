@@ -1,8 +1,8 @@
 ---
-title: Word of Mouth Communications Diagram
+title: "Word of Mouth Communications Diagram"
+layout: post
 date: 2009-04-17T16:17:22+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - word of mouth, wom, diagram, graphic, visualization, marketing, communication, sociology, influence, indifference, infographic
 description:

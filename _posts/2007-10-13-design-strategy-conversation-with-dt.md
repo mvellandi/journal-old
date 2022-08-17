@@ -1,8 +1,8 @@
 ---
-title: Product Design Strategy & Management with Brian Ling
+title: "Product Design Strategy & Management with Brian Ling"
+layout: post
 date: 2007-10-13T11:44:12+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - design strategy, design management, brian ling, industrial design, product design, role, leadership, education, mba, product development, portfolio management
 description:
@@ -16,7 +16,7 @@ tags:
   - product design
   - product development
 ---
-<img src="../images/wp-content/uploads/2008/03/npd-designstrategy1.jpg" alt="visual metaphor for design strategy" hspace="15" vspace="15" align="left" />Mario: To build some greater perspectives on product design in the modern age, I&#8217;ve invited DT of [Design Sojourn](http://www.designsojourn.com/ "Design Sojourn website") to a little chat about the subject. DT helps build objectives, strategies and development plans for consumer electronics firms across Asia. He&#8217;s been a pioneer in promoting the field of  [Industrial Design](http://en.wikipedia.org/wiki/Industrial_design "Wikipedia article on industrial design"), in many more regards than simply admiring fanciful oeuvres d&#8217;art et leurs aspects fonctionnels (French for art and functional objects). He reaches out to students and other professionals alike in sharing theory, trends, and best practices in the workplace and beyond, while celebrating the contributions of others to the field.
+<img src="/images/2008/npd-designstrategy1.jpg" alt="visual metaphor for design strategy" hspace="15" vspace="15" align="left" />Mario: To build some greater perspectives on product design in the modern age, I&#8217;ve invited DT of [Design Sojourn](http://www.designsojourn.com/ "Design Sojourn website") to a little chat about the subject. DT helps build objectives, strategies and development plans for consumer electronics firms across Asia. He&#8217;s been a pioneer in promoting the field of  [Industrial Design](http://en.wikipedia.org/wiki/Industrial_design "Wikipedia article on industrial design"), in many more regards than simply admiring fanciful oeuvres d&#8217;art et leurs aspects fonctionnels (French for art and functional objects). He reaches out to students and other professionals alike in sharing theory, trends, and best practices in the workplace and beyond, while celebrating the contributions of others to the field.
 
 DT, thanks for stopping by and leaving some feedback on my post [New Product Design Strategy](../new-product-design-strategy/). I feel that I&#8217;ve barely scratched the surface on this field, as most of what I&#8217;ve come to learn has been from my own experiences with CPG manufacturers, some friends, and my <a rel="nofollow" href="http://www.pdma.org/">PDMA</a> [Handbook](http://www.amazon.com/PDMA-Handbook-Product-Development-Second/dp/0471485241/ref=pd_bbs_sr_1/105-6197686-6153269?ie=UTF8&s=books&qid=1190140602&sr=8-1 "PDMA handbook of product development on Amazon"). What other kinds of strategies or considerations should marketers and product developers be making these days?
 

@@ -1,8 +1,8 @@
 ---
-title: Timberland&#8217;s Mike Harrison on Earthkeepers and Sustainable Branding
+title: "Timberland’s Mike Harrison on Earthkeepers and Sustainable Branding"
+layout: post
 date: 2010-08-17T08:55:57+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

@@ -1,8 +1,8 @@
 ---
-title: CSR in Practice &#8211; Bailey Partnership
+title: "CSR in Practice: Bailey Partnership"
+layout: post
 date: 2010-07-13T09:43:01+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

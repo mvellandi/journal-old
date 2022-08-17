@@ -1,5 +1,6 @@
 ---
 title: "Learning Web Development — A small update"
+layout: post
 categories:
   - web dev
 ---

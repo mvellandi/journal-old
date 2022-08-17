@@ -1,8 +1,8 @@
 ---
-title: SunChip&#8217;s Brand Journey&#58; Thinking Outside (And About) the Bag!
+title: "SunChip’s Brand Journey: Thinking Outside (And About) the Bag!"
+layout: post
 date: 2010-06-11T11:00:28+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - corporate social responsibility

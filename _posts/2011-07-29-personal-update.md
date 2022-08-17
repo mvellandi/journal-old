@@ -1,8 +1,8 @@
 ---
-title: Personal Update
+title: "Personal Update"
+layout: post
 date: 2011-07-29T00:39:27+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 ---

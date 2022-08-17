@@ -1,8 +1,8 @@
 ---
-title: Sustainable Packaging and Realizing Its Value &#8211; Scott Vitters, Coca-Cola
+title: "Sustainable Packaging and Realizing Its Value: Scott Vitters, Coca-Cola"
+layout: post
 date: 2010-05-23T12:00:13+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

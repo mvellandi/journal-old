@@ -1,8 +1,8 @@
 ---
-title: Ethical Fashion Design &#038; Sourcing &#8211; Summer Rayne Oakes, Source4Style
+title: "Ethical Fashion Design and Sourcing: Summer Rayne Oakes, Source4Style"
+layout: post
 date: 2010-09-24T08:58:42+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

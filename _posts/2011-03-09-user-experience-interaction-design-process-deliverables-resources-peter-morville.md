@@ -1,8 +1,8 @@
 ---
-title: User Experience Design&#58; Deliverables Map and Resources
+title: "User Experience Design: Deliverables Map and Resources"
+layout: post
 date: 2011-03-09T12:07:26+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:
@@ -20,4 +20,4 @@ Great learning reference for user experience design, primarily for online intera
 
 [20 User Experience Deliverables and Resources](http://semanticstudios.com/publications/semantics/000228.php)
 
-[<img src="../images/wp-content/uploads/2011/03/user-experience-design-process-deliverables.jpg" />](http://semanticstudios.com/publications/semantics/000228.php)
+[<img src="/images/2011/user-experience-design-process-deliverables.jpg" />](http://semanticstudios.com/publications/semantics/000228.php)

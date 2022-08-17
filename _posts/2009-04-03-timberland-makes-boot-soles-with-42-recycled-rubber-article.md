@@ -1,8 +1,8 @@
 ---
-title: Timberland Makes Boot Soles with Recycled Rubber {Article}
+title: "Timberland Makes Boot Soles with Recycled Rubber {Article}"
+layout: post
 date: 2009-04-03T03:53:59+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - timberland, recycled rubber, life cycle assessment, supply chain scenario, sustainable materials, procurement process, materials requirements planning, logistics
 description:

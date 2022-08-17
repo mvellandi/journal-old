@@ -1,8 +1,8 @@
 ---
-title: The 12 Principles of Green Chemistry
+title: "The 12 Principles of Green Chemistry"
+layout: post
 date: 2008-09-21T13:14:02+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green chemistry, sustainability, green guide, chemistry, sustainable design, natural, ecology, safety, human health, nontoxic
 categories:

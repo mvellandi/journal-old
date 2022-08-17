@@ -1,8 +1,8 @@
 ---
-title: Nokia on Compact Packaging, Phone Recycling, and Services &#8211; Kirsi Sormunen
+title: "Nokia on Compact Packaging, Phone Recycling, and Services: Kirsi Sormunen"
+layout: post
 date: 2010-11-12T15:00:51+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - design

@@ -1,8 +1,8 @@
 ---
-title: 30 Years of Photos &#8211; Bruce Dale, National Geographic
+title: "30 Years of Photos: Bruce Dale, National Geographic"
+layout: post
 date: 2011-01-25T09:16:33+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Photography highlights of Bruce Dale's 30 year career at National Geographic. Great shots and stories.
 categories:

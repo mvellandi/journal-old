@@ -1,8 +1,8 @@
 ---
-title: Persuasive Design &#038; Sustainability &#8211; Robert Fabricant
+title: "Persuasive Design & Sustainability: Robert Fabricant"
+layout: post
 date: 2009-07-13T00:24:22+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

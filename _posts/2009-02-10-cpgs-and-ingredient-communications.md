@@ -1,8 +1,8 @@
 ---
-title: Ingredient Communications in Consumer Products Goods
+title: "Ingredient Communications in Consumer Products Goods"
+layout: post
 date: 2009-02-10T15:59:20+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - ingredients, product safety, product communications, consumer products, material safety data sheets, msds, clorox, proctor gamble, henkel, sc johnson, colgate palmolive, unilever, reckitt benckiser
 description:

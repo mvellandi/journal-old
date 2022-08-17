@@ -1,8 +1,8 @@
 ---
-title: Furoshiki Folding Chart
+title: "Furoshiki Folding Chart"
+layout: post
 date: 2007-09-21T14:26:17+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - furoshiki, packaging
 categories:

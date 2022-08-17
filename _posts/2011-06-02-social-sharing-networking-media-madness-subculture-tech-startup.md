@@ -1,8 +1,8 @@
 ---
-title: A Strange World of Social Sharing and Networking, by Devin Friedman
+title: "A Strange World of Social Sharing and Networking, by Devin Friedman"
+layout: post
 date: 2011-06-02T16:00:34+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - research
 tags:

@@ -1,8 +1,8 @@
 ---
-title: Using Autodesk Inventor and Sustainable Minds LCA Software
+title: "Using Autodesk Inventor and Sustainable Minds LCA Software"
+layout: post
 date: 2009-09-15T09:00:13+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - sustainability

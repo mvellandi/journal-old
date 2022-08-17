@@ -1,8 +1,8 @@
 ---
-title: Dow Jones Sustainability Index 2008
+title: "Dow Jones Sustainability Index 2008"
+layout: post
 date: 2008-09-06T12:07:42+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - dow jones, sustainable corporation, sustainability, djsi index, global survey, deloitte, analysis
 description:

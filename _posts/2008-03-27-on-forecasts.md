@@ -1,8 +1,8 @@
 ---
-title: A Truism on Forecasting by Warren Buffett
+title: "A Truism on Forecasting by Warren Buffett"
+layout: post
 date: 2008-03-27T00:17:35+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - warren buffett, quotation, forecasting, business philosophy, reasoning, logic
 description:

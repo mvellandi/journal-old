@@ -1,8 +1,8 @@
 ---
-title: EDF 2009 Innovations Review&#58; Green Advances for a New Economy
+title: "EDF 2009 Innovations Review: Green Advances for a New Economy"
+layout: post
 date: 2009-06-27T11:04:54+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - sustainability

@@ -1,8 +1,8 @@
 ---
-title: Tesco Shopper Input Promotes Sustainable Packaging
+title: "Tesco Shopper Input Promotes Sustainable Packaging"
+layout: post
 date: 2009-04-03T19:26:18+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - tesco, retail, market research, research, sustainable packaging, packaging design, new product development
 description:

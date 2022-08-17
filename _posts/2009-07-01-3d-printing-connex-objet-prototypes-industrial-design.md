@@ -1,8 +1,8 @@
 ---
-title: 3D Printer Connex by Objet
+title: "3D Printer Connex by Objet"
+layout: post
 date: 2009-07-01T11:00:48+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

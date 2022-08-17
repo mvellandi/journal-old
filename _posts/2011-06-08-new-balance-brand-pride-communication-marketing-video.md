@@ -1,8 +1,8 @@
 ---
-title: Communicating Brand Pride and Craftsmanship &#8211; New Balance
+title: "Communicating Brand Pride and Craftsmanship: New Balance"
+layout: post
 date: 2011-06-08T18:00:28+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - marketing

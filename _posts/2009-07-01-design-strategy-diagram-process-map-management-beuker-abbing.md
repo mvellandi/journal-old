@@ -1,8 +1,8 @@
 ---
-title: Design Strategy at a Glance
+title: "Design Strategy at a Glance"
+layout: post
 date: 2009-07-01T17:00:05+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - innovation

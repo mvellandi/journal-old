@@ -1,8 +1,8 @@
 ---
-title: Lightweighting in Sustainable Design &#8211; Jeremy Faludi
+title: "Lightweighting in Sustainable Design: Jeremy Faludi"
+layout: post
 date: 2010-12-19T09:00:37+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Lightweighting involves optimizing your design's geometry and structure so that it uses less material, resulting in less negative environmental impact
 categories:

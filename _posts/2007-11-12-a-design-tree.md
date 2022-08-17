@@ -1,8 +1,8 @@
 ---
-title: Design Disciplines and Practices
+title: "Design Disciplines and Practices"
+layout: post
 date: 2007-11-12T17:03:15+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - design education, design disciplines, infographic, graphic design, philosophy, design careers
 description:

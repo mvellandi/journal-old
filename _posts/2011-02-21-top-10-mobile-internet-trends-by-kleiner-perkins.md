@@ -1,8 +1,8 @@
 ---
-title: Top 10 Mobile Internet Trends and 6 Key Takeaways
+title: "Top 10 Mobile Internet Trends and 6 Key Takeaways"
+layout: post
 date: 2011-02-21T12:00:37+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Mobile software development and digital multimedia production will rapidly increase. They'll customers, employees, partners, and other stakeholders.
 categories:

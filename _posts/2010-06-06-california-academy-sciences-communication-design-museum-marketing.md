@@ -1,8 +1,8 @@
 ---
-title: The 4th R&#58; Reinvention and Your Sustainable Brand &#8211; California Academy of Sciences
+title: "The 4th R: Reinvention and Your Sustainable Brand: California Academy of Sciences"
+layout: post
 date: 2010-06-06T11:00:44+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

@@ -1,8 +1,8 @@
 ---
-title: Goodworks Blog Launched by Advertising Age
+title: "Goodworks Blog Launched by Advertising Age"
+layout: post
 date: 2009-04-02T04:10:44+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - 'goodworks, cause marketing, sustainable communications, environmental marketing, advertising age, journalism '
 description:

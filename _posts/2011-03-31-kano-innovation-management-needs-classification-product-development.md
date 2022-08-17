@@ -1,8 +1,8 @@
 ---
-title: Kano&#58; Managing Innovation through Needs Classification
+title: "Kano: Managing Innovation through Needs Classification"
+layout: post
 date: 2011-03-31T12:07:11+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - innovation
   - new product development

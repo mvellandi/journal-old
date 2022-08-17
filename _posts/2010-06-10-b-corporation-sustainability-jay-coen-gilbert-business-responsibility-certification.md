@@ -1,8 +1,8 @@
 ---
-title: B Corporations&#58; Using the Power of Business to Solve Social &#038; Environmental Problems
+title: "B Corporations: Using the Power of Business to Solve Social & Environmental Problems"
+layout: post
 date: 2010-06-10T11:00:20+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - corporate social responsibility
   - management

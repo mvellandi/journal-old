@@ -1,8 +1,8 @@
 ---
-title: Essential Advice for Producing Better Video
+title: "Essential Advice for Producing Better Video"
+layout: post
 date: 2011-06-17T14:00:55+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

@@ -1,8 +1,8 @@
 ---
-title: 9 Traits of Successful Innovators
+title: "9 Traits of Successful Innovators"
+layout: post
 date: 2009-04-20T02:42:50+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - innovation, leadership, character, traits, attributes, management, infographic, illustration, entrepreneurship
 description:

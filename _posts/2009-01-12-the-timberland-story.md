@@ -1,8 +1,8 @@
 ---
-title: The Timberland Story
+title: "The Timberland Story"
+layout: post
 date: 2009-01-12T04:23:12+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, green business, timberland, boots, jeffrey swartz, marketing, communications, csr, social responsibility
 description:

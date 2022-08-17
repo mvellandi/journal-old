@@ -1,8 +1,8 @@
 ---
-title: Transform Audiences with Presentations that Resonate &#8211; Nancy Duarte
+title: "Transform Audiences with Presentations that Resonate: Nancy Duarte"
+layout: post
 date: 2011-04-21T12:07:38+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
 tags:

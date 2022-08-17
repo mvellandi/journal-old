@@ -1,8 +1,8 @@
 ---
-title: Effective Brand and Portfolio Management
+title: "Effective Brand and Portfolio Management"
+layout: post
 date: 2008-02-14T14:22:17+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - brand management, portfolio management, business analysis, product performance, business unit, capital allocation, innovation
 description:

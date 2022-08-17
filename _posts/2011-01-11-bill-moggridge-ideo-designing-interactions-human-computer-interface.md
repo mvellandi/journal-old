@@ -1,8 +1,8 @@
 ---
-title: Designing Interactions &#8211; Bill Moggridge of IDEO
+title: "Designing Interactions: Bill Moggridge of IDEO"
+layout: post
 date: 2011-01-11T09:00:19+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Bill reviews Designing Interactions, a compilation of 37 interviews with interaction designers that gives a multi-perspective, historical account of HCI.
 categories:

@@ -1,8 +1,8 @@
 ---
-title: Inventing the Future of Management - Gary Hamel 2008 Conference Summary
+title: "Inventing the Future of Management - Gary Hamel 2008 Conference Summary"
+layout: post
 date: 2008-08-16T19:49:52+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - management, innovation, gary hamel, conference, systems design, academic, leadership, challenge, change, engagement
 description:

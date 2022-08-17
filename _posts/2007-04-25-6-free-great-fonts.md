@@ -1,8 +1,8 @@
 ---
-title: 6 Free Great Fonts
+title: "6 Free Great Fonts"
+layout: post
 date: 2007-04-25T00:25:53+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
 tags:

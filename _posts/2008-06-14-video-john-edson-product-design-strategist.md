@@ -1,8 +1,8 @@
 ---
-title: Sustainable Product Designer - John Edson
+title: "Sustainable Product Designer - John Edson"
+layout: post
 date: 2008-06-14T21:12:49+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - green design, product design, green product development, sustainable brands 2008, lunar design, interview, john edson, sustainable brand strategy, insight, maslow
 description:

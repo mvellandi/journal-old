@@ -1,8 +1,8 @@
 ---
-title: PUMA&#8217;s Clever Little Bag
+title: "PUMA’s Clever Little Bag"
+layout: post
 date: 2011-06-11T14:00:45+00:00
 author: Mario Vellandi
-layout: post
 description:
   - PUMA’s innovative packaging will reduce the paper used for shoeboxes; remaining packaging materials used will be fully sustainable by 2015
 categories:

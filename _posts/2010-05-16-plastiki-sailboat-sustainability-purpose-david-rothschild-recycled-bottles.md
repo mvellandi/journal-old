@@ -1,8 +1,8 @@
 ---
-title: Plastiki&#58; Sailboat Designed for Sustainability &#038; Purpose
+title: "Plastiki: Sailboat Designed for Sustainability and Purpose"
+layout: post
 date: 2010-05-16T12:00:12+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - research
   - sustainability

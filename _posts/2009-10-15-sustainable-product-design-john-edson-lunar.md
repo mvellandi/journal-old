@@ -1,8 +1,8 @@
 ---
-title: Multi-Dimensional &#038; Sustainable Product Design, by John Edson
+title: "Multi-Dimensional and Sustainable Product Design, by John Edson"
+layout: post
 date: 2009-10-15T00:26:40+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - design
   - sustainability

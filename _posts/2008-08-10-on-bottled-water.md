@@ -1,8 +1,8 @@
 ---
-title: Bottled Water, Sustainability, Aquafina - The Real Issues at Hand
+title: "Bottled Water, Sustainability, Aquafina - The Real Issues at Hand"
+layout: post
 date: 2008-08-10T16:21:19+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - value proposition, carbon offsetting, private label, environment, aquafina, water brands, sustainability, marketing, bottled water marketing, PET
 description:

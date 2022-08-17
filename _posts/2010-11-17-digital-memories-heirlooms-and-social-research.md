@@ -1,8 +1,8 @@
 ---
-title: Digital Memories, Heirlooms, and Social Research
+title: "Digital Memories, Heirlooms, and Social Research"
+layout: post
 date: 2010-11-17T09:00:46+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - design

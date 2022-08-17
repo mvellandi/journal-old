@@ -1,8 +1,8 @@
 ---
-title: ChangeMaker&#58; Lee Fox and Bringing Sustainability to Children
+title: "ChangeMaker: Lee Fox and Bringing Sustainability to Children"
+layout: post
 date: 2010-05-19T12:00:23+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - marketing
   - sustainability

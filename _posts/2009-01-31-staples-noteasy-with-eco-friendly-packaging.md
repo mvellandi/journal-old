@@ -1,8 +1,8 @@
 ---
-title: Staples Needs Help With Eco-Friendly Order Packing
+title: "Staples Needs Help With Eco-Friendly Order Packing"
+layout: post
 date: 2009-01-31T05:36:46+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - staples, sustainable retail, unsustainable, packaging, dennis salazar, recycled cardboard, customer order, shipping
 description:
@@ -21,7 +21,7 @@ I realize I am negatively paraphrasing their marketing slogan but the change is 
 
 ### Complainants Exhibit A and B
 
-<img class="alignleft size-full wp-image-1268" style="margin:5px 20px 10px 0; float: left;" title="staples-order-overpackaged" src="../images/wp-content/uploads/2009/01/staples-order-overpackaged-300x225.jpg" alt="staples-order-overpackaged" width="300" height="225" />The photo here shows the three items we ordered whose combined volume is 582 square inches. The box they used was a 16” X 10.5” X12.25” high, which provides 2,058 square inches of packing space. Because the box was almost four times larger than it had to be, 600 (un-inflated) square inches of an inflatable void fill product had to be used to fill the oversized void.  Before you think this is just another story of a packer using the wrong box to fill an order, the green “wanna be” picture gets much worse for Staples.
+<img class="alignleft size-full wp-image-1268" style="margin:5px 20px 10px 0; float: left;" title="staples-order-overpackaged" src="/images/2009/staples-order-overpackaged-300x225.jpg" alt="staples-order-overpackaged" width="300" height="225" />The photo here shows the three items we ordered whose combined volume is 582 square inches. The box they used was a 16” X 10.5” X12.25” high, which provides 2,058 square inches of packing space. Because the box was almost four times larger than it had to be, 600 (un-inflated) square inches of an inflatable void fill product had to be used to fill the oversized void.  Before you think this is just another story of a packer using the wrong box to fill an order, the green “wanna be” picture gets much worse for Staples.
 
 ### “Upon further review”
 
@@ -41,4 +41,4 @@ I hate picking on any company, especially one I genuinely like but I think this 
 
 &#8211; &#8211; &#8211;
 
-<img class="alignleft size-full wp-image-1267" style="margin:5px 20px 10px 0; float: left;" title="dennis salazar photo" src="../images/wp-content/uploads/2009/01/dennissalazar.jpg" alt="dennis salazar" width="150" height="150" />Dennis Salazar is the president of [Salazar Packaging Inc.](http://www.salazarpackaging.com/), a certified MBE (Minority Business Enterprise) company specializing in flexible packaging products, equipment and solutions. After over thirty years in plastic film sales, he is the self-proclaimed, “Senor Shrink” of the industry and is known for his tongue in cheek sense of humor as well as his flexible packaging expertise.
+<img class="alignleft size-full wp-image-1267" style="margin:5px 20px 10px 0; float: left;" title="dennis salazar photo" src="/images/2009/dennissalazar.jpg" alt="dennis salazar" width="150" height="150" />Dennis Salazar is the president of [Salazar Packaging Inc.](http://www.salazarpackaging.com/), a certified MBE (Minority Business Enterprise) company specializing in flexible packaging products, equipment and solutions. After over thirty years in plastic film sales, he is the self-proclaimed, “Senor Shrink” of the industry and is known for his tongue in cheek sense of humor as well as his flexible packaging expertise.

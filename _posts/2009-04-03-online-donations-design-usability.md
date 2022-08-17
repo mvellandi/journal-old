@@ -1,8 +1,8 @@
 ---
-title: Increasing Online Donations&#58; Design & Usability - Jakob Nielsen
+title: "Increasing Online Donations: Design & Usability - Jakob Nielsen"
+layout: post
 date: 2009-04-03T05:15:55+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - donations, online marketing, charity, nonprofit, web design, usability, site integration, research, communication, analysis, jakob nielsen
 description:

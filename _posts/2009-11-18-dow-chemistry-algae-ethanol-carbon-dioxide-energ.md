@@ -1,8 +1,8 @@
 ---
-title: Dow Chemical to Convert CO2 to Ethanol with Algae
+title: "Dow Chemical to Convert CO2 to Ethanol with Algae"
+layout: post
 date: 2009-11-18T23:59:45+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - communication
   - innovation

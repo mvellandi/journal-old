@@ -1,8 +1,8 @@
 ---
-title: Plastics Recycling Innovation
+title: "Plastics Recycling Innovation"
+layout: post
 date: 2009-01-20T06:21:07+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, recycling, plastic, polyethylene, hdpe, polystyrene, pvc, polycarbonate, innovation, mrf
 description:

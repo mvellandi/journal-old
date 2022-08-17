@@ -1,8 +1,8 @@
 ---
-title: The Secret - Unleashed and Exposed
+title: "The Secret - Unleashed and Exposed"
+layout: post
 date: 2007-04-05T13:38:51+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - book, philosophy, the secret, video, review, happiness
 description:

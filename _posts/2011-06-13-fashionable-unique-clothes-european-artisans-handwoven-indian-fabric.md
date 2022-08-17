@@ -1,8 +1,8 @@
 ---
-title: Fashionable, Unique Clothes from European Designers and Handwoven Indian Fabric
+title: "Fashionable, Unique Clothes from European Designers and Handwoven Indian Fabric"
+layout: post
 date: 2011-06-13T17:00:50+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Viable alternative to the Banana Republics and other middle to high-end clothing brands and their associated 3rd party textile manufacturing partners abroad
 categories:

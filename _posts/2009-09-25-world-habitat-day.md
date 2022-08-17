@@ -1,8 +1,8 @@
 ---
-title: World Habitat Day
+title: "World Habitat Day"
+layout: post
 date: 2009-09-25T11:24:13+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - intermezzo
 tags:

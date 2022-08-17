@@ -1,8 +1,8 @@
 ---
-title: Sustainable Design with Françoise Serralta
+title: "Sustainable Design with Françoise Serralta"
+layout: post
 date: 2008-11-15T16:45:11+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - sustainability, sustainable design, idsa, presentation, biomimicry, lazy, pragmatism, application
 description:

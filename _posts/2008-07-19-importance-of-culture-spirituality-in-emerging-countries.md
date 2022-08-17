@@ -1,8 +1,8 @@
 ---
-title: Culture and Spirituality in Developing Nations - A Study
+title: "Culture and Spirituality in Developing Nations - A Study"
+layout: post
 date: 2008-07-19T19:20:47+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - culture, religion, social responsibility, sociology, international management, research, attitudes, beliefs
 description:

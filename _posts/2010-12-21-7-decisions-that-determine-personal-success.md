@@ -1,8 +1,8 @@
 ---
-title: 7 Decisions that Determine Personal Success
+title: "7 Decisions that Determine Personal Success"
+layout: post
 date: 2010-12-21T09:00:31+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - enlightenment

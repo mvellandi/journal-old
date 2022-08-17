@@ -1,8 +1,8 @@
 ---
-title: The Green Song
+title: "The Green Song"
+layout: post
 date: 2008-09-14T15:12:59+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - mtv, switch, climate change, greenwash, greenwashing, culture, society, marketing, lifestyle, values
 description:

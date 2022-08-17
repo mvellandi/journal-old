@@ -1,8 +1,8 @@
 ---
-title: Natural Resource Depletion - Richard Heinberg
+title: "Natural Resource Depletion - Richard Heinberg"
+layout: post
 date: 2009-01-25T14:44:29+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - natural capitalism, richard heinberg, resource depletion, sustainability, economics, oil, energy, society, lecture
 description:

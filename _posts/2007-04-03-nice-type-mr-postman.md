@@ -1,8 +1,8 @@
 ---
-title: 3D Slab Serif - Balboa Post Office
+title: "3D Slab Serif - Balboa Post Office"
+layout: post
 date: 2007-04-03T18:10:02+00:00
 author: Mario Vellandi
-layout: post
 keywords:
   - slab serif, signage, 3d, balboa island, post office, california, photo, serif, hand painted
 description:

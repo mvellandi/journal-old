@@ -1,8 +1,8 @@
 ---
-title: War Lessons from George Patton Applied to Business Management
+title: "War Lessons from George Patton Applied to Business Management"
+layout: post
 date: 2011-03-26T12:07:27+00:00
 author: Mario Vellandi
-layout: post
 description:
   - Lessons from George Patton. The cut-throat, militaristic style of business management that takes no prisoners and pursues supremacy has some merit, but take a middle path
 categories:
@@ -16,7 +16,7 @@ tags:
   - mediocrity
   - war
 ---
-[<img src="../images/wp-content/uploads/2011/03/george-patton-general-military-204x300.jpg" />](../wp-content/uploads/2011/03/george-patton-general-military.jpg)Not knowing much about U.S. General George Patton, except being a controversial figure, I decided to watch [the 1970 film about his service in World War II](http://www.imdb.com/title/tt0066206/), played by George C. Scott. Afterwards, I read the [Wikipedia article](http://en.wikipedia.org/wiki/George_Patton) which gave further details about his character and additional experiences during the war. An inspirational figure to say the least!
+[<img src="/images/2011/george-patton-general-military-204x300.jpg" />](../2011/george-patton-general-military.jpg)Not knowing much about U.S. General George Patton, except being a controversial figure, I decided to watch [the 1970 film about his service in World War II](http://www.imdb.com/title/tt0066206/), played by George C. Scott. Afterwards, I read the [Wikipedia article](http://en.wikipedia.org/wiki/George_Patton) which gave further details about his character and additional experiences during the war. An inspirational figure to say the least!
 
 Based on my passion for sustainability, objectivity, and a &#8220;middle path&#8221; in enterprise growth & effectiveness, allow me to relish in some greater perspective.
 

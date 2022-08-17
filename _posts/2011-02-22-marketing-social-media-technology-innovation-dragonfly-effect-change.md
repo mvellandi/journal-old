@@ -1,8 +1,8 @@
 ---
-title: Applied Marketing for Social Innovation&#58; The Sameer and Vinay Story
+title: "Applied Marketing for Social Innovation: The Sameer and Vinay Story"
+layout: post
 date: 2011-02-22T14:37:03+00:00
 author: Mario Vellandi
-layout: post
 categories:
   - books
   - communication

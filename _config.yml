@@ -18,15 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Journal - Mario Vellandi
-email: mvellandi@hotmail.com
+title: "(Old) Journal: 2006-2016"
+# email: 
 description: Writings on web development, design, and all things past
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000" # the base hostname & protocol for your site
 twitter_username: servusmario
 github_username:  mvellandi
 
 paginate: 20
+host: 192.168.178.122
+port: 4000
 
 # Build settings
 theme: minima

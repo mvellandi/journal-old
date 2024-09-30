@@ -17,20 +17,33 @@ layout: default
     </div>
   </div>
 
-  <h1 class="page-heading" style="margin-top: 3rem;">Posts</h1>
+  <h1 class="page-heading" style="margin-top: -3rem; margin-left: -9999px">Old Journal by Mario Vellandi</h1>
+  <div style="display: flex; gap: 1.8rem; margin-top: 3rem; margin-bottom: 2rem;">
+    <h2 class="view-list all-posts">All Posts</h2>
+    <h2 class="view-list all-categories"><a href="categories">All 618 Posts by 14 Categories</a></h2>
+  </div>
 
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
+        <h2 class="post-title">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        {% if post.categories %}
+          <p class="post-categories">
+            Categories: 
+            {% for category in post.categories %}
+              <a href="{{ site.baseurl }}/categories/#{{ category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+          </p>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    <p class="categories-link">Browse by <a href="{{ "/categories/" | prepend: site.baseurl }}">Categories</a></p>
+
 
 </div>

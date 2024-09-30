@@ -252,7 +252,7 @@
 }
 
 .page-heading {
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .post-list {
@@ -264,9 +264,36 @@
     }
 }
 
+.view-list {
+    border: 1px solid rgb(42, 102, 116);
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: rgb(42, 102, 116);
+    text-decoration: none;
+}
+
+.all-posts {
+    background-color: none;
+}
+
+.all-categories {
+    background-color: rgb(42, 102, 116);
+    
+    > a {
+        color: white;
+        letter-spacing: 0.08rem;
+    }
+}
+
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+}
+
+.post-list .post-title {
+    margin-bottom: 0.4rem;
 }
 
 .post-link {
@@ -274,6 +301,23 @@
     font-size: 24px;
 }
 
+.underline-effect {
+    position: relative;
+    text-decoration: none;
+}
+
+.underline-effect::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+    /* Adjust this value to increase/decrease space */
+    width: 100%;
+    height: 4px;
+    /* Adjust thickness as needed */
+    background-color: currentColor;
+    /* Uses the current text color */
+}
 
 
 /**

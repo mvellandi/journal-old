@@ -1,0 +1,51 @@
+---
+layout: page
+title: Categories
+permalink: /categories/
+---
+
+<ul id="categories" style="scroll-margin-top: 150px">
+  {% for category in site.categories %}
+  <li>
+    <a href="#{{ category[0] | slugify }}" style="font-size: 1.1rem"
+      >{{ category[0] | capitalize }} ({{ category[1] | size }})</a
+    >
+  </li>
+  {% endfor %}
+</ul>
+
+<div class="categories-page">
+  {% for category in site.categories %}
+  <div
+    style="
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
+      gap: 1.8rem;
+      border: 2px solid #94a7c4;
+      background-color: #dae7fc;
+      padding: 0.6rem 1.1rem 0.3rem 1.1rem;
+      margin-bottom: 1rem;
+      margin-top: 3rem;
+    "
+  >
+    <h2
+      id="{{ category[0] | slugify }}"
+      style="display: inline; margin: 0; scroll-margin-top: 1.5rem"
+    >
+      {{ category[0] | capitalize }}
+    </h2>
+    <span style="font-size: 1.1rem; margin-bottom: 0.4rem"
+      ><a href="#categories" style="color: #0048b4">all categories</a></span
+    >
+  </div>
+  <ul>
+    {% for post in category[1] %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</div>
